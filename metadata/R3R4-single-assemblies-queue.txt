@@ -1,0 +1,3 @@
+Reactor34	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor34.cleaned.fastq
+Reactor3	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor3.cleaned.fastq
+Reactor4	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor4.cleaned.fastq

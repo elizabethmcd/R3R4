@@ -1,0 +1,4 @@
+[
+ {orientation: "fr", type: "paired-end", interlaced reads: ["/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor3.cleaned.fastq","/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor4.cleaned.fastq","/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/cleaned_fastqs/EBPRWIReactor34.cleaned.fastq"]
+ }
+]

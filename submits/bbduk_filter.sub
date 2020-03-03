@@ -1,0 +1,17 @@
+##################
+# fastp_filter.sub 
+# Submission script for filtering metagenomic sequences with fastp
+# Elizabeth McDaniel
+##################
+
+request_cpus = 4
+request_memory = 10GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/bbduk_filter.sh
+arguments = $(in) $(out)
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/$(sample)_bbfilter.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/$(sample)_bbfilter.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/$(sample)_bbfilter.log
+
+queue in,out from metadata/R3R4-raw-metagenomes.txt

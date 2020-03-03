@@ -1,0 +1,15 @@
+#####################
+# Coassemble metagenomic samples using metahit
+# Elizabeth McDaniel 
+#####################
+
+request_cpus = 16
+request_memory = 600GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/spades_coassembly.sh
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/spades_coassembly.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/spades_coassembly.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/spades_coassembly.log
+
+queue

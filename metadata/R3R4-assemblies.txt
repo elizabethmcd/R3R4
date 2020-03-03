@@ -1,0 +1,4 @@
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/assemblies/all_assemblies/Reactor34_contigs.fasta
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/assemblies/all_assemblies/Reactor3_contigs.fasta
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/assemblies/all_assemblies/Reactor4_contigs.fasta
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/assemblies/all_assemblies/spades-coassembly_contigs.fasta

@@ -1,0 +1,3 @@
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/raw_reads/EBPRWIReactor34.fastq	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/qced_reads/EBPRWIReactor34.cleaned.fastq
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/raw_reads/EBPRWIReactor3.fastq	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/qced_reads/EBPRWIReactor3.cleaned.fastq
+/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/raw_reads/EBPRWIReactor4.fastq	/home/GLBRCORG/emcdaniel/EBPR/R3R4/metagenomes/qced_reads/EBPRWIReactor4.cleaned.fastq

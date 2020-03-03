@@ -1,0 +1,17 @@
+##################
+# metabat_binning.sub
+# Submission script for binning on GLBRC with MetaBat
+# Elizabeth McDaniel
+##################
+
+request_cpus = 4
+request_memory = 5GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/binning-metabat.sh
+arguments = $(ASSEMB)
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/$(Cluster)_$(Process)_binning.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/$(Cluster)_$(Process)_binning.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/$(Cluster)_$(Process)_binning.log
+
+queue ASSEMB from /home/GLBRCORG/emcdaniel/EBPR/R3R4/metadata/R3R4-assemblies.txt

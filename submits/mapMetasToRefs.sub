@@ -1,0 +1,17 @@
+################
+# mapMetasToRefs.sub
+# Submission script for mapping metagenomic reads to a ref genome or assembly
+# Elizabeth McDaniel
+
+
+request_cpus = 6
+request_memory = 10GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/mapMetasToRefs.sh
+arguments = $(ref) $(meta) $(out)
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/$(Cluster)_$(Process)_mapping.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/$(Cluster)_$(Process)_mapping.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/$(Cluster)_$(Process)_mapping.log
+
+queue ref,meta,out from /home/GLBRCORG/emcdaniel/EBPR/R3R4/metadata/R3R4-mapping-combos.txt

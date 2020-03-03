@@ -1,0 +1,16 @@
+######################
+# Queue single assemblies with SPAdes on WEI GLBRC
+# Elizabeth McDaniel
+######################
+
+request_cpus = 16
+request_memory = 300GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/single_assembly.sh
+arguments = $(sample) $(metagenome)
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/$(sample)_assemble.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/$(sample)_assemble.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/$(sample)_assemble.log
+
+queue sample,metagenome from metadata/R3R4-single-assemblies-queue.txt
