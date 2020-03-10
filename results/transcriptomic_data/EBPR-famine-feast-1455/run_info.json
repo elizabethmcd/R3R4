@@ -1,0 +1,13 @@
+{
+	"n_targets": 17490,
+	"n_bootstraps": 0,
+	"n_processed": 36094453,
+	"n_pseudoaligned": 10989185,
+	"n_unique": 10883650,
+	"p_pseudoaligned": 30.4,
+	"p_unique": 30.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Tue Mar  3 16:09:44 2020",
+	"call": "kallisto quant -i ../refs/R3R4-accumulibacter -o EBPR-famine-feast-1455 EBPR-famine_feast-1455_GGCTAC_L003_R1_001.fastq EBPR-famine_feast-1455_GGCTAC_L003_R2_001.fastq"
+}

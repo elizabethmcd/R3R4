@@ -1,0 +1,7 @@
+EBPR-famine_feast-1045_ACAGTG_L003_R1_001.fastq	EBPR-famine_feast-1045_ACAGTG_L003_R2_001.fastq	EBPR-famine-feast-1045
+EBPR-famine_feast-1116_GCCAAT_L003_R1_001.fastq	EBPR-famine_feast-1116_GCCAAT_L003_R2_001.fastq	EBPR-famine-feast-1116
+EBPR-famine_feast-1155_CAGATC_L003_R1_001.fastq	EBPR-famine_feast-1155_CAGATC_L003_R2_001.fastq	EBPR-famine-feast-1155
+EBPR-famine_feast-1240_ACTTGA_L003_R1_001.fastq	EBPR-famine_feast-1240_ACTTGA_L003_R2_001.fastq	EBPR-famine-feast-1240
+EBPR-famine_feast-1315_GATCAG_L003_R1_001.fastq	EBPR-famine_feast-1315_GATCAG_L003_R2_001.fastq	EBPR-famine-feast-1315
+EBPR-famine_feast-1355_TAGCTT_L003_R1_001.fastq	EBPR-famine_feast-1355_TAGCTT_L003_R2_001.fastq	EBPR-famine-feast-1355
+EBPR-famine_feast-1455_GGCTAC_L003_R1_001.fastq	EBPR-famine_feast-1455_GGCTAC_L003_R2_001.fastq	EBPR-famine-feast-1455

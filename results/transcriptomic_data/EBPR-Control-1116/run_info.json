@@ -1,0 +1,13 @@
+{
+	"n_targets": 17490,
+	"n_bootstraps": 0,
+	"n_processed": 32437715,
+	"n_pseudoaligned": 9544576,
+	"n_unique": 9435950,
+	"p_pseudoaligned": 29.4,
+	"p_unique": 29.1,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Tue Mar  3 14:54:51 2020",
+	"call": "kallisto quant -i ../refs/R3R4-accumulibacter -o EBPR-Control-1116 EBPR-Control-1116_GTGGCC_L005_R1_001.fastq EBPR-Control-1116_GTGGCC_L005_R2_001.fastq"
+}
