@@ -4,7 +4,7 @@ library(tximportData)
 library(DESeq2)
 library(tidyverse)
 library(genefilter)
-library(pheatmap)
+library(superheat)
 
 # Directory and files setup
 dir <- "results/transcriptomic_data"
@@ -104,3 +104,4 @@ mat <- assay(rld)[ topVarGenes, ]
 mat <- mat - rowMeans(mat)
 df <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
 pheatmap(mat, annotation_col = df, drop_levels = TRUE)
+

@@ -1,6 +1,12 @@
+*.icloud
+.RData
+.Rhistory
+*.Rproj
+.DS_Store
 logs/
 errs/
 outs/
 assemblies/
 metagenomes/
 transcriptomes/
+.Rproj.user

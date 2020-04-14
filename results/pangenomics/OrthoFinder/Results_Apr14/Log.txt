@@ -1,0 +1,19 @@
+2020-04-14 11:28:28 : Started OrthoFinder version 2.3.11
+Command Line: /Users/emcdaniel/anaconda3/bin/orthofinder -f pangenomics/
+
+WorkingDirectory_Base: /Users/emcdaniel/Desktop/McMahon-Lab/EBPR-Projects/R3R4/pangenomics/OrthoFinder/Results_Apr14/WorkingDirectory/
+
+Species used: 
+0: 2506520024.faa
+1: 2687453699.faa
+2: 2767802316.faa
+3: 2767802455.faa
+4: 644736333.faa
+5: GCA_000310125.2.faa
+6: GCA_003332265.1.faa
+7: Reactor4-bin.4.faa
+8: spades-bin.32.faa
+
+FN_Orthogroups: /Users/emcdaniel/Desktop/McMahon-Lab/EBPR-Projects/R3R4/pangenomics/OrthoFinder/Results_Apr14/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /Users/emcdaniel/Desktop/McMahon-Lab/EBPR-Projects/R3R4/pangenomics/OrthoFinder/Results_Apr14/WorkingDirectory/
+2020-04-14 11:34:38 : OrthoFinder run completed
