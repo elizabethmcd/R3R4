@@ -55,7 +55,17 @@ normal$VSS_TSS <- normal$VSS / normal$TSS
 normal$P_VSS <- normal$P / normal$VSS
 normal$ace_VSS <- normal$Acetate / normal$VSS
 
-profile <- normal %>% ggplot(aes(x=Minutes)) + geom_line(aes(y=P_VSS), colour="#2BAEB3", size=2.5) + geom_line(aes(y=ace_VSS), colour="#FF6E3C", size=2.5) + scale_x_continuous(breaks=seq(0,280, by=50), expand=c(0,0)) + scale_y_continuous(breaks=seq(0, 0.20, by=0.04), expand=c(0,0)) + annotate(geom = "rect", xmin = 100, xmax = 280, ymin = 0, ymax = Inf, fill = "grey", alpha = 0.35) + geom_vline(xintercept=100, linetype="dotted", size=1) + theme_classic()
+profile <- normal %>% ggplot(aes(x=Minutes)) + geom_line(aes(y=P_VSS), colour="#2BAEB3", size=2.5) + geom_line(aes(y=ace_VSS), colour="#FF6E3C", size=2.5) + scale_x_continuous(breaks=seq(0,280, by=50), expand=c(0,0)) + scale_y_continuous(breaks=seq(0, 0.20, by=0.04), expand=c(0,0)) + geom_vline(xintercept=100, linetype="dotted", size=1) + theme_classic()
+
+profile_transparent <- profile +
+  theme(
+    panel.background = element_rect(fill = "transparent"), # bg of the panel
+    plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+    panel.grid.major = element_blank(), # get rid of major grid
+    panel.grid.minor = element_blank(), # get rid of minor grid
+    legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+    legend.box.background = element_rect(fill = "transparent") # get rid of legend panel bg
+  )
 
 # qPCR data
 
@@ -63,9 +73,12 @@ clades <- read.csv("metadata/R3R4-accumulibacter-clade-abundance-normal-cycle.cs
 
 clade_order <- c("IA", "IIC", "IIA")
 
-abundance <- clades %>% ggplot(aes(x=Clade, y=Mean, fill = as.factor(Clade))) + geom_bar(stat="identity") + scale_fill_manual(values=c("#2BAEB3", "#404272", "#FF6E3C")) + geom_errorbar(aes(ymin=(Mean - Dev), ymax=(Mean + Dev)), width=.3, position=position_dodge(1)) + scale_y_log10(limits=c(1,1e6), expand=c(0,0)) + scale_x_discrete(limits = clade_order) + theme_classic()
+abundance <- clades %>% ggplot(aes(x=Clade, y=Mean, fill = as.factor(Clade))) + geom_bar(stat="identity", colour="black", size=1) + scale_fill_manual(values=c("#2BAEB3", "#404272", "#FF6E3C")) + geom_errorbar(aes(ymin=(Mean - Dev), ymax=(Mean + Dev)), width=.3, position=position_dodge(1)) + scale_y_log10(limits=c(1,1e6), expand=c(0,0), breaks = scales::log_breaks(n=7) ) + scale_x_discrete(limits = clade_order) + theme_classic()
 
 # save plots
 
 ggsave(plot=profile, filename="figures/R3R4-EBPR-cycle-profile.png", width=10, height=5, units=c("in"))
-ggsave(plot=abundance, filename="figures/R3R4-accumulibacter-ppk1-abundance.png", width=10, height=10, units=c("in"))                                 
+
+ggsave(plot=abundance, filename="figures/R3R4-accumulibacter-ppk1-abundance.png", width=10, height=10, units=c("in"))      
+
+ggsave(plot= profile_transparent, filename="figures/R3R4-EBPR-cycle-profile-transparent.png", width=10, height=5, units=c("in"), bg="transparent")
