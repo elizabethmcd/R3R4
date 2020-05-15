@@ -1,0 +1,17 @@
+################
+# UW6-mapping.sub
+# Mapping metagenomic reads to UW6 genome 
+# Elizabeth McDaniel
+
+
+request_cpus = 6
+request_memory = 10GB
+
+executable = /home/GLBRCORG/emcdaniel/EBPR/R3R4/executables/UW6-mapping.sh
+arguments = $(ref) $(metagenome) $(out)
+
+output = /home/GLBRCORG/emcdaniel/EBPR/R3R4/outs/$(Cluster)_$(Process)_mapping.out
+error = /home/GLBRCORG/emcdaniel/EBPR/R3R4/errs/$(Cluster)_$(Process)_mapping.err
+log = /home/GLBRCORG/emcdaniel/EBPR/R3R4/logs/$(Cluster)_$(Process)_mapping.log
+
+queue ref,metagenome,out from /home/GLBRCORG/emcdaniel/EBPR/R3R4/metadata/UW6-mappingCombos.txt

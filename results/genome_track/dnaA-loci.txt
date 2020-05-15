@@ -1,0 +1,1 @@
+gnl|X|GNJGOIBN_1	Prodigal:2.6	CDS	25387	26808	.	+	0	ID=GNJGOIBN_00025;Parent=GNJGOIBN_00025_gene;Name=dnaA;db_xref=COG:COG0593;gene=dnaA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P03004;locus_tag=GNJGOIBN_00025;product=Chromosomal replication initiator protein DnaA;protein_id=gnl|X|GNJGOIBN_00025
