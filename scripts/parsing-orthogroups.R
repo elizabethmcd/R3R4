@@ -67,7 +67,7 @@ colnames(uw6_inclusive) <- c("Orthogroup", "locus_tag")
 # For UW4, get all genes that are in other clades but are missing in IIC
 uw4_inclusive <- orthogroups %>% 
   filter(is.na(Dechloromonas), is.na(Thauera), is.na(UW6)) %>% 
-  filter(!is.na(UW3), !is.na(UW4)) %>% 
+  filter(!is.na(UW4)) %>% 
   select(Orthogroup, UW4) %>% 
   separate_rows(UW4, sep=", ")
 colnames(uw4_inclusive) <- c("Orthogroup", "locus_tag")

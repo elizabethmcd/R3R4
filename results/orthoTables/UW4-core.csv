@@ -1,0 +1,176 @@
+orthogroup,locus_tag,KO,Kannotation,all_or_exp_core
+OG0000005,BBLLADNB_00354,K21023,diguanylate cyclase [EC:2.7.7.65] ,all 
+OG0000005,BBLLADNB_01889,K21023,diguanylate cyclase [EC:2.7.7.65] ,all 
+OG0000005,BBLLADNB_03261,K21023,diguanylate cyclase [EC:2.7.7.65] ,all 
+OG0000006,BBLLADNB_03015,K07497,putative transposase  ,exp
+OG0000006,BBLLADNB_03729,K07497,putative transposase  ,exp
+OG0000029,BBLLADNB_00560,K07487,transposase   ,all
+OG0000029,BBLLADNB_00560,K07481,transposase IS5 family,all
+OG0000054,BBLLADNB_00357,K00700,1 4-alpha-glucan branching enzyme [EC:2.4.1.18],all
+OG0000054,BBLLADNB_00370,K00700,1 4-alpha-glucan branching enzyme [EC:2.4.1.18],all
+OG0000054,BBLLADNB_01519,K00700,1 4-alpha-glucan branching enzyme [EC:2.4.1.18],all
+OG0000065,BBLLADNB_00863,K22468,polyphosphate kinase [EC:2.7.4.1] ,all
+OG0000065,BBLLADNB_02912,K22468,polyphosphate kinase [EC:2.7.4.1] ,all
+OG0000098,BBLLADNB_02037,K01130,arylsulfatase [EC:3.1.6.1]  ,all
+OG0000098,BBLLADNB_03088,K01130,arylsulfatase [EC:3.1.6.1]  ,all
+OG0000099,BBLLADNB_00371,K01214,isoamylase [EC:3.2.1.68]  ,all
+OG0000099,BBLLADNB_01516,K01214,isoamylase [EC:3.2.1.68]  ,all
+OG0000101,BBLLADNB_02965,K03321,sulfate permease SulP family,all
+OG0000161,BBLLADNB_01337,K00986,RNA-directed DNA polymerase [EC:2.7.7.49],exp
+OG0000161,BBLLADNB_02050,K00986,RNA-directed DNA polymerase [EC:2.7.7.49],exp
+OG0000208,BBLLADNB_01763,K07001,NTE family protein ,all
+OG0000288,BBLLADNB_00627,K09691,lipopolysaccharide transport system ATP-binding,exp
+OG0000294,BBLLADNB_00450,K06077,outer membrane lipoprotein SlyB,all
+OG0000294,BBLLADNB_01629,K06077,outer membrane lipoprotein SlyB,all
+OG0000590,BBLLADNB_01721,K07645,two-component system ompR family,all
+OG0000590,BBLLADNB_01721,K02484,two-component system ompR family,all
+OG0000593,BBLLADNB_01343,K03654,ATP-dependent DNA helicase RecQ,exp
+OG0000596,BBLLADNB_03416,K21498,antitoxin HigA-1  ,exp
+OG0001627,BBLLADNB_02014,K21023,diguanylate cyclase [EC:2.7.7.65] ,exp
+OG0001628,BBLLADNB_00975,K03821,polyhydroxyalkanoate synthase subunit PhaC,all
+OG0001631,BBLLADNB_00251,K21344,D-glycero-beta-D-manno-heptose-7-phosphate kinase [EC:2.7.1.167] ,all
+OG0001638,BBLLADNB_02464,K12132,eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1],exp
+OG0001638,BBLLADNB_02464,K08884,serine/threonine protein kinase,exp
+OG0001654,BBLLADNB_00201,K11904,type VI secretion system,all
+OG0001657,BBLLADNB_02828,K01153,type I restriction enzyme,exp
+OG0001959,BBLLADNB_01890,K13590,diguanylate cyclase [EC:2.7.7.65] ,all
+OG0001980,BBLLADNB_01787,K04758,ferrous iron transport protein,all
+OG0001981,BBLLADNB_02157,K07050,misacylated tRNA(Ala) deacylase [EC:3.1.1.-],all
+OG0001990,BBLLADNB_02863,K02017,molybdate transport system ATP-binding,all
+OG0001995,BBLLADNB_01875,K03699,putative hemolysin  ,all
+OG0001996,BBLLADNB_01876,K03699,putative hemolysin  ,all
+OG0002000,BBLLADNB_02232,K20074,PPM family protein phosphatase,all
+OG0002042,BBLLADNB_00953,K00612,carbamoyltransferase [EC:2.1.3.-]  ,all
+OG0002045,BBLLADNB_01118,K02342,DNA polymerase III subunit,all
+OG0002045,BBLLADNB_01118,K09951,CRISPR-associated protein Cas2 ,all
+OG0002046,BBLLADNB_01530,K07089,uncharacterized protein  ,all
+OG0002057,BBLLADNB_03417,K07334,toxin HigB-1  ,exp
+OG0002061,BBLLADNB_03224,K07220,uncharacterized protein  ,exp
+OG0002066,BBLLADNB_03447,K00705,4-alpha-glucanotransferase [EC:2.4.1.25]  ,exp
+OG0002079,BBLLADNB_01409,K07001,NTE family protein ,all
+OG0002080,BBLLADNB_01773,K02843,heptosyltransferase II [EC:2.4.-.-] ,all
+OG0002081,BBLLADNB_00823,K01624,fructose-bisphosphate aldolase,exp
+OG0002086,BBLLADNB_00443,K13924,two-component system,exp
+OG0002086,BBLLADNB_00443,K00575,chemotaxis protein methyltransferase CheR,exp
+OG0002087,BBLLADNB_03556,K14415,tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy,all
+OG0002100,BBLLADNB_02732,K06889,uncharacterized protein  ,all
+OG0002267,BBLLADNB_00518,K07028,uncharacterized protein  ,all
+OG0002272,BBLLADNB_00501,K07014,uncharacterized protein  ,all
+OG0002279,BBLLADNB_00928,K07304,peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11],all
+OG0002281,BBLLADNB_02419,K07043,uncharacterized protein  ,all
+OG0002282,BBLLADNB_02804,K06182,23S rRNA pseudouridine2604 synthase,all
+OG0002283,BBLLADNB_03865,K01104,protein-tyrosine phosphatase [EC:3.1.3.48] ,all
+OG0002284,BBLLADNB_03866,K01462,peptide deformylase [EC:3.5.1.88] ,all
+OG0002299,BBLLADNB_03606,K19156,antitoxin PrlF  ,exp
+OG0002305,BBLLADNB_02556,K01524,exopolyphosphatase / guanosine-5'-triphosphate 3'-diphosphate pyrophosphatase,all
+OG0002312,BBLLADNB_01670,K00631,glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15] ,all
+OG0002314,BBLLADNB_01331,K21345,D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase [EC:2.7.7.70],all
+OG0002325,BBLLADNB_00369,K00688,glycogen phosphorylase [EC:2.4.1.1] ,all
+OG0002326,BBLLADNB_01980,K02844,UDP-glucose:(heptosyl)LPS alpha-1 3-glucosyltransferase [EC:2.4.1.-] ,all
+OG0002327,BBLLADNB_01979,K02848,heptose I phosphotransferase [EC:2.7.1.-],all
+OG0002328,BBLLADNB_01977,K02848,heptose I phosphotransferase [EC:2.7.1.-],all
+OG0002331,BBLLADNB_01010,K02841,heptosyltransferase I [EC:2.4.-.-] ,all
+OG0002332,BBLLADNB_00571,K10680,N-ethylmaleimide reductase [EC:1.-.-.-] ,all
+OG0002337,BBLLADNB_02315,K02039,phosphate transport system protein,all
+OG0002338,BBLLADNB_02318,K02036,phosphate transport system ATP-binding,all
+OG0002340,BBLLADNB_02324,K07263,zinc protease [EC:3.4.24.-] ,all
+OG0002348,BBLLADNB_01961,K22900,tRNA (adenine37-N6)-methyltransferase [EC:2.1.1.-] ,all
+OG0002349,BBLLADNB_01963,K00275,pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5],all
+OG0002351,BBLLADNB_01913,K00239,succinate dehydrogenase / fumarate,all
+OG0002351,BBLLADNB_01913,K00244,fumarate reductase flavoprotein subunit,all
+OG0002352,BBLLADNB_01914,K00245,fumarate reductase iron-sulfur subunit,all
+OG0002352,BBLLADNB_01914,K00240,succinate dehydrogenase / fumarate,all
+OG0002352,BBLLADNB_01914,K00246,fumarate reductase subunit C,all
+OG0002354,BBLLADNB_01916,K00247,fumarate reductase subunit D,all
+OG0002355,BBLLADNB_01920,K02423,flagellar protein FliT ,all
+OG0002368,BBLLADNB_01633,K07001,NTE family protein ,all
+OG0002377,BBLLADNB_01842,K07220,uncharacterized protein  ,all
+OG0002379,BBLLADNB_02684,K20509,carboxybiotin decarboxylase [EC:7.2.4.1] ,all
+OG0002387,BBLLADNB_00964,K22881,polyhydroxyalkanoate synthase subunit PhaE,all
+OG0002388,BBLLADNB_00963,K03821,polyhydroxyalkanoate synthase subunit PhaC,all
+OG0002394,BBLLADNB_01188,K00170,pyruvate ferredoxin oxidoreductase beta,all
+OG0002395,BBLLADNB_01190,K00189,2-oxoisovalerate ferredoxin oxidoreductase gamma,all
+OG0002395,BBLLADNB_01190,K00172,pyruvate ferredoxin oxidoreductase gamma,all
+OG0002396,BBLLADNB_01191,K14449,2-methylfumaryl-CoA hydratase [EC:4.2.1.148] ,all
+OG0002397,BBLLADNB_01193,K14470,2-methylfumaryl-CoA isomerase [EC:5.4.1.3] ,all
+OG0002398,BBLLADNB_01194,K09709,3-methylfumaryl-CoA hydratase [EC:4.2.1.153] ,all
+OG0002400,BBLLADNB_01196,K14448,(2S)-methylsuccinyl-CoA dehydrogenase [EC:1.3.8.12] ,all
+OG0002401,BBLLADNB_01197,K14449,2-methylfumaryl-CoA hydratase [EC:4.2.1.148] ,all
+OG0002403,BBLLADNB_03562,K07588,LAO/AO transport system kinase,all
+OG0002404,BBLLADNB_03563,K14446,crotonyl-CoA carboxylase/reductase [EC:1.3.1.85] ,all
+OG0002405,BBLLADNB_03564,K00344,NADPH:quinone reductase [EC:1.6.5.5] ,all
+OG0002409,BBLLADNB_01111,K00635,diacylglycerol O-acyltransferase / wax,all
+OG0002410,BBLLADNB_01535,K01992,ABC-2 type transport system,exp
+OG0002410,BBLLADNB_01536,K01992,ABC-2 type transport system,exp
+OG0002419,BBLLADNB_00341,K09019,3-hydroxypropanoate dehydrogenase [EC:1.1.1.-] ,all
+OG0002423,BBLLADNB_02937,K00175,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit,all
+OG0002424,BBLLADNB_02936,K00174,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit,all
+OG0002431,BBLLADNB_02735,K00688,glycogen phosphorylase [EC:2.4.1.1] ,all
+OG0002433,BBLLADNB_02751,K08988,putative membrane protein ,all
+OG0002450,BBLLADNB_01219,K00703,starch synthase [EC:2.4.1.21] ,all
+OG0002451,BBLLADNB_01218,K00975,glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] ,all
+OG0002452,BBLLADNB_01217,K01835,phosphoglucomutase [EC:5.4.2.2]  ,all
+OG0002455,BBLLADNB_03221,K00873,pyruvate kinase [EC:2.7.1.40] ,all
+OG0002457,BBLLADNB_03485,K07034,uncharacterized protein  ,all
+OG0002458,BBLLADNB_03597,K13993,HSP20 family protein ,all
+OG0002459,BBLLADNB_03495,K03088,RNA polymerase sigma-70 factor,all
+OG0002463,BBLLADNB_03649,K12538,outer membrane protein protease,all
+OG0002463,BBLLADNB_03649,K12340,outer membrane protein ,all
+OG0002475,BBLLADNB_02216,K01620,threonine aldolase [EC:4.1.2.48] ,all
+OG0002476,BBLLADNB_00822,K00895,diphosphate-dependent phosphofructokinase [EC:2.7.1.90] ,all
+OG0002480,BBLLADNB_00453,K01681,aconitate hydratase [EC:4.2.1.3] ,all
+OG0002485,BBLLADNB_01461,K01720,2-methylcitrate dehydratase [EC:4.2.1.79] ,all
+OG0002486,BBLLADNB_01462,K01659,2-methylcitrate synthase [EC:2.3.3.5] ,all
+OG0002495,BBLLADNB_01412,K00635,diacylglycerol O-acyltransferase / wax,all
+OG0002515,BBLLADNB_00490,K03556,LuxR family transcriptional regulator,exp
+OG0002527,BBLLADNB_03613,K07497,putative transposase  ,exp
+OG0002632,BBLLADNB_01891,K13590,diguanylate cyclase [EC:2.7.7.65] ,exp
+OG0002632,BBLLADNB_01891,K07216,hemerythrin   ,exp
+OG0002638,BBLLADNB_03456,K14534,4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase,exp
+OG0002639,BBLLADNB_01095,K03699,putative hemolysin  ,exp
+OG0002652,BBLLADNB_03604,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1],exp
+OG0002653,BBLLADNB_02669,K18588,coenzyme Q-binding protein COQ10,exp
+OG0002660,BBLLADNB_00786,K14987,two-component system LuxR family,exp
+OG0002682,BBLLADNB_01023,K01338,ATP-dependent Lon protease [EC:3.4.21.53],exp
+OG0002687,BBLLADNB_02820,K04062,osmotically inducible lipoprotein OsmB,exp
+OG0002699,BBLLADNB_01127,K22278,peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104] ,exp
+OG0002712,BBLLADNB_02844,K05972,acetylxylan esterase [EC:3.1.1.72] ,exp
+OG0002712,BBLLADNB_02844,K03932,polyhydroxybutyrate depolymerase  ,exp
+OG0002713,BBLLADNB_00962,K00573,protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] ,exp
+OG0002731,BBLLADNB_02750,K06872,uncharacterized protein  ,exp
+OG0002737,BBLLADNB_03541,K00831,phosphoserine aminotransferase [EC:2.6.1.52] ,exp
+OG0002781,BBLLADNB_02496,K06867,uncharacterized protein  ,exp
+OG0002801,BBLLADNB_03598,K05516,curved DNA-binding protein ,exp
+OG0002802,BBLLADNB_03599,K18997,chaperone modulatory protein CbpM,exp
+OG0002812,BBLLADNB_00828,K01689,enolase [EC:4.2.1.11]  ,exp
+OG0002838,BBLLADNB_02981,K09803,uncharacterized protein  ,exp
+OG0002964,BBLLADNB_01740,K02456,general secretion pathway protein,exp
+OG0002965,BBLLADNB_01741,K02456,general secretion pathway protein,exp
+OG0002976,BBLLADNB_02853,K05367,penicillin-binding protein 1C [EC:2.4.1.129],exp
+OG0002988,BBLLADNB_02147,K03699,putative hemolysin  ,exp
+OG0002989,BBLLADNB_02146,K03699,putative hemolysin  ,exp
+OG0003006,BBLLADNB_00760,K07064,uncharacterized protein  ,exp
+OG0003009,BBLLADNB_02234,K01507,inorganic pyrophosphatase [EC:3.6.1.1] ,exp
+OG0003025,BBLLADNB_00329,K02671,type IV pilus assembly,exp
+OG0003026,BBLLADNB_00330,K08084,type IV fimbrial biogenesis,exp
+OG0003027,BBLLADNB_00332,K03832,periplasmic protein TonB ,exp
+OG0003028,BBLLADNB_01500,K03192,urease accessory protein ,exp
+OG0003055,BBLLADNB_03480,K11073,putrescine transport system substrate-binding,exp
+OG0003139,BBLLADNB_00175,K01185,lysozyme [EC:3.2.1.17]  ,exp
+OG0003330,BBLLADNB_02703,K13993,HSP20 family protein ,exp
+OG0003363,BBLLADNB_01517,K00975,glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] ,exp
+OG0003366,BBLLADNB_01391,K16074,zinc transporter  ,exp
+OG0003383,BBLLADNB_02663,K01154,type I restriction enzyme,exp
+OG0003640,BBLLADNB_01572,K00034,glucose 1-dehydrogenase [EC:1.1.1.47] ,exp
+OG0003640,BBLLADNB_01572,K00059,3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100],exp
+OG0003657,BBLLADNB_02418,K01153,type I restriction enzyme,exp
+OG0003660,BBLLADNB_03880,K07483,transposase   ,exp
+OG0003812,BBLLADNB_01429,K01673,carbonic anhydrase [EC:4.2.1.1] ,exp
+OG0003904,BBLLADNB_01173,K04757,serine/threonine-protein kinase RsbW [EC:2.7.11.1],exp
+OG0003906,BBLLADNB_01175,K01214,isoamylase [EC:3.2.1.68]  ,exp
+OG0003907,BBLLADNB_01178,K19055,Ala-tRNA(Pro) deacylase [EC:3.1.1.-] ,exp
+OG0003908,BBLLADNB_01179,K07315,phosphoserine phosphatase RsbU/P [EC:3.1.3.3],exp
+OG0003910,BBLLADNB_03397,K02030,polar amino acid transport,exp
+OG0004307,BBLLADNB_02181,K06919,putative DNA primase/helicase ,exp
+OG0005483,BBLLADNB_00942,K07487,transposase   ,exp
+OG0005536,BBLLADNB_03906,K07495,putative transposase  ,exp

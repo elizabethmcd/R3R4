@@ -1,0 +1,172 @@
+orthogroup,locus_tag,KO,Kannotation
+OG0000004,NHBDKAOG_01297,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_01367,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_01576,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_01576,K02488,two-component system, cell cycle
+OG0000004,NHBDKAOG_01582,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_01640,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_02641,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_03082,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000004,NHBDKAOG_03828,K07216,hemerythrin   
+OG0000004,NHBDKAOG_03874,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0000035,NHBDKAOG_01486,K01153,type I restriction enzyme,
+OG0000035,NHBDKAOG_02275,K01153,type I restriction enzyme,
+OG0000035,NHBDKAOG_02751,K01153,type I restriction enzyme,
+OG0000035,NHBDKAOG_04376,K01153,type I restriction enzyme,
+OG0000035,NHBDKAOG_04496,K01153,type I restriction enzyme,
+OG0000103,NHBDKAOG_00034,K01154,type I restriction enzyme,
+OG0000103,NHBDKAOG_02277,K01154,type I restriction enzyme,
+OG0000103,NHBDKAOG_04285,K01154,type I restriction enzyme,
+OG0000103,NHBDKAOG_04374,K01154,type I restriction enzyme,
+OG0000308,NHBDKAOG_00769,K03406,methyl-accepting chemotaxis protein 
+OG0000308,NHBDKAOG_01581,K03406,methyl-accepting chemotaxis protein 
+OG0000308,NHBDKAOG_01581,K07216,hemerythrin   
+OG0000308,NHBDKAOG_02102,K03406,methyl-accepting chemotaxis protein 
+OG0000308,NHBDKAOG_02489,K03406,methyl-accepting chemotaxis protein 
+OG0000308,NHBDKAOG_03024,K03406,methyl-accepting chemotaxis protein 
+OG0000308,NHBDKAOG_03083,K03406,methyl-accepting chemotaxis protein 
+OG0000600,NHBDKAOG_00026,K07486,transposase   
+OG0000601,NHBDKAOG_00203,K01406,serralysin [EC:3.4.24.40]  
+OG0000601,NHBDKAOG_01976,K01406,serralysin [EC:3.4.24.40]  
+OG0000601,NHBDKAOG_02366,K01406,serralysin [EC:3.4.24.40]  
+OG0002110,NHBDKAOG_02110,K20333,toxoflavin biosynthesis protein ToxD
+OG0002517,NHBDKAOG_04705,K07663,two-component system, OmpR family,
+OG0002787,NHBDKAOG_03928,K02007,cobalt/nickel transport system permease
+OG0002787,NHBDKAOG_03928,K02008,cobalt/nickel transport system permease
+OG0002794,NHBDKAOG_03025,K07807,uncharacterized protein  
+OG0002803,NHBDKAOG_04706,K07641,two-component system, OmpR family,
+OG0002806,NHBDKAOG_03589,K19135,CRISPR-associated protein Csx14 
+OG0002814,NHBDKAOG_01220,K02040,phosphate transport system substrate-binding
+OG0002814,NHBDKAOG_01588,K02040,phosphate transport system substrate-binding
+OG0002814,NHBDKAOG_02572,K02040,phosphate transport system substrate-binding
+OG0002836,NHBDKAOG_04872,K07497,putative transposase  
+OG0002839,NHBDKAOG_02963,K07492,putative transposase  
+OG0002839,NHBDKAOG_02964,K07492,putative transposase  
+OG0002839,NHBDKAOG_04686,K07492,putative transposase  
+OG0002839,NHBDKAOG_04736,K07492,putative transposase  
+OG0003099,NHBDKAOG_00773,K03406,methyl-accepting chemotaxis protein 
+OG0003099,NHBDKAOG_03885,K03406,methyl-accepting chemotaxis protein 
+OG0003099,NHBDKAOG_03885,K07216,hemerythrin   
+OG0003110,NHBDKAOG_02506,K03687,molecular chaperone GrpE 
+OG0003112,NHBDKAOG_03133,K05366,penicillin-binding protein 1A [EC:2.4.1.129
+OG0003119,NHBDKAOG_02932,K03969,phage shock protein A
+OG0003127,NHBDKAOG_03192,K07646,two-component system, OmpR family,
+OG0003128,NHBDKAOG_03193,K01548,potassium-transporting ATPase KdpC subunit
+OG0003129,NHBDKAOG_03194,K01547,potassium-transporting ATPase ATP-binding subunit
+OG0003130,NHBDKAOG_03195,K01546,potassium-transporting ATPase potassium-binding subunit
+OG0003134,NHBDKAOG_02678,K00180,indolepyruvate ferredoxin oxidoreductase, beta
+OG0003135,NHBDKAOG_02677,K00179,indolepyruvate ferredoxin oxidoreductase, alpha
+OG0003136,NHBDKAOG_02639,K01207,beta-N-acetylhexosaminidase [EC:3.2.1.52]  
+OG0003137,NHBDKAOG_02640,K06143,inner membrane protein 
+OG0003142,NHBDKAOG_03929,K02009,cobalt/nickel transport protein 
+OG0003146,NHBDKAOG_01076,K13924,two-component system, chemotaxis family,
+OG0003146,NHBDKAOG_01076,K00575,chemotaxis protein methyltransferase CheR
+OG0003146,NHBDKAOG_01076,K03412,two-component system, chemotaxis family,
+OG0003151,NHBDKAOG_02288,K09951,CRISPR-associated protein Cas2 
+OG0003157,NHBDKAOG_03572,K09181,acetyltransferase   
+OG0003170,NHBDKAOG_04482,K00981,phosphatidate cytidylyltransferase [EC:2.7.7.41] 
+OG0003174,NHBDKAOG_01200,K20034,3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] 
+OG0003174,NHBDKAOG_02098,K20034,3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] 
+OG0003174,NHBDKAOG_02098,K00666,fatty-acyl-CoA synthase [EC:6.2.1.-] 
+OG0003179,NHBDKAOG_01448,K03406,methyl-accepting chemotaxis protein 
+OG0003179,NHBDKAOG_01448,K07216,hemerythrin   
+OG0003183,NHBDKAOG_01051,K10804,acyl-CoA thioesterase I [EC:3.1.2.-
+OG0003199,NHBDKAOG_01285,K07486,transposase   
+OG0003199,NHBDKAOG_04762,K07486,transposase   
+OG0003208,NHBDKAOG_04373,K03427,type I restriction enzyme
+OG0003462,NHBDKAOG_03942,K02078,acyl carrier protein 
+OG0003463,NHBDKAOG_03940,K02078,acyl carrier protein 
+OG0003474,NHBDKAOG_02070,K01768,adenylate cyclase [EC:4.6.1.1] 
+OG0003477,NHBDKAOG_03511,K07075,uncharacterized protein  
+OG0003492,NHBDKAOG_03026,K08970,nickel/cobalt transporter (NicO) family
+OG0003495,NHBDKAOG_01377,K02825,pyrimidine operon attenuation protein
+OG0003499,NHBDKAOG_02290,K02226,alpha-ribazole phosphatase [EC:3.1.3.73] 
+OG0003519,NHBDKAOG_00948,K06896,maltose 6'-phosphate phosphatase [EC:3.1.3.90]
+OG0003525,NHBDKAOG_03931,K02006,cobalt/nickel transport system ATP-binding
+OG0003526,NHBDKAOG_03930,K02008,cobalt/nickel transport system permease
+OG0003527,NHBDKAOG_04078,K00882,1-phosphofructokinase [EC:2.7.1.56]  
+OG0003529,NHBDKAOG_02431,K09122,uncharacterized protein  
+OG0003544,NHBDKAOG_03585,K11530,(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase [EC:5.3.1.32] 
+OG0003553,NHBDKAOG_02547,K03406,methyl-accepting chemotaxis protein 
+OG0003553,NHBDKAOG_02547,K07216,hemerythrin   
+OG0003554,NHBDKAOG_04611,K02030,polar amino acid transport
+OG0003557,NHBDKAOG_01723,K02189,cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+OG0003558,NHBDKAOG_01722,K03394,precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]
+OG0003559,NHBDKAOG_01720,K02188,cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195] 
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+OG0003563,NHBDKAOG_02109,K03406,methyl-accepting chemotaxis protein 
+OG0003568,NHBDKAOG_02257,K01560,2-haloacid dehalogenase [EC:3.8.1.2] 
+OG0003580,NHBDKAOG_00960,K02006,cobalt/nickel transport system ATP-binding
+OG0003581,NHBDKAOG_00961,K02008,cobalt/nickel transport system permease
+OG0003582,NHBDKAOG_00962,K02007,cobalt/nickel transport system permease
+OG0003591,NHBDKAOG_02099,K06889,uncharacterized protein  
+OG0003593,NHBDKAOG_03114,K00799,glutathione S-transferase [EC:2.5.1.18] 
+OG0003599,NHBDKAOG_00341,K03924,MoxR-like ATPase [EC:3.6.3.-] 
+OG0003602,NHBDKAOG_00338,K06384,stage II sporulation protein
+OG0003604,NHBDKAOG_03699,K09125,uncharacterized protein  
+OG0003606,NHBDKAOG_03289,K09793,uncharacterized protein  
+OG0003610,NHBDKAOG_01951,K09667,protein O-GlcNAc transferase [EC:2.4.1.255]
+OG0003616,NHBDKAOG_00853,K03556,LuxR family transcriptional regulator,
+OG0003623,NHBDKAOG_03722,K00411,ubiquinol-cytochrome c reductase iron-sulfur
+OG0003658,NHBDKAOG_04107,K19789,DNA repair protein RadD
+OG0004002,NHBDKAOG_01665,K09983,uncharacterized protein  
+OG0004006,NHBDKAOG_03978,K18240,chorismate lyase / 3-hydroxybenzoate
+OG0004007,NHBDKAOG_03977,K07274,MipA family protein 
+OG0004017,NHBDKAOG_03947,K03634,outer membrane lipoprotein carrier
+OG0004037,NHBDKAOG_02171,K03424,TatD DNase family protein
+OG0004044,NHBDKAOG_03209,K02238,competence protein ComEC 
+OG0004052,NHBDKAOG_00406,K07080,uncharacterized protein  
+OG0004064,NHBDKAOG_02988,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1]
+OG0004068,NHBDKAOG_01346,K03478,chitin disaccharide deacetylase [EC:3.5.1.105]
+OG0004077,NHBDKAOG_02764,K03799,heat shock protein HtpX
+OG0004084,NHBDKAOG_02759,K02004,putative ABC transport system
+OG0004086,NHBDKAOG_04447,K07075,uncharacterized protein  
+OG0004088,NHBDKAOG_02736,K07667,two-component system, OmpR family,
+OG0004096,NHBDKAOG_03153,K14414,transcriptional regulatory protein RtcR
+OG0004098,NHBDKAOG_03148,K01974,RNA 3'-terminal phosphate cyclase
+OG0004126,NHBDKAOG_02575,K06880,erythromycin esterase [EC:3.1.1.-] 
+OG0004130,NHBDKAOG_01267,K07001,NTE family protein 
+OG0004131,NHBDKAOG_01811,K02655,type IV pilus assembly
+OG0004132,NHBDKAOG_01807,K02673,type IV pilus assembly
+OG0004133,NHBDKAOG_01806,K02674,type IV pilus assembly
+OG0004134,NHBDKAOG_01805,K03832,periplasmic protein TonB 
+OG0004135,NHBDKAOG_04591,K09456,putative acyl-CoA dehydrogenase 
+OG0004159,NHBDKAOG_01724,K02189,cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+OG0004161,NHBDKAOG_01670,K05795,tellurium resistance protein TerD
+OG0004177,NHBDKAOG_02387,K03566,LysR family transcriptional regulator,
+OG0004184,NHBDKAOG_00720,K01939,adenylosuccinate synthase [EC:6.3.4.4] 
+OG0004265,NHBDKAOG_00101,K19140,CRISPR-associated protein Csm5 
+OG0004266,NHBDKAOG_00102,K19139,CRISPR-associated protein Csm4 
+OG0004267,NHBDKAOG_00103,K09002,CRISPR-associated protein Csm3 
+OG0004268,NHBDKAOG_00104,K19138,CRISPR-associated protein Csm2 
+OG0004269,NHBDKAOG_00105,K07016,CRISPR-associated protein Csm1 
+OG0004282,NHBDKAOG_00305,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1]
+OG0004283,NHBDKAOG_00479,K07006,uncharacterized protein  
+OG0004286,NHBDKAOG_00725,K00763,nicotinate phosphoribosyltransferase [EC:6.3.4.21] 
+OG0004286,NHBDKAOG_01376,K00763,nicotinate phosphoribosyltransferase [EC:6.3.4.21] 
+OG0004288,NHBDKAOG_04403,K07316,adenine-specific DNA-methyltransferase [EC:2.1.1.72] 
+OG0004311,NHBDKAOG_02798,K02040,phosphate transport system substrate-binding
+OG0004319,NHBDKAOG_04063,K00645,[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] 
+OG0005362,NHBDKAOG_00118,K07486,transposase   
+OG0005362,NHBDKAOG_00548,K07486,transposase   
+OG0005373,NHBDKAOG_00304,K15773,HTH-type transcriptional regulator /
+OG0005378,NHBDKAOG_00433,K01154,type I restriction enzyme,
+OG0005378,NHBDKAOG_04498,K01154,type I restriction enzyme,
+OG0005384,NHBDKAOG_00664,K20509,carboxybiotin decarboxylase [EC:7.2.4.1] 
+OG0005386,NHBDKAOG_00695,K03893,arsenical pump membrane protein
+OG0005388,NHBDKAOG_00737,K16568,exopolysaccharide production protein ExoZ
+OG0005402,NHBDKAOG_01434,K09803,uncharacterized protein  
+OG0005402,NHBDKAOG_02600,K09803,uncharacterized protein  
+OG0005456,NHBDKAOG_02616,K07493,putative transposase  
+OG0005456,NHBDKAOG_02729,K07493,putative transposase  
+OG0005472,NHBDKAOG_03196,K01545,potassium-transporting ATPase KdpF subunit
+OG0005479,NHBDKAOG_03582,K19810,L-lysine 2,3-aminomutase [EC:5.4.3.-] 
+OG0005480,NHBDKAOG_03584,K04568,elongation factor P--(R)-beta-lysine ligase
+OG0005496,NHBDKAOG_04123,K20532,type IV secretion system
+OG0005497,NHBDKAOG_04124,K20267,type IV secretion system
+OG0005498,NHBDKAOG_04126,K20266,type IV secretion system
+OG0005500,NHBDKAOG_04128,K07344,type IV secretion system
+OG0005521,NHBDKAOG_04460,K09859,uncharacterized protein  
+OG0005521,NHBDKAOG_04474,K09859,uncharacterized protein  
+OG0005533,NHBDKAOG_04642,K22042,ArsR family transcriptional regulator,
+OG0005534,NHBDKAOG_04643,K07112,uncharacterized protein  

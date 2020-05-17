@@ -68,7 +68,7 @@ UW4_only_kegg <- left_join(UW4_only_ogs, uw4_kegg) %>%
 
 UW4_inclusive_ogs <- read.csv("results/orthoTables/2020-05-16-UW4-inclusive.csv")
 colnames(UW4_inclusive_ogs) <- c("orthogroup", "locus_tag")
-UW4_inclusive_prokka <- left_join(UW4_inclusive_ogs, uw4_prokka) %>% 
+UW4_inclusive_prokka <- left_join(UW4_inclusive_ogs, uw4_prokka) %>%
   select(orthogroup, locus_tag, product) %>% 
   filter(product != "hypothetical protein")
 UW4_inclusive_kegg <- left_join(UW4_inclusive_ogs, uw4_kegg) %>% 
@@ -95,3 +95,9 @@ UW6_inclusive_prokka <- left_join(UW6_inclusive_ogs, uw6_prokka) %>%
 UW6_inclusive_kegg <- left_join(UW6_inclusive_ogs, uw6_kegg) %>% 
   select(orthogroup, locus_tag, KO, Kannotation) %>% 
   filter(!is.na(KO))
+
+# write out results from kegg annotations only for now
+write.csv(UW4_core_exp_kegg, "results/orthoTables/UW4-experimental-core-kegg-annotations.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW6_core_exp_kegg, "results/orthoTables/UW6-experimental-core-kegg-annotations.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW4_inclusive_kegg, "results/orthoTables/UW4-inclusive-accessory-kegg-annotations.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW6_inclusive_kegg, "results/orthoTables/UW6-inclusive-accessory-kegg-annotations.csv", quote=FALSE, row.names=FALSE)
