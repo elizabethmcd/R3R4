@@ -1,0 +1,1 @@
+gnl|X|BBLLADNB_15	Prodigal:2.6	CDS	5397	6800	.	+	0	ID=BBLLADNB_00595;Parent=BBLLADNB_00595_gene;Name=dnaA;db_xref=COG:COG0593;gene=dnaA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P03004;locus_tag=BBLLADNB_00595;product=Chromosomal replication initiator protein DnaA;protein_id=gnl|X|BBLLADNB_00595

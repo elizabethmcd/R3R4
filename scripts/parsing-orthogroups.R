@@ -6,9 +6,6 @@ library(tidyverse)
 orthogroups <- read_delim("results/pangenomics/OrthoFinder/Results_Apr14/Orthogroups/Orthogroups.tsv", delim="\t")
 colnames(orthogroups) <- c("Orthogroup", "Dechloromonas", "UW3", "UW5", "UW6", "UW1", "Thauera", "UWLDO", "UW7", "UW4")
 
-# core groups across all species
-core <- orthogroups[complete.cases(orthogroups), ]
-
 # Accumulibacter groups - not present in outgroups
 accum <- orthogroups %>% 
   filter(is.na(Dechloromonas), is.na(Thauera)) %>% 
@@ -18,61 +15,70 @@ accum <- orthogroups %>%
 core_accum <- accum %>% 
   filter_all(all_vars(!is.na(.)))
 
-# present in IIC and IA clades for transcriptomics
-accum_clades <- accum %>% 
-  select(Orthogroup, UW4, UW6) %>% 
-  filter_all(all_vars(!is.na(.)))
+# select UW4 and UW6 for core
+core_exp <- core_accum %>% 
+  select(Orthogroup, UW4, UW6)
 
-# only in IA clades - includes UW3 reference from R1R2 reactors
-only_IA <- accum %>% 
-  filter(is.na(UW1), is.na(UW5), is.na(UWLDO), is.na(UW6), is.na(UW7)) %>% 
-  select(Orthogroup, UW3, UW4) %>% 
-  filter_all(all_vars(!is.na(.)))
+UW4_core <- core_exp %>% 
+  select(Orthogroup, UW4) %>%
+  separate_rows(UW4, sep=", ")
+
+UW6_core <- core_exp %>% 
+  select(Orthogroup, UW6) %>% 
+  separate_rows(UW6, sep=", ")
+
+# in UW4 and UW6 but doesn't necessarily have to be in all accumulibacter - "environmental-specific" core genes
+experimental_core <- accum %>% 
+  filter(!is.na(UW4), !is.na(UW6)) %>% 
+  select(Orthogroup, UW4, UW6)
+
+UW4_experimental_core <- experimental_core %>% 
+  select(Orthogroup, UW4) %>% 
+  separate_rows(UW4, sep=", ")
+
+UW6_experimental_core <- experimental_core %>% 
+  select(Orthogroup, UW6) %>% 
+  separate_rows(UW6, sep=", ")
 
 # only in UW4 - just for R3R4 genes purposes, might have to take quality into account
 only_UW4 <- accum %>% 
   filter(is.na(UW1), is.na(UW5), is.na(UWLDO), is.na(UW3), is.na(UW7), is.na(UW6)) %>% 
-  select(Orthogroup, UW4)
+  select(Orthogroup, UW4) %>% 
+  separate_rows(UW4, sep=", ")
 
 # only IIC from R3R4
-only_IIC <- accum %>% 
+only_UW6 <- accum %>% 
   filter(is.na(UW1), is.na(UW5), is.na(UWLDO), is.na(UW3), is.na(UW4), is.na(UW7)) %>% 
   select(Orthogroup, UW6) %>% 
-  filter_all(all_vars(!is.na(.)))
-
-# separate the rows in each dataframe so each protein of an orthogroup is its own row to create a nice "list" in the column
-core_accum_split <- core_accum %>% 
-  separate_rows(UW1, sep=", ") %>%
-  separate_rows(UW3, sep=", ") %>% 
-  separate_rows(UW4, sep=", ") %>% 
-  separate_rows(UW5, sep=", ") %>% 
-  separate_rows(UWLDO, sep=", ") %>% 
-  separate_rows(UW6, sep=", ") %>% 
-  separate_rows(UW7, sep=", ")
-
-accum_clades_split <- accum_clades %>% 
-  separate_rows(UW6, sep=", ") %>%
-  separate_rows(UW4, sep=", ")
-
-only_UW4_split <- only_UW4 %>%
-  separate_rows(UW4, sep=", ")
-
-only_IIC_split <- only_IIC %>% 
+  filter_all(all_vars(!is.na(.))) %>% 
   separate_rows(UW6, sep=", ")
 
-# For the core accumulibacter genes, look at locus tags for uw6 and uw4
-uw6_inclusive <- orthogroups %>% filter(is.na(Dechloromonas), is.na(Thauera), is.na(UW3), is.na(UW4)) %>% filter(!is.na(UW6)) %>% select(Orthogroup, UW6) %>% separate_rows(UW6, sep=", ")
+# Accessory genes inclusive of all other clades except the reciprocal one in the experiment
+# For UW6, get all genes that are in other clades but are not in UW3 and UW4, and also the outgroups
+# So they either can or cannot be in other clades, don't have to be in all the other ones
+uw6_inclusive <- orthogroups %>% 
+  filter(is.na(Dechloromonas), is.na(Thauera), is.na(UW3), is.na(UW4)) %>% 
+  filter(!is.na(UW6)) %>% 
+  select(Orthogroup, UW6) %>% 
+  separate_rows(UW6, sep=", ")
+
 colnames(uw6_inclusive) <- c("Orthogroup", "locus_tag")
-test <- left_join(uw6_inclusive, uw6_annotations) %>% select(Orthogroup, locus_tag,)
 
-# redo UW4 based on all IA genes
-
-only_UW4_split <- orthogroups %>% filter(is.na(UW1), is.na(UW6), is.na(UW5), is.na(UW7), is.na(UWLDO), is.na(Dechloromonas), is.na(Thauera)) %>% select(Orthogroup, UW3, UW4) %>% filter(!is.na(UW3), !is.na(UW4)) %>% select(Orthogroup, UW4) %>% separate_rows(UW4, sep=", ")
-
+# For UW4, get all genes that are in other clades but are missing in IIC
+uw4_inclusive <- orthogroups %>% 
+  filter(is.na(Dechloromonas), is.na(Thauera), is.na(UW6)) %>% 
+  filter(!is.na(UW3), !is.na(UW4)) %>% 
+  select(Orthogroup, UW4) %>% 
+  separate_rows(UW4, sep=", ")
+colnames(uw4_inclusive) <- c("Orthogroup", "locus_tag")
 
 # write out tables
-write.csv(core_accum_split, "results/orthoTables/core_accumulibacter_orthogroups.csv", quote=FALSE, row.names = FALSE)
-write.csv(accum_clades_split, "results/orthoTables/core_IIC_IA_orthogroups.csv", quote=FALSE, row.names = FALSE)
-write.csv(only_UW4_split, "results/orthoTables/IA_UW4_accessory_orthogroups.csv", quote=FALSE, row.names = FALSE)
-write.csv(only_IIC_split, "results/orthoTables/IIC_UW6_accessory_orthogroups.csv", quote=FALSE, row.names = FALSE)
-
+write.csv(core_exp, file="results/orthoTables/2020-05-16-core-R3R4-orthogroups.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW4_core, file="results/orthoTables/2020-05-16-UW4-core.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW6_core, file="results/orthoTables/2020-05-16-UW6-core.csv", quote=FALSE, row.names = FALSE)
+write.csv(only_UW4, file="results/orthoTables/2020-05-16-onlyUW4.csv", quote=FALSE, row.names = FALSE)
+write.csv(only_UW6, file="results/orthoTables/2020-05-16-onlyUW6.csv", quote=FALSE, row.names = FALSE)
+write.csv(uw4_inclusive, file="results/orthoTables/2020-05-16-UW4-inclusive.csv", quote=FALSE, row.names = FALSE)
+write.csv(uw6_inclusive, file="results/orthoTables/2020-05-16-UW6-inclusive.csv", quote=FALSE, row.names = FALSE)
+write.csv(UW4_experimental_core, file="results/orthoTables/2020-05-16-UW4-experimental-core.csv", quote=FALSE, row.names=FALSE)
+write.csv(UW6_experimental_core, file="results/orthoTables/2020-05-16-UW6-experimental-core.csv", quote=FALSE, row.names=FALSE)

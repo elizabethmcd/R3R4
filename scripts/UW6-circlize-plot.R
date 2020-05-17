@@ -6,8 +6,8 @@ gc_info <- read.table("results/genome_track/gc_calculations_oriented.txt")
 colnames(gc_info) <- c("gc_content", "gc_skew", "gc_culm")
 cds_pos <- read.table("results/genome_track/UW6-cds-positive-modf.bed", header=TRUE)
 cds_neg <- read.table("results/genome_track/UW6-cds-negative-modf.bed", header=TRUE)
-trna <- read.table("results/genome_track/UW6-tRNA-modified.bed", header=TRUE)
-rrna <- read.table("results/genome_track/UW6-rRNA-modified.bed", header=TRUE)
+trna <- read.table("results/genome_track/UW6-tRNA-modf.bed", header=TRUE)
+rrna <- read.table("results/genome_track/UW6-rRNA-modf.bed", header=TRUE)
 cytoband.df <- read.table("results/genome_track/UW6_cytoband_file.txt")
 
 # check cds
@@ -32,7 +32,7 @@ circos.track(ylim=c(0,1), panel.fun=function(x,y){
 }, track.height=0.05, bg.col="#FF6E3C")
 
 # maximum ranges to display
-maximum_illumina <- mean(final_bed$covg) * 1.5
+maximum_illumina <- mean(final_bed$covg) * 1.2
 minimum_illumina <- min(final_bed$covg)
 
 # adjust max for plotting purposes
