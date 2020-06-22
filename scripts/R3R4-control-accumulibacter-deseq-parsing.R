@@ -6,6 +6,8 @@ library(tidyverse)
 library(genefilter)
 library(superheat)
 library(pheatmap)
+library(RColorBrewer)
+library(viridis)
 
 # Directory and files setup
 dir <- "results/transcriptomic_data"
@@ -100,6 +102,9 @@ IIF_triple_fold <- IIF.df %>% filter(log2FoldChange > 3 | log2FoldChange < -3)
 # testing heatmap functions
 # get log2 fold transformed data with the `rlogTransformation` function, and turn into a matrix by assigning an assay. Can define by the top most variable genes, or a list of genes that I determine later based on COGs
 
+# colors
+accessory_colors <- list(group = brewer.pal(3, "Set1"))
+
 ## IIC top 20 DE genes 
 IIC_metadata <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
 IIC_rld <- rlogTransformation(IIC.dds)
@@ -162,4 +167,6 @@ IA_acc_subset <- IA.dds[IA_acc_tags, ]
 IA_acc_rld <- rlogTransformation(IA_acc_subset)
 IA_acc_mat <- assay(IA_acc_rld)
 IA_acc_mat <- IA_acc_mat - rowMeans(IA_acc_mat)
-pheatmap(IA_acc_mat, annotation_col=IA_df, drop_levels = TRUE, cluster_cols = FALSE)
+colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuBu")))(255)
+pheatmap(IA_acc_mat, annotation_col=IA_df, drop_levels = TRUE, cluster_cols = FALSE, color=colors)
+colors<-colorRampPalette(rev(brewer.pal(n=7,name="RdYlBu")))(255)
