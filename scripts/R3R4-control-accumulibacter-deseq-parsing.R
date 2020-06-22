@@ -135,7 +135,14 @@ IIC_acc_subset <- IIC.dds[IIC_acc_tags, ]
 IIC_acc_rld <- rlogTransformation(IIC_acc_subset)
 IIC_acc_mat <- assay(IIC_acc_rld)
 IIC_acc_mat <- IIC_acc_mat - rowMeans(IIC_acc_mat)
-pheatmap(IIC_acc_mat, annotation_col=df, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE)
+
+## IIC accessory plot
+IIC_acc_metadata <- read.csv("results/annotations/UW6-accessory-categories.csv") %>% select(locus_tag, Category)
+IIC_acc_metadata$locus_tag <- sub("^", "2767802455_", IIC_acc_metadata$locus_tag)
+IIC_acc_metadata <- column_to_rownames(var="locus_tag", IIC_acc_metadata)
+colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
+IIC_acc_mat_ordered <- IIC_acc_mat[rownames(IIC_acc_metadata), ]
+pheatmap(IIC_acc_mat, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE, color=colors, annotation_row=IIC_acc_metadata, treeheight_row = 0, treeheight_col = 0, ann)
 
 ## IA top 20 DE genes
 IA_metadata <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
@@ -167,6 +174,11 @@ IA_acc_subset <- IA.dds[IA_acc_tags, ]
 IA_acc_rld <- rlogTransformation(IA_acc_subset)
 IA_acc_mat <- assay(IA_acc_rld)
 IA_acc_mat <- IA_acc_mat - rowMeans(IA_acc_mat)
-colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuBu")))(255)
-pheatmap(IA_acc_mat, annotation_col=IA_df, drop_levels = TRUE, cluster_cols = FALSE, color=colors)
-colors<-colorRampPalette(rev(brewer.pal(n=7,name="RdYlBu")))(255)
+
+# IA accessory plot
+# IA row function categories metadata
+IA_acc_categories_metadata <- read.csv("results/annotations/UW4-accessory-categories.csv") %>% select(locus_tag, Category)
+IA_acc_categories_metadata$locus_tag <- sub("^", "spades-bin.32_", IA_acc_categories_metadata$locus_tag)
+IA_acc_categories_metadata <- column_to_rownames(IA_acc_categories_metadata, var="locus_tag")
+colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
+pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, color=colors, annotation_row = IA_acc_categories_metadata, treeheight_row = 0, treeheight_col = 0)
