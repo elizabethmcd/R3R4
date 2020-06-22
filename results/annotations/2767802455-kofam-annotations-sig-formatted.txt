@@ -1,0 +1,2327 @@
+NHBDKAOG_00003	K07334	toxin HigB-1  
+NHBDKAOG_00004	K21498	antitoxin HigA-1  
+NHBDKAOG_00026	K07486	transposase   
+NHBDKAOG_00032	K01153	type I restriction enzyme,
+NHBDKAOG_00033	K03427	type I restriction enzyme
+NHBDKAOG_00034	K01154	type I restriction enzyme,
+NHBDKAOG_00036	K07403	membrane-bound serine protease (ClpP
+NHBDKAOG_00038	K01154	type I restriction enzyme,
+NHBDKAOG_00055	K03427	type I restriction enzyme
+NHBDKAOG_00057	K04084	thioredoxin:protein disulfide reductase [EC:1.8.4.16]
+NHBDKAOG_00058	K03926	periplasmic divalent cation tolerance
+NHBDKAOG_00072	K07481	transposase, IS5 family 
+NHBDKAOG_00076	K16147	starch synthase (maltosyl-transferring) [EC:2.4.99.16]
+NHBDKAOG_00077	K16148	alpha-maltose-1-phosphate synthase [EC:2.4.1.342] 
+NHBDKAOG_00078	K14742	tRNA threonylcarbamoyladenosine biosynthesis protein
+NHBDKAOG_00079	K03789	[ribosomal protein S18]-alanine N-acetyltransferase
+NHBDKAOG_00080	K21929	uracil-DNA glycosylase [EC:3.2.2.27] 
+NHBDKAOG_00081	K03744	LemA protein  
+NHBDKAOG_00082	K06872	uncharacterized protein  
+NHBDKAOG_00097	K06871	uncharacterized protein  
+NHBDKAOG_00101	K19140	CRISPR-associated protein Csm5 
+NHBDKAOG_00102	K19139	CRISPR-associated protein Csm4 
+NHBDKAOG_00103	K09002	CRISPR-associated protein Csm3 
+NHBDKAOG_00104	K19138	CRISPR-associated protein Csm2 
+NHBDKAOG_00105	K07016	CRISPR-associated protein Csm1 
+NHBDKAOG_00108	K16090	catecholate siderophore receptor 
+NHBDKAOG_00108	K02014	iron complex outermembrane recepter
+NHBDKAOG_00109	K03559	biopolymer transport protein ExbD
+NHBDKAOG_00110	K03561	biopolymer transport protein ExbB
+NHBDKAOG_00111	K03832	periplasmic protein TonB 
+NHBDKAOG_00113	K00111	glycerol-3-phosphate dehydrogenase [EC:1.1.5.3] 
+NHBDKAOG_00118	K07486	transposase   
+NHBDKAOG_00119	K07343	DNA transformation protein and
+NHBDKAOG_00120	K07448	restriction system protein 
+NHBDKAOG_00126	K02003	putative ABC transport system
+NHBDKAOG_00133	K07126	uncharacterized protein  
+NHBDKAOG_00146	K01476	arginase [EC:3.5.3.1]  
+NHBDKAOG_00147	K10017	histidine transport system ATP-binding
+NHBDKAOG_00147	K02028	polar amino acid transport
+NHBDKAOG_00147	K02030	polar amino acid transport
+NHBDKAOG_00147	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_00148	K10023	arginine/ornithine transport system permease
+NHBDKAOG_00148	K02029	polar amino acid transport
+NHBDKAOG_00149	K10024	arginine/ornithine transport system permease
+NHBDKAOG_00149	K10016	histidine transport system permease
+NHBDKAOG_00149	K02029	polar amino acid transport
+NHBDKAOG_00150	K10022	arginine/ornithine transport system substrate-binding
+NHBDKAOG_00150	K02030	polar amino acid transport
+NHBDKAOG_00162	K03427	type I restriction enzyme
+NHBDKAOG_00165	K19147	5-methylcytosine-specific restriction enzyme subunit
+NHBDKAOG_00166	K07452	5-methylcytosine-specific restriction enzyme B
+NHBDKAOG_00170	K01154	type I restriction enzyme,
+NHBDKAOG_00171	K01153	type I restriction enzyme,
+NHBDKAOG_00192	K12452	CDP-4-dehydro-6-deoxyglucose reductase, E1 [EC:1.17.1.1]
+NHBDKAOG_00194	K00978	glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33] 
+NHBDKAOG_00195	K01652	acetolactate synthase I/II/III large
+NHBDKAOG_00199	K09667	protein O-GlcNAc transferase [EC:2.4.1.255]
+NHBDKAOG_00200	K01990	ABC-2 type transport system
+NHBDKAOG_00203	K01406	serralysin [EC:3.4.24.40]  
+NHBDKAOG_00209	K02674	type IV pilus assembly
+NHBDKAOG_00219	K19344	cytochrome c55X  
+NHBDKAOG_00224	K06907	uncharacterized protein  
+NHBDKAOG_00236	K06903	uncharacterized protein  
+NHBDKAOG_00249	K03650	tRNA modification GTPase [EC:3.6.-.-]
+NHBDKAOG_00250	K03217	YidC/Oxa1 family membrane protein
+NHBDKAOG_00251	K08998	uncharacterized protein  
+NHBDKAOG_00252	K02313	chromosomal replication initiator protein
+NHBDKAOG_00253	K02338	DNA polymerase III subunit
+NHBDKAOG_00254	K02470	DNA gyrase subunit B
+NHBDKAOG_00255	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23] 
+NHBDKAOG_00257	K00014	shikimate dehydrogenase [EC:1.1.1.25] 
+NHBDKAOG_00260	K02596	nitrogen fixation protein NifX
+NHBDKAOG_00261	K02593	nitrogen fixation protein NifT
+NHBDKAOG_00272	K09803	uncharacterized protein  
+NHBDKAOG_00276	K02078	acyl carrier protein 
+NHBDKAOG_00279	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]
+NHBDKAOG_00280	K18829	antitoxin VapB  
+NHBDKAOG_00283	K02584	Nif-specific regulatory protein 
+NHBDKAOG_00287	K02585	nitrogen fixation protein NifB
+NHBDKAOG_00288	K02584	Nif-specific regulatory protein 
+NHBDKAOG_00290	K23916	nitrogen fixation regulatory protein
+NHBDKAOG_00291	K03617	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00292	K03616	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00293	K03615	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00294	K03614	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00295	K03612	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00296	K03613	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00297	K09801	uncharacterized protein  
+NHBDKAOG_00300	K03612	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00301	K03613	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_00302	K09801	uncharacterized protein  
+NHBDKAOG_00304	K15773	HTH-type transcriptional regulator /
+NHBDKAOG_00305	K07154	serine/threonine-protein kinase HipA [EC:2.7.11.1]
+NHBDKAOG_00310	K02597	nitrogen fixation protein NifZ
+NHBDKAOG_00311	K02595	nitrogenase-stabilizing/protective protein  
+NHBDKAOG_00313	K02594	homocitrate synthase NifV [EC:2.3.3.14]
+NHBDKAOG_00314	K02017	molybdate transport system ATP-binding
+NHBDKAOG_00315	K02018	molybdate transport system permease
+NHBDKAOG_00316	K02020	molybdate transport system substrate-binding
+NHBDKAOG_00318	K15790	nitrogen fixation protein NifQ
+NHBDKAOG_00319	K02587	nitrogenase molybdenum-cofactor synthesis protein
+NHBDKAOG_00320	K02592	nitrogenase molybdenum-iron protein NifN
+NHBDKAOG_00321	K02596	nitrogen fixation protein NifX
+NHBDKAOG_00322	K03803	sigma-E factor negative regulatory
+NHBDKAOG_00327	K13819	NifU-like protein  
+NHBDKAOG_00332	K01796	alpha-methylacyl-CoA racemase [EC:5.1.99.4] 
+NHBDKAOG_00333	K02030	polar amino acid transport
+NHBDKAOG_00334	K02029	polar amino acid transport
+NHBDKAOG_00335	K02028	polar amino acid transport
+NHBDKAOG_00335	K02030	polar amino acid transport
+NHBDKAOG_00335	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_00338	K06384	stage II sporulation protein
+NHBDKAOG_00341	K03924	MoxR-like ATPase [EC:3.6.3.-] 
+NHBDKAOG_00346	K06147	ATP-binding cassette, subfamily B,
+NHBDKAOG_00348	K01768	adenylate cyclase [EC:4.6.1.1] 
+NHBDKAOG_00350	K00598	trans-aconitate 2-methyltransferase [EC:2.1.1.144] 
+NHBDKAOG_00351	K07090	uncharacterized protein  
+NHBDKAOG_00353	K03387	alkyl hydroperoxide reductase subunit
+NHBDKAOG_00354	K03386	peroxiredoxin (alkyl hydroperoxide reductase
+NHBDKAOG_00355	K03495	tRNA uridine 5-carboxymethylaminomethyl modification
+NHBDKAOG_00356	K03501	16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]
+NHBDKAOG_00357	K03496	chromosome partitioning protein 
+NHBDKAOG_00358	K03497	ParB family transcriptional regulator,
+NHBDKAOG_00359	K02116	ATP synthase protein I
+NHBDKAOG_00360	K02108	F-type H+-transporting ATPase subunit
+NHBDKAOG_00361	K02110	F-type H+-transporting ATPase subunit
+NHBDKAOG_00362	K02109	F-type H+-transporting ATPase subunit
+NHBDKAOG_00363	K02113	F-type H+-transporting ATPase subunit
+NHBDKAOG_00364	K02111	F-type H+/Na+-transporting ATPase subunit
+NHBDKAOG_00365	K02115	F-type H+-transporting ATPase subunit
+NHBDKAOG_00366	K02112	F-type H+/Na+-transporting ATPase subunit
+NHBDKAOG_00367	K02114	F-type H+-transporting ATPase subunit
+NHBDKAOG_00368	K03690	ubiquinone biosynthesis protein UbiJ
+NHBDKAOG_00370	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol
+NHBDKAOG_00372	K23127	cyclic-di-GMP-binding protein  
+NHBDKAOG_00375	K01754	threonine dehydratase [EC:4.3.1.19] 
+NHBDKAOG_00376	K01738	cysteine synthase [EC:2.5.1.47] 
+NHBDKAOG_00377	K14155	cysteine-S-conjugate beta-lyase [EC:4.4.1.13] 
+NHBDKAOG_00378	K00077	2-dehydropantoate 2-reductase [EC:1.1.1.169] 
+NHBDKAOG_00381	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234] 
+NHBDKAOG_00383	K07080	uncharacterized protein  
+NHBDKAOG_00384	K00344	NADPH:quinone reductase [EC:1.6.5.5] 
+NHBDKAOG_00385	K03657	DNA helicase II /
+NHBDKAOG_00387	K01934	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2] 
+NHBDKAOG_00388	K08309	soluble lytic murein transglycosylase
+NHBDKAOG_00389	K03953	NADH dehydrogenase (ubiquinone) 1
+NHBDKAOG_00390	K00974	tRNA nucleotidyltransferase (CCA-adding enzyme)
+NHBDKAOG_00399	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]
+NHBDKAOG_00402	K06877	DEAD/DEAH box helicase domain-containing
+NHBDKAOG_00403	K08301	ribonuclease G [EC:3.1.26.-] 
+NHBDKAOG_00404	K08303	putative protease [EC:3.4.-.-] 
+NHBDKAOG_00406	K07080	uncharacterized protein  
+NHBDKAOG_00409	K01338	ATP-dependent Lon protease [EC:3.4.21.53]
+NHBDKAOG_00415	K22684	metacaspase-1 [EC:3.4.22.-]  
+NHBDKAOG_00417	K13590	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_00417	K07216	hemerythrin   
+NHBDKAOG_00420	K22491	MerR family transcriptional regulator,
+NHBDKAOG_00423	K00253	isovaleryl-CoA dehydrogenase [EC:1.3.8.4] 
+NHBDKAOG_00424	K01673	carbonic anhydrase [EC:4.2.1.1] 
+NHBDKAOG_00426	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7] 
+NHBDKAOG_00428	K03752	molybdenum cofactor guanylyltransferase [EC:2.7.7.77]
+NHBDKAOG_00432	K01153	type I restriction enzyme,
+NHBDKAOG_00433	K01154	type I restriction enzyme,
+NHBDKAOG_00436	K03427	type I restriction enzyme
+NHBDKAOG_00438	K03656	ATP-dependent DNA helicase Rep
+NHBDKAOG_00438	K03657	DNA helicase II /
+NHBDKAOG_00439	K07034	uncharacterized protein  
+NHBDKAOG_00442	K09760	DNA recombination protein RmuC
+NHBDKAOG_00444	K04763	integrase/recombinase XerD  
+NHBDKAOG_00451	K00121	S-(hydroxymethyl)glutathione dehydrogenase / alcohol
+NHBDKAOG_00453	K01908	propionyl-CoA synthetase [EC:6.2.1.17] 
+NHBDKAOG_00455	K19745	acrylyl-CoA reductase (NADPH) [EC:1.3.1.-]
+NHBDKAOG_00457	K02012	iron(III) transport system substrate-binding
+NHBDKAOG_00458	K02011	iron(III) transport system permease
+NHBDKAOG_00459	K02010	iron(III) transport system ATP-binding
+NHBDKAOG_00460	K00684	leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6] 
+NHBDKAOG_00461	K21420	leucyl-tRNA---protein transferase [EC:2.3.2.29] 
+NHBDKAOG_00463	K07317	adenine-specific DNA-methyltransferase [EC:2.1.1.72] 
+NHBDKAOG_00465	K20976	histidine phosphotransfer protein HptB
+NHBDKAOG_00466	K06415	stage V sporulation protein
+NHBDKAOG_00467	K09786	uncharacterized protein  
+NHBDKAOG_00468	K07180	serine protein kinase 
+NHBDKAOG_00476	K13283	ferrous-iron efflux pump FieF
+NHBDKAOG_00479	K07006	uncharacterized protein  
+NHBDKAOG_00481	K03559	biopolymer transport protein ExbD
+NHBDKAOG_00482	K03562	biopolymer transport protein TolQ
+NHBDKAOG_00482	K03561	biopolymer transport protein ExbB
+NHBDKAOG_00483	K07107	acyl-CoA thioester hydrolase [EC:3.1.2.-]
+NHBDKAOG_00484	K03551	holliday junction DNA helicase
+NHBDKAOG_00486	K03550	holliday junction DNA helicase
+NHBDKAOG_00487	K01159	crossover junction endodeoxyribonuclease RuvC
+NHBDKAOG_00489	K02237	competence protein ComEA 
+NHBDKAOG_00491	K07645	two-component system, OmpR family,
+NHBDKAOG_00492	K07666	two-component system, OmpR family,
+NHBDKAOG_00495	K06287	septum formation protein 
+NHBDKAOG_00496	K00783	23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+NHBDKAOG_00497	K09710	ribosome-associated protein  
+NHBDKAOG_00498	K00969	nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18] 
+NHBDKAOG_00501	K02204	homoserine kinase type II
+NHBDKAOG_00503	K02335	DNA polymerase I [EC:2.7.7.7]
+NHBDKAOG_00505	K02041	phosphonate transport system ATP-binding
+NHBDKAOG_00506	K02042	phosphonate transport system permease
+NHBDKAOG_00507	K02044	phosphonate transport system substrate-binding
+NHBDKAOG_00512	K00265	glutamate synthase (NADPH) large
+NHBDKAOG_00513	K00266	glutamate synthase (NADPH) small
+NHBDKAOG_00514	K04042	bifunctional UDP-N-acetylglucosamine pyrophosphorylase /
+NHBDKAOG_00515	K00820	glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+NHBDKAOG_00517	K09691	lipopolysaccharide transport system ATP-binding
+NHBDKAOG_00524	K20444	O-antigen biosynthesis protein [EC:2.4.1.-]
+NHBDKAOG_00525	K12990	rhamnosyltransferase [EC:2.4.1.-]  
+NHBDKAOG_00526	K12538	outer membrane protein, protease
+NHBDKAOG_00526	K12340	outer membrane protein 
+NHBDKAOG_00527	K12537	membrane fusion protein, protease
+NHBDKAOG_00537	K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+NHBDKAOG_00538	K02652	type IV pilus assembly
+NHBDKAOG_00539	K02653	type IV pilus assembly
+NHBDKAOG_00540	K02654	leader peptidase (prepilin peptidase)
+NHBDKAOG_00548	K07486	transposase   
+NHBDKAOG_00554	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12] 
+NHBDKAOG_00555	K01167	ribonuclease T1 [EC:3.1.27.3] 
+NHBDKAOG_00557	K08310	dihydroneopterin triphosphate diphosphatase [EC:3.6.1.67]
+NHBDKAOG_00560	K09930	uncharacterized protein  
+NHBDKAOG_00562	K03089	RNA polymerase sigma-32 factor
+NHBDKAOG_00564	K14998	surfeit locus 1 family
+NHBDKAOG_00566	K02276	cytochrome c oxidase subunit
+NHBDKAOG_00568	K02258	cytochrome c oxidase assembly
+NHBDKAOG_00570	K02274	cytochrome c oxidase subunit
+NHBDKAOG_00571	K02275	cytochrome c oxidase subunit
+NHBDKAOG_00574	K02257	heme o synthase [EC:2.5.1.141]
+NHBDKAOG_00575	K02558	UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [EC:6.3.2.45]
+NHBDKAOG_00578	K03786	3-dehydroquinate dehydratase II [EC:4.2.1.10]
+NHBDKAOG_00579	K02160	acetyl-CoA carboxylase biotin carboxyl
+NHBDKAOG_00580	K01961	acetyl-CoA carboxylase, biotin carboxylase
+NHBDKAOG_00581	K02687	ribosomal protein L11 methyltransferase
+NHBDKAOG_00583	K00856	adenosine kinase [EC:2.7.1.20] 
+NHBDKAOG_00584	K03711	Fur family transcriptional regulator,
+NHBDKAOG_00585	K06186	outer membrane protein assembly
+NHBDKAOG_00586	K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] 
+NHBDKAOG_00587	K03216	tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207] 
+NHBDKAOG_00588	K00057	glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]
+NHBDKAOG_00596	K09861	uncharacterized protein  
+NHBDKAOG_00598	K01579	aspartate 1-decarboxylase [EC:4.1.1.11] 
+NHBDKAOG_00599	K01918	pantoate--beta-alanine ligase [EC:6.3.2.1] 
+NHBDKAOG_00600	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11] 
+NHBDKAOG_00602	K01873	valyl-tRNA synthetase [EC:6.1.1.9] 
+NHBDKAOG_00604	K02339	DNA polymerase III subunit
+NHBDKAOG_00605	K01255	leucyl aminopeptidase [EC:3.4.11.1] 
+NHBDKAOG_00606	K07091	lipopolysaccharide export system permease
+NHBDKAOG_00607	K11720	lipopolysaccharide export system permease
+NHBDKAOG_00612	K01652	acetolactate synthase I/II/III large
+NHBDKAOG_00613	K01653	acetolactate synthase I/III small
+NHBDKAOG_00614	K00053	ketol-acid reductoisomerase [EC:1.1.1.86] 
+NHBDKAOG_00615	K17103	CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] 
+NHBDKAOG_00616	K01649	2-isopropylmalate synthase [EC:2.3.3.13] 
+NHBDKAOG_00618	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+NHBDKAOG_00619	K07058	membrane protein  
+NHBDKAOG_00620	K23127	cyclic-di-GMP-binding protein  
+NHBDKAOG_00621	K02959	small subunit ribosomal protein
+NHBDKAOG_00622	K02860	16S rRNA processing protein
+NHBDKAOG_00623	K00554	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228] 
+NHBDKAOG_00624	K02884	large subunit ribosomal protein
+NHBDKAOG_00625	K09007	GTP cyclohydrolase IB [EC:3.5.4.16]
+NHBDKAOG_00626	K01662	1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7] 
+NHBDKAOG_00627	K00795	farnesyl diphosphate synthase [EC:2.5.1.1
+NHBDKAOG_00628	K03602	exodeoxyribonuclease VII small subunit
+NHBDKAOG_00629	K01881	prolyl-tRNA synthetase [EC:6.1.1.15] 
+NHBDKAOG_00631	K03106	signal recognition particle subunit
+NHBDKAOG_00633	K06996	uncharacterized protein  
+NHBDKAOG_00634	K06077	outer membrane lipoprotein SlyB
+NHBDKAOG_00637	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47] 
+NHBDKAOG_00638	K02377	GDP-L-fucose synthase [EC:1.1.1.271] 
+NHBDKAOG_00639	K01886	glutaminyl-tRNA synthetase [EC:6.1.1.18] 
+NHBDKAOG_00640	K18588	coenzyme Q-binding protein COQ10
+NHBDKAOG_00641	K07014	uncharacterized protein  
+NHBDKAOG_00642	K16264	cobalt-zinc-cadmium efflux system protein
+NHBDKAOG_00643	K07560	D-aminoacyl-tRNA deacylase [EC:3.1.1.96] 
+NHBDKAOG_00645	K05367	penicillin-binding protein 1C [EC:2.4.1.129]
+NHBDKAOG_00647	K00982	[glutamine synthetase] adenylyltransferase /
+NHBDKAOG_00651	K07234	uncharacterized protein involved in
+NHBDKAOG_00652	K03567	glycine cleavage system transcriptional
+NHBDKAOG_00654	K02553	regulator of ribonuclease activity
+NHBDKAOG_00655	K03694	ATP-dependent Clp protease ATP-binding
+NHBDKAOG_00656	K06891	ATP-dependent Clp protease adaptor
+NHBDKAOG_00657	K03704	cold shock protein 
+NHBDKAOG_00658	K03637	cyclic pyranopterin monophosphate synthase
+NHBDKAOG_00659	K01423	beta-barrel assembly-enhancing protease [EC:3.4.-.-]
+NHBDKAOG_00660	K04085	tRNA 2-thiouridine synthesizing protein
+NHBDKAOG_00661	K03342	para-aminobenzoate synthetase / 4-amino-4-deoxychorismate
+NHBDKAOG_00664	K20509	carboxybiotin decarboxylase [EC:7.2.4.1] 
+NHBDKAOG_00669	K03118	sec-independent protein translocase protein
+NHBDKAOG_00670	K03117	sec-independent protein translocase protein
+NHBDKAOG_00671	K03116	sec-independent protein translocase protein
+NHBDKAOG_00672	K02503	histidine triad (HIT) family
+NHBDKAOG_00673	K01523	phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31] 
+NHBDKAOG_00674	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19] 
+NHBDKAOG_00675	K02500	imidazole glycerol-phosphate synthase subunit
+NHBDKAOG_00676	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+NHBDKAOG_00677	K02501	imidazole glycerol-phosphate synthase subunit
+NHBDKAOG_00678	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19] 
+NHBDKAOG_00679	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9] 
+NHBDKAOG_00681	K09811	cell division transport system
+NHBDKAOG_00682	K09812	cell division transport system
+NHBDKAOG_00683	K03110	fused signal recognition particle
+NHBDKAOG_00684	K07263	zinc protease [EC:3.4.24.-] 
+NHBDKAOG_00685	K07263	zinc protease [EC:3.4.24.-] 
+NHBDKAOG_00686	K08316	16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]
+NHBDKAOG_00687	K00954	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3] 
+NHBDKAOG_00689	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1] 
+NHBDKAOG_00695	K03893	arsenical pump membrane protein
+NHBDKAOG_00697	K01776	glutamate racemase [EC:5.1.1.3] 
+NHBDKAOG_00699	K01676	fumarate hydratase, class I
+NHBDKAOG_00701	K01895	acetyl-CoA synthetase [EC:6.2.1.1] 
+NHBDKAOG_00702	K07182	CBS domain-containing protein 
+NHBDKAOG_00703	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_00704	K14393	cation/acetate symporter  
+NHBDKAOG_00707	K00013	histidinol dehydrogenase [EC:1.1.1.23] 
+NHBDKAOG_00708	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17] 
+NHBDKAOG_00709	K03699	putative hemolysin  
+NHBDKAOG_00710	K01584	arginine decarboxylase [EC:4.1.1.19] 
+NHBDKAOG_00711	K01494	dCTP deaminase [EC:3.5.4.13] 
+NHBDKAOG_00712	K03593	ATP-binding protein involved in
+NHBDKAOG_00713	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25] 
+NHBDKAOG_00715	K09761	16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]
+NHBDKAOG_00716	K23753	polyphosphate kinase (ADP) [EC:2.7.4.-]
+NHBDKAOG_00717	K14682	amino-acid N-acetyltransferase [EC:2.3.1.1] 
+NHBDKAOG_00719	K01807	ribose 5-phosphate isomerase A
+NHBDKAOG_00720	K01939	adenylosuccinate synthase [EC:6.3.4.4] 
+NHBDKAOG_00723	K13522	bifunctional NMN adenylyltransferase/nudix hydrolase
+NHBDKAOG_00723	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55] 
+NHBDKAOG_00725	K00763	nicotinate phosphoribosyltransferase [EC:6.3.4.21] 
+NHBDKAOG_00730	K02014	iron complex outermembrane recepter
+NHBDKAOG_00732	K03832	periplasmic protein TonB 
+NHBDKAOG_00733	K03561	biopolymer transport protein ExbB
+NHBDKAOG_00734	K03559	biopolymer transport protein ExbD
+NHBDKAOG_00737	K16568	exopolysaccharide production protein ExoZ
+NHBDKAOG_00743	K16898	ATP-dependent helicase/nuclease subunit A
+NHBDKAOG_00747	K07050	misacylated tRNA(Ala) deacylase [EC:3.1.1.-]
+NHBDKAOG_00751	K05807	outer membrane protein assembly
+NHBDKAOG_00752	K06180	23S rRNA pseudouridine1911/1915/1917 synthase
+NHBDKAOG_00753	K05810	polyphenol oxidase [EC:1.10.3.-] 
+NHBDKAOG_00755	K00023	acetoacetyl-CoA reductase [EC:1.1.1.36] 
+NHBDKAOG_00755	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+NHBDKAOG_00758	K20509	carboxybiotin decarboxylase [EC:7.2.4.1] 
+NHBDKAOG_00763	K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]
+NHBDKAOG_00764	K06147	ATP-binding cassette, subfamily B,
+NHBDKAOG_00766	K03802	cyanophycin synthetase [EC:6.3.2.29 6.3.2.30]
+NHBDKAOG_00767	K03802	cyanophycin synthetase [EC:6.3.2.29 6.3.2.30]
+NHBDKAOG_00768	K09749	uncharacterized protein  
+NHBDKAOG_00769	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_00770	K03413	two-component system, chemotaxis family,
+NHBDKAOG_00772	K03407	two-component system, chemotaxis family,
+NHBDKAOG_00773	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_00774	K03408	purine-binding chemotaxis protein CheW
+NHBDKAOG_00775	K03412	two-component system, chemotaxis family,
+NHBDKAOG_00776	K06182	23S rRNA pseudouridine2604 synthase
+NHBDKAOG_00781	K03620	Ni/Fe-hydrogenase 1 B-type cytochrome
+NHBDKAOG_00782	K04564	superoxide dismutase, Fe-Mn family
+NHBDKAOG_00783	K03601	exodeoxyribonuclease VII large subunit
+NHBDKAOG_00784	K03561	biopolymer transport protein ExbB
+NHBDKAOG_00785	K03559	biopolymer transport protein ExbD
+NHBDKAOG_00786	K00912	tetraacyldisaccharide 4'-kinase [EC:2.7.1.130] 
+NHBDKAOG_00787	K09791	uncharacterized protein  
+NHBDKAOG_00788	K00979	3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase)
+NHBDKAOG_00789	K00939	adenylate kinase [EC:2.7.4.3] 
+NHBDKAOG_00790	K15987	K(+)-stimulated pyrophosphate-energized sodium pump
+NHBDKAOG_00792	K03980	putative peptidoglycan lipid II
+NHBDKAOG_00794	K02078	acyl carrier protein 
+NHBDKAOG_00797	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_00797	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_00799	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+NHBDKAOG_00804	K01638	malate synthase [EC:2.3.3.9] 
+NHBDKAOG_00805	K01772	protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9]
+NHBDKAOG_00806	K03705	heat-inducible transcriptional repressor 
+NHBDKAOG_00807	K00858	NAD+ kinase [EC:2.7.1.23] 
+NHBDKAOG_00808	K03631	DNA repair protein RecN
+NHBDKAOG_00810	K00928	aspartate kinase [EC:2.7.2.4] 
+NHBDKAOG_00813	K01768	adenylate cyclase [EC:4.6.1.1] 
+NHBDKAOG_00814	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_00815	K03415	two-component system, chemotaxis family,
+NHBDKAOG_00816	K03415	two-component system, chemotaxis family,
+NHBDKAOG_00817	K03413	two-component system, chemotaxis family,
+NHBDKAOG_00818	K03414	chemotaxis protein CheZ 
+NHBDKAOG_00819	K03407	two-component system, chemotaxis family,
+NHBDKAOG_00820	K02401	flagellar biosynthetic protein FlhB
+NHBDKAOG_00821	K02400	flagellar biosynthesis protein FlhA
+NHBDKAOG_00822	K02404	flagellar biosynthesis protein FlhF
+NHBDKAOG_00823	K04562	flagellar biosynthesis protein FlhG
+NHBDKAOG_00824	K02405	RNA polymerase sigma factor
+NHBDKAOG_00825	K02556	chemotaxis protein MotA 
+NHBDKAOG_00826	K02557	chemotaxis protein MotB 
+NHBDKAOG_00830	K02423	flagellar protein FliT 
+NHBDKAOG_00831	K02422	flagellar protein FliS 
+NHBDKAOG_00832	K02407	flagellar hook-associated protein 2
+NHBDKAOG_00833	K06603	flagellar protein FlaG 
+NHBDKAOG_00834	K02406	flagellin   
+NHBDKAOG_00835	K02421	flagellar biosynthetic protein FliR
+NHBDKAOG_00836	K02420	flagellar biosynthetic protein FliQ
+NHBDKAOG_00837	K02419	flagellar biosynthetic protein FliP
+NHBDKAOG_00838	K02418	flagellar protein FliO/FliZ 
+NHBDKAOG_00839	K02417	flagellar motor switch protein
+NHBDKAOG_00840	K02416	flagellar motor switch protein
+NHBDKAOG_00841	K02415	flagellar FliL protein 
+NHBDKAOG_00842	K02414	flagellar hook-length control protein
+NHBDKAOG_00843	K02413	flagellar FliJ protein 
+NHBDKAOG_00844	K02412	flagellum-specific ATP synthase [EC:7.4.2.8]
+NHBDKAOG_00845	K02411	flagellar assembly protein FliH
+NHBDKAOG_00846	K02410	flagellar motor switch protein
+NHBDKAOG_00847	K02409	flagellar M-ring protein FliF
+NHBDKAOG_00848	K10942	two-component system, sensor histidine
+NHBDKAOG_00849	K10943	two-component system, response regulator
+NHBDKAOG_00850	K02408	flagellar hook-basal body complex
+NHBDKAOG_00851	K14540	ribosome biogenesis GTPase A
+NHBDKAOG_00853	K03556	LuxR family transcriptional regulator,
+NHBDKAOG_00854	K03496	chromosome partitioning protein 
+NHBDKAOG_00856	K07220	uncharacterized protein  
+NHBDKAOG_00857	K03306	inorganic phosphate transporter, PiT
+NHBDKAOG_00858	K07220	uncharacterized protein  
+NHBDKAOG_00859	K07220	uncharacterized protein  
+NHBDKAOG_00865	K03075	preprotein translocase subunit SecG
+NHBDKAOG_00867	K00330	NADH-quinone oxidoreductase subunit A
+NHBDKAOG_00868	K00331	NADH-quinone oxidoreductase subunit B
+NHBDKAOG_00869	K00332	NADH-quinone oxidoreductase subunit C
+NHBDKAOG_00870	K00333	NADH-quinone oxidoreductase subunit D
+NHBDKAOG_00871	K00334	NADH-quinone oxidoreductase subunit E
+NHBDKAOG_00872	K00335	NADH-quinone oxidoreductase subunit F
+NHBDKAOG_00873	K00336	NADH-quinone oxidoreductase subunit G
+NHBDKAOG_00874	K00337	NADH-quinone oxidoreductase subunit H
+NHBDKAOG_00875	K00338	NADH-quinone oxidoreductase subunit I
+NHBDKAOG_00876	K00339	NADH-quinone oxidoreductase subunit J
+NHBDKAOG_00877	K00340	NADH-quinone oxidoreductase subunit K
+NHBDKAOG_00878	K00341	NADH-quinone oxidoreductase subunit L
+NHBDKAOG_00879	K00342	NADH-quinone oxidoreductase subunit M
+NHBDKAOG_00880	K00343	NADH-quinone oxidoreductase subunit N
+NHBDKAOG_00881	K01515	ADP-ribose pyrophosphatase [EC:3.6.1.13] 
+NHBDKAOG_00882	K09915	uncharacterized protein  
+NHBDKAOG_00883	K02837	peptide chain release factor
+NHBDKAOG_00884	K02970	small subunit ribosomal protein
+NHBDKAOG_00885	K03431	phosphoglucosamine mutase [EC:5.4.2.10] 
+NHBDKAOG_00886	K00796	dihydropteroate synthase [EC:2.5.1.15] 
+NHBDKAOG_00887	K03798	cell division protease FtsH
+NHBDKAOG_00888	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]
+NHBDKAOG_00889	K07574	RNA-binding protein  
+NHBDKAOG_00891	K03624	transcription elongation factor GreA
+NHBDKAOG_00892	K01955	carbamoyl-phosphate synthase large subunit
+NHBDKAOG_00893	K01956	carbamoyl-phosphate synthase small subunit
+NHBDKAOG_00896	K03981	thiol:disulfide interchange protein DsbC
+NHBDKAOG_00899	K06023	HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+NHBDKAOG_00900	K02806	nitrogen PTS system EIIA
+NHBDKAOG_00901	K05808	putative sigma-54 modulation protein
+NHBDKAOG_00902	K03092	RNA polymerase sigma-54 factor
+NHBDKAOG_00903	K06861	lipopolysaccharide export system ATP-binding
+NHBDKAOG_00903	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_00904	K03565	regulatory protein  
+NHBDKAOG_00905	K03553	recombination protein RecA 
+NHBDKAOG_00907	K03743	nicotinamide-nucleotide amidase [EC:3.5.1.42] 
+NHBDKAOG_00908	K01095	phosphatidylglycerophosphatase A [EC:3.1.3.27] 
+NHBDKAOG_00909	K00946	thiamine-monophosphate kinase [EC:2.7.4.16] 
+NHBDKAOG_00910	K03625	transcription antitermination protein NusB
+NHBDKAOG_00911	K00794	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78] 
+NHBDKAOG_00912	K14652	3,4-dihydroxy 2-butanone 4-phosphate synthase
+NHBDKAOG_00918	K06926	uncharacterized protein  
+NHBDKAOG_00922	K07445	putative DNA methylase 
+NHBDKAOG_00923	K07075	uncharacterized protein  
+NHBDKAOG_00925	K06922	uncharacterized protein  
+NHBDKAOG_00933	K02069	putative ABC transport system
+NHBDKAOG_00935	K22468	polyphosphate kinase [EC:2.7.4.1] 
+NHBDKAOG_00936	K18930	D-lactate dehydrogenase  
+NHBDKAOG_00938	K01999	branched-chain amino acid transport
+NHBDKAOG_00939	K15270	S-adenosylmethionine uptake transporter 
+NHBDKAOG_00940	K22278	peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104] 
+NHBDKAOG_00944	K01185	lysozyme [EC:3.2.1.17]  
+NHBDKAOG_00945	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]
+NHBDKAOG_00946	K00927	phosphoglycerate kinase [EC:2.7.2.3] 
+NHBDKAOG_00948	K06896	maltose 6'-phosphate phosphatase [EC:3.1.3.90]
+NHBDKAOG_00949	K00612	carbamoyltransferase [EC:2.1.3.-]  
+NHBDKAOG_00950	K02517	Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241
+NHBDKAOG_00951	K22131	2-dehydrotetronate isomerase [EC:5.3.1.35] 
+NHBDKAOG_00951	K01816	hydroxypyruvate isomerase [EC:5.3.1.22] 
+NHBDKAOG_00952	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) /
+NHBDKAOG_00953	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+NHBDKAOG_00954	K01589	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]
+NHBDKAOG_00955	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87] 
+NHBDKAOG_00959	K07018	uncharacterized protein  
+NHBDKAOG_00960	K02006	cobalt/nickel transport system ATP-binding
+NHBDKAOG_00961	K02008	cobalt/nickel transport system permease
+NHBDKAOG_00962	K02007	cobalt/nickel transport system permease
+NHBDKAOG_00963	K03215	23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]
+NHBDKAOG_00967	K07054	uncharacterized protein  
+NHBDKAOG_00969	K06969	23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]
+NHBDKAOG_00970	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+NHBDKAOG_00977	K06190	intracellular septation protein 
+NHBDKAOG_00978	K09780	uncharacterized protein  
+NHBDKAOG_00980	K03769	peptidyl-prolyl cis-trans isomerase C
+NHBDKAOG_00982	K01990	ABC-2 type transport system
+NHBDKAOG_00985	K23518	O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106] 
+NHBDKAOG_00987	K05979	2-phosphosulfolactate phosphatase [EC:3.1.3.71] 
+NHBDKAOG_00996	K06158	ATP-binding cassette, subfamily F,
+NHBDKAOG_01002	K07491	putative transposase  
+NHBDKAOG_01014	K02456	general secretion pathway protein
+NHBDKAOG_01019	K05596	LysR family transcriptional regulator,
+NHBDKAOG_01020	K06895	L-lysine exporter family protein
+NHBDKAOG_01023	K03885	NADH dehydrogenase [EC:1.6.99.3] 
+NHBDKAOG_01028	K00034	glucose 1-dehydrogenase [EC:1.1.1.47] 
+NHBDKAOG_01028	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+NHBDKAOG_01029	K15977	putative oxidoreductase  
+NHBDKAOG_01032	K09930	uncharacterized protein  
+NHBDKAOG_01034	K02483	two-component system, OmpR family,
+NHBDKAOG_01043	K06223	DNA adenine methylase [EC:2.1.1.72]
+NHBDKAOG_01050	K01256	aminopeptidase N [EC:3.4.11.2] 
+NHBDKAOG_01051	K10804	acyl-CoA thioesterase I [EC:3.1.2.-
+NHBDKAOG_01052	K07320	ribosomal protein L3 glutamine
+NHBDKAOG_01053	K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] 
+NHBDKAOG_01054	K02670	twitching motility protein PilU
+NHBDKAOG_01055	K00674	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117] 
+NHBDKAOG_01056	K14267	N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17] 
+NHBDKAOG_01057	K09457	7-cyano-7-deazaguanine reductase [EC:1.7.1.13] 
+NHBDKAOG_01058	K03529	chromosome segregation protein 
+NHBDKAOG_01059	K03528	cell division protein ZipA
+NHBDKAOG_01060	K01972	DNA ligase (NAD+) [EC:6.5.1.2]
+NHBDKAOG_01061	K00760	hypoxanthine phosphoribosyltransferase [EC:2.4.2.8] 
+NHBDKAOG_01062	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28] 
+NHBDKAOG_01063	K01462	peptide deformylase [EC:3.5.1.88] 
+NHBDKAOG_01064	K01104	protein-tyrosine phosphatase [EC:3.1.3.48] 
+NHBDKAOG_01066	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6] 
+NHBDKAOG_01067	K06941	23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+NHBDKAOG_01068	K02656	type IV pilus assembly
+NHBDKAOG_01069	K15539	cytoskeleton protein RodZ 
+NHBDKAOG_01070	K03526	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+NHBDKAOG_01071	K01892	histidyl-tRNA synthetase [EC:6.1.1.21] 
+NHBDKAOG_01073	K17713	outer membrane protein assembly
+NHBDKAOG_01074	K03977	GTPase   
+NHBDKAOG_01075	K01104	protein-tyrosine phosphatase [EC:3.1.3.48] 
+NHBDKAOG_01076	K13924	two-component system, chemotaxis family,
+NHBDKAOG_01076	K00575	chemotaxis protein methyltransferase CheR
+NHBDKAOG_01076	K03412	two-component system, chemotaxis family,
+NHBDKAOG_01079	K22468	polyphosphate kinase [EC:2.7.4.1] 
+NHBDKAOG_01081	K01578	malonyl-CoA decarboxylase [EC:4.1.1.9] 
+NHBDKAOG_01082	K13292	phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]
+NHBDKAOG_01083	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9] 
+NHBDKAOG_01085	K01999	branched-chain amino acid transport
+NHBDKAOG_01086	K01997	branched-chain amino acid transport
+NHBDKAOG_01087	K01998	branched-chain amino acid transport
+NHBDKAOG_01088	K01995	branched-chain amino acid transport
+NHBDKAOG_01088	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_01089	K01996	branched-chain amino acid transport
+NHBDKAOG_01089	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_01091	K06020	energy-dependent translational throttle protein
+NHBDKAOG_01092	K00528	ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+NHBDKAOG_01095	K09781	uncharacterized protein  
+NHBDKAOG_01103	K02670	twitching motility protein PilU
+NHBDKAOG_01104	K02669	twitching motility protein PilT
+NHBDKAOG_01105	K06997	PLP dependent protein 
+NHBDKAOG_01106	K00286	pyrroline-5-carboxylate reductase [EC:1.5.1.2] 
+NHBDKAOG_01107	K02221	YggT family protein 
+NHBDKAOG_01108	K09131	uncharacterized protein  
+NHBDKAOG_01109	K01465	dihydroorotase [EC:3.5.2.3]  
+NHBDKAOG_01110	K00609	aspartate carbamoyltransferase catalytic subunit
+NHBDKAOG_01111	K02825	pyrimidine operon attenuation protein
+NHBDKAOG_01112	K07447	putative holliday junction resolvase
+NHBDKAOG_01113	K07735	putative transcriptional regulator 
+NHBDKAOG_01114	K03320	ammonium transporter, Amt family
+NHBDKAOG_01118	K03791	putative chitinase  
+NHBDKAOG_01119	K18189	translational activator of cytochrome
+NHBDKAOG_01120	K06915	uncharacterized protein  
+NHBDKAOG_01124	K03088	RNA polymerase sigma-70 factor,
+NHBDKAOG_01126	K06959	protein Tex  
+NHBDKAOG_01132	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01133	K07278	translocation and assembly module
+NHBDKAOG_01134	K09800	translocation and assembly module
+NHBDKAOG_01135	K08309	soluble lytic murein transglycosylase
+NHBDKAOG_01140	K03073	preprotein translocase subunit SecE
+NHBDKAOG_01141	K02601	transcription termination/antitermination protein NusG
+NHBDKAOG_01142	K02867	large subunit ribosomal protein
+NHBDKAOG_01143	K02863	large subunit ribosomal protein
+NHBDKAOG_01144	K02864	large subunit ribosomal protein
+NHBDKAOG_01145	K02935	large subunit ribosomal protein
+NHBDKAOG_01146	K03043	DNA-directed RNA polymerase subunit
+NHBDKAOG_01147	K03046	DNA-directed RNA polymerase subunit
+NHBDKAOG_01148	K02950	small subunit ribosomal protein
+NHBDKAOG_01149	K02992	small subunit ribosomal protein
+NHBDKAOG_01150	K02355	elongation factor G 
+NHBDKAOG_01152	K02358	elongation factor Tu 
+NHBDKAOG_01153	K02946	small subunit ribosomal protein
+NHBDKAOG_01154	K02906	large subunit ribosomal protein
+NHBDKAOG_01155	K02926	large subunit ribosomal protein
+NHBDKAOG_01156	K02892	large subunit ribosomal protein
+NHBDKAOG_01157	K02886	large subunit ribosomal protein
+NHBDKAOG_01157	K02965	small subunit ribosomal protein
+NHBDKAOG_01158	K02890	large subunit ribosomal protein
+NHBDKAOG_01159	K02982	small subunit ribosomal protein
+NHBDKAOG_01160	K02878	large subunit ribosomal protein
+NHBDKAOG_01161	K02904	large subunit ribosomal protein
+NHBDKAOG_01162	K02961	small subunit ribosomal protein
+NHBDKAOG_01163	K02874	large subunit ribosomal protein
+NHBDKAOG_01164	K02895	large subunit ribosomal protein
+NHBDKAOG_01165	K02931	large subunit ribosomal protein
+NHBDKAOG_01166	K02954	small subunit ribosomal protein
+NHBDKAOG_01167	K02994	small subunit ribosomal protein
+NHBDKAOG_01168	K02933	large subunit ribosomal protein
+NHBDKAOG_01169	K02881	large subunit ribosomal protein
+NHBDKAOG_01170	K02988	small subunit ribosomal protein
+NHBDKAOG_01171	K02907	large subunit ribosomal protein
+NHBDKAOG_01172	K02876	large subunit ribosomal protein
+NHBDKAOG_01173	K03076	preprotein translocase subunit SecY
+NHBDKAOG_01174	K02518	translation initiation factor IF-1
+NHBDKAOG_01175	K02952	small subunit ribosomal protein
+NHBDKAOG_01176	K02948	small subunit ribosomal protein
+NHBDKAOG_01177	K02986	small subunit ribosomal protein
+NHBDKAOG_01178	K03040	DNA-directed RNA polymerase subunit
+NHBDKAOG_01179	K02879	large subunit ribosomal protein
+NHBDKAOG_01180	K06147	ATP-binding cassette, subfamily B,
+NHBDKAOG_01182	K06445	acyl-CoA dehydrogenase [EC:1.3.99.-] 
+NHBDKAOG_01183	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_01184	K01782	3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA
+NHBDKAOG_01186	K02614	acyl-CoA thioesterase [EC:3.1.2.-] 
+NHBDKAOG_01187	K02616	phenylacetic acid degradation operon
+NHBDKAOG_01188	K14393	cation/acetate symporter  
+NHBDKAOG_01193	K15866	2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18] 
+NHBDKAOG_01194	K01912	phenylacetate-CoA ligase [EC:6.2.1.30] 
+NHBDKAOG_01195	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_01200	K20034	3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] 
+NHBDKAOG_01201	K03821	polyhydroxyalkanoate synthase subunit PhaC
+NHBDKAOG_01202	K22250	poly(3-hydroxyoctanoate) depolymerase [EC:3.1.1.76] 
+NHBDKAOG_01204	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_01205	K07516	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] 
+NHBDKAOG_01206	K06076	long-chain fatty acid transport
+NHBDKAOG_01208	K00208	enoyl-[acyl-carrier protein] reductase I
+NHBDKAOG_01209	K00575	chemotaxis protein methyltransferase CheR
+NHBDKAOG_01210	K03411	chemotaxis protein CheD [EC:3.5.1.44]
+NHBDKAOG_01210	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01212	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01212	K07216	hemerythrin   
+NHBDKAOG_01213	K03408	purine-binding chemotaxis protein CheW
+NHBDKAOG_01214	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01217	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01219	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01220	K02040	phosphate transport system substrate-binding
+NHBDKAOG_01221	K03408	purine-binding chemotaxis protein CheW
+NHBDKAOG_01222	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01224	K03407	two-component system, chemotaxis family,
+NHBDKAOG_01230	K03607	ProP effector  
+NHBDKAOG_01233	K03628	transcription termination factor Rho
+NHBDKAOG_01234	K03671	thioredoxin 1  
+NHBDKAOG_01235	K05524	ferredoxin   
+NHBDKAOG_01236	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3]
+NHBDKAOG_01237	K06867	uncharacterized protein  
+NHBDKAOG_01239	K01937	CTP synthase [EC:6.3.4.2] 
+NHBDKAOG_01240	K01627	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P
+NHBDKAOG_01241	K01689	enolase [EC:4.2.1.11]  
+NHBDKAOG_01242	K05589	cell division protein FtsB
+NHBDKAOG_01244	K18979	epoxyqueuosine reductase [EC:1.17.99.6] 
+NHBDKAOG_01245	K06925	tRNA threonylcarbamoyladenosine biosynthesis protein
+NHBDKAOG_01246	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] 
+NHBDKAOG_01249	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3] 
+NHBDKAOG_01250	K23997	ADP-dependent NAD(P)H-hydrate dehydratase /
+NHBDKAOG_01253	K07089	uncharacterized protein  
+NHBDKAOG_01255	K03325	arsenite transporter  
+NHBDKAOG_01256	K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+NHBDKAOG_01262	K09181	acetyltransferase   
+NHBDKAOG_01264	K07397	putative redox protein 
+NHBDKAOG_01266	K06917	tRNA 2-selenouridine synthase [EC:2.9.1.-]
+NHBDKAOG_01267	K07001	NTE family protein 
+NHBDKAOG_01271	K03192	urease accessory protein 
+NHBDKAOG_01272	K03657	DNA helicase II /
+NHBDKAOG_01273	K06917	tRNA 2-selenouridine synthase [EC:2.9.1.-]
+NHBDKAOG_01274	K10804	acyl-CoA thioesterase I [EC:3.1.2.-
+NHBDKAOG_01275	K02003	putative ABC transport system
+NHBDKAOG_01277	K02291	15-cis-phytoene synthase [EC:2.5.1.32] 
+NHBDKAOG_01281	K19172	DNA sulfur modification protein
+NHBDKAOG_01282	K19171	DNA sulfur modification protein
+NHBDKAOG_01285	K07486	transposase   
+NHBDKAOG_01294	K07486	transposase   
+NHBDKAOG_01296	K01999	branched-chain amino acid transport
+NHBDKAOG_01297	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01303	K01624	fructose-bisphosphate aldolase, class II
+NHBDKAOG_01308	K16074	zinc transporter  
+NHBDKAOG_01309	K01692	enoyl-CoA hydratase [EC:4.2.1.17] 
+NHBDKAOG_01312	K03821	polyhydroxyalkanoate synthase subunit PhaC
+NHBDKAOG_01314	K08683	3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA
+NHBDKAOG_01315	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_01318	K22881	polyhydroxyalkanoate synthase subunit PhaE
+NHBDKAOG_01319	K03821	polyhydroxyalkanoate synthase subunit PhaC
+NHBDKAOG_01323	K18911	L-histidine Nalpha-methyltransferase [EC:2.1.1.44] 
+NHBDKAOG_01327	K06925	tRNA threonylcarbamoyladenosine biosynthesis protein
+NHBDKAOG_01328	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] 
+NHBDKAOG_01340	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+NHBDKAOG_01342	K00620	glutamate N-acetyltransferase / amino-acid
+NHBDKAOG_01343	K03070	preprotein translocase subunit SecA
+NHBDKAOG_01343	K16922	putative peptide zinc metalloprotease
+NHBDKAOG_01345	K03688	ubiquinone biosynthesis protein 
+NHBDKAOG_01346	K03478	chitin disaccharide deacetylase [EC:3.5.1.105]
+NHBDKAOG_01348	K07264	4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43] 
+NHBDKAOG_01349	K20534	polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-] 
+NHBDKAOG_01351	K01887	arginyl-tRNA synthetase [EC:6.1.1.19] 
+NHBDKAOG_01353	K03673	protein dithiol oxidoreductase (disulfide-forming)
+NHBDKAOG_01355	K21563	CRP/FNR family transcriptional regulator,
+NHBDKAOG_01356	K18446	triphosphatase [EC:3.6.1.25]  
+NHBDKAOG_01357	K07259	serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding
+NHBDKAOG_01358	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01360	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98] 
+NHBDKAOG_01362	K03179	4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39] 
+NHBDKAOG_01367	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01368	K00821	acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]
+NHBDKAOG_01369	K00611	ornithine carbamoyltransferase [EC:2.1.3.3] 
+NHBDKAOG_01370	K01940	argininosuccinate synthase [EC:6.3.4.5] 
+NHBDKAOG_01372	K09913	purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]
+NHBDKAOG_01373	K09767	cyclic-di-GMP-binding protein  
+NHBDKAOG_01376	K00763	nicotinate phosphoribosyltransferase [EC:6.3.4.21] 
+NHBDKAOG_01377	K02825	pyrimidine operon attenuation protein
+NHBDKAOG_01378	K01868	threonyl-tRNA synthetase [EC:6.1.1.3] 
+NHBDKAOG_01379	K02520	translation initiation factor IF-3
+NHBDKAOG_01380	K02916	large subunit ribosomal protein
+NHBDKAOG_01381	K02887	large subunit ribosomal protein
+NHBDKAOG_01382	K01889	phenylalanyl-tRNA synthetase alpha chain
+NHBDKAOG_01383	K01890	phenylalanyl-tRNA synthetase beta chain
+NHBDKAOG_01384	K04764	integration host factor subunit
+NHBDKAOG_01389	K07724	Ner family transcriptional regulator
+NHBDKAOG_01393	K07497	putative transposase  
+NHBDKAOG_01402	K03088	RNA polymerase sigma-70 factor,
+NHBDKAOG_01405	K01869	leucyl-tRNA synthetase [EC:6.1.1.4] 
+NHBDKAOG_01406	K03643	LPS-assembly lipoprotein  
+NHBDKAOG_01407	K02340	DNA polymerase III subunit
+NHBDKAOG_01409	K00147	glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41] 
+NHBDKAOG_01411	K07226	heme iron utilization protein
+NHBDKAOG_01412	K07302	isoquinoline 1-oxidoreductase subunit alpha
+NHBDKAOG_01413	K07303	isoquinoline 1-oxidoreductase subunit beta
+NHBDKAOG_01414	K07402	xanthine dehydrogenase accessory factor
+NHBDKAOG_01415	K07141	molybdenum cofactor cytidylyltransferase [EC:2.7.7.76]
+NHBDKAOG_01419	K07315	phosphoserine phosphatase RsbU/P [EC:3.1.3.3]
+NHBDKAOG_01424	K02033	peptide/nickel transport system permease
+NHBDKAOG_01425	K02034	peptide/nickel transport system permease
+NHBDKAOG_01426	K02031	peptide/nickel transport system ATP-binding
+NHBDKAOG_01426	K02032	peptide/nickel transport system ATP-binding
+NHBDKAOG_01430	K01681	aconitate hydratase [EC:4.2.1.3] 
+NHBDKAOG_01434	K09803	uncharacterized protein  
+NHBDKAOG_01435	K00145	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] 
+NHBDKAOG_01436	K02996	small subunit ribosomal protein
+NHBDKAOG_01437	K02871	large subunit ribosomal protein
+NHBDKAOG_01438	K07397	putative redox protein 
+NHBDKAOG_01439	K06134	3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60] 
+NHBDKAOG_01441	K08311	putative (di)nucleoside polyphosphate hydrolase
+NHBDKAOG_01448	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01448	K07216	hemerythrin   
+NHBDKAOG_01457	K07053	3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]
+NHBDKAOG_01458	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87] 
+NHBDKAOG_01460	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2] 
+NHBDKAOG_01461	K05896	segregation and condensation protein
+NHBDKAOG_01462	K06024	segregation and condensation protein
+NHBDKAOG_01463	K06178	23S rRNA pseudouridine2605 synthase
+NHBDKAOG_01464	K09748	ribosome maturation factor RimP
+NHBDKAOG_01465	K02600	transcription termination/antitermination protein NusA
+NHBDKAOG_01466	K02519	translation initiation factor IF-2
+NHBDKAOG_01467	K02834	ribosome-binding factor A 
+NHBDKAOG_01468	K03177	tRNA pseudouridine55 synthase [EC:5.4.99.25]
+NHBDKAOG_01469	K02077	zinc/manganese transport system substrate-binding
+NHBDKAOG_01469	K09815	zinc transport system substrate-binding
+NHBDKAOG_01470	K02075	zinc/manganese transport system permease
+NHBDKAOG_01471	K02074	zinc/manganese transport system ATP-binding
+NHBDKAOG_01477	K00852	ribokinase [EC:2.7.1.15]  
+NHBDKAOG_01478	K07093	uncharacterized protein  
+NHBDKAOG_01480	K03088	RNA polymerase sigma-70 factor,
+NHBDKAOG_01482	K03427	type I restriction enzyme
+NHBDKAOG_01483	K03427	type I restriction enzyme
+NHBDKAOG_01485	K01154	type I restriction enzyme,
+NHBDKAOG_01486	K01153	type I restriction enzyme,
+NHBDKAOG_01488	K07448	restriction system protein 
+NHBDKAOG_01498	K03976	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-] 
+NHBDKAOG_01507	K05773	tungstate transport system permease
+NHBDKAOG_01508	K05772	tungstate transport system substrate-binding
+NHBDKAOG_01509	K00254	dihydroorotate dehydrogenase [EC:1.3.5.2] 
+NHBDKAOG_01510	K03617	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01511	K03616	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01512	K03615	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01513	K03614	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01514	K03612	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01515	K03613	Na+-translocating ferredoxin:NAD+ oxidoreductase subunit
+NHBDKAOG_01516	K10773	endonuclease III [EC:4.2.99.18] 
+NHBDKAOG_01518	K09989	uncharacterized protein  
+NHBDKAOG_01521	K09989	uncharacterized protein  
+NHBDKAOG_01522	K01620	threonine aldolase [EC:4.1.2.48] 
+NHBDKAOG_01525	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8
+NHBDKAOG_01526	K07019	uncharacterized protein  
+NHBDKAOG_01528	K02843	heptosyltransferase II [EC:2.4.-.-] 
+NHBDKAOG_01530	K00826	branched-chain amino acid aminotransferase
+NHBDKAOG_01531	K12152	phosphatase NudJ [EC:3.6.1.-] 
+NHBDKAOG_01533	K00566	tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13] 
+NHBDKAOG_01536	K02004	putative ABC transport system
+NHBDKAOG_01537	K02004	putative ABC transport system
+NHBDKAOG_01538	K05797	4-cresol dehydrogenase (hydroxylating) flavoprotein
+NHBDKAOG_01540	K02469	DNA gyrase subunit A
+NHBDKAOG_01541	K14170	chorismate mutase / prephenate
+NHBDKAOG_01541	K04518	prephenate dehydratase [EC:4.2.1.51] 
+NHBDKAOG_01542	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9] 
+NHBDKAOG_01543	K04517	prephenate dehydrogenase [EC:1.3.1.12] 
+NHBDKAOG_01544	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] 
+NHBDKAOG_01544	K00945	CMP/dCMP kinase [EC:2.7.4.25] 
+NHBDKAOG_01545	K02945	small subunit ribosomal protein
+NHBDKAOG_01546	K05788	integration host factor subunit
+NHBDKAOG_01547	K19804	lipopolysaccharide assembly protein B
+NHBDKAOG_01548	K21344	D-glycero-beta-D-manno-heptose-7-phosphate kinase [EC:2.7.1.167] 
+NHBDKAOG_01549	K03274	ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20] 
+NHBDKAOG_01550	K12339	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]
+NHBDKAOG_01551	K07501	3'-5' exonuclease  
+NHBDKAOG_01553	K10001	glutamate/aspartate transport system substrate-binding
+NHBDKAOG_01557	K00024	malate dehydrogenase [EC:1.1.1.37] 
+NHBDKAOG_01558	K03710	GntR family transcriptional regulator
+NHBDKAOG_01570	K07028	uncharacterized protein  
+NHBDKAOG_01571	K07028	uncharacterized protein  
+NHBDKAOG_01574	K15523	protein-ribulosamine 3-kinase [EC:2.7.1.172] 
+NHBDKAOG_01575	K13590	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01576	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01576	K02488	two-component system, cell cycle
+NHBDKAOG_01581	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01581	K07216	hemerythrin   
+NHBDKAOG_01582	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01585	K20974	two-component system, sensor histidine
+NHBDKAOG_01587	K02014	iron complex outermembrane recepter
+NHBDKAOG_01588	K02040	phosphate transport system substrate-binding
+NHBDKAOG_01589	K20974	two-component system, sensor histidine
+NHBDKAOG_01589	K20976	histidine phosphotransfer protein HptB
+NHBDKAOG_01591	K01778	diaminopimelate epimerase [EC:5.1.1.7] 
+NHBDKAOG_01592	K09921	uncharacterized protein  
+NHBDKAOG_01593	K03733	integrase/recombinase XerC  
+NHBDKAOG_01595	K02575	MFS transporter, NNP family,
+NHBDKAOG_01596	K00363	nitrite reductase (NADH) small
+NHBDKAOG_01598	K02902	large subunit ribosomal protein
+NHBDKAOG_01599	K02913	large subunit ribosomal protein
+NHBDKAOG_01600	K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] 
+NHBDKAOG_01601	K07814	putative two-component system response
+NHBDKAOG_01603	K06942	ribosome-binding ATPase  
+NHBDKAOG_01604	K01056	peptidyl-tRNA hydrolase, PTH1 family
+NHBDKAOG_01605	K02897	large subunit ribosomal protein
+NHBDKAOG_01606	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1] 
+NHBDKAOG_01608	K00919	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148] 
+NHBDKAOG_01609	K02494	outer membrane lipoprotein LolB
+NHBDKAOG_01611	K10563	formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+NHBDKAOG_01618	K00831	phosphoserine aminotransferase [EC:2.6.1.52] 
+NHBDKAOG_01619	K00058	D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate
+NHBDKAOG_01621	K00688	glycogen phosphorylase [EC:2.4.1.1] 
+NHBDKAOG_01622	K03719	Lrp/AsnC family transcriptional regulator,
+NHBDKAOG_01623	K08227	MFS transporter, LPLT family,
+NHBDKAOG_01625	K01775	alanine racemase [EC:5.1.1.1] 
+NHBDKAOG_01626	K04485	DNA repair protein RadA/Sms
+NHBDKAOG_01631	K09822	uncharacterized protein  
+NHBDKAOG_01633	K01512	acylphosphatase [EC:3.6.1.7]  
+NHBDKAOG_01635	K01525	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41] 
+NHBDKAOG_01636	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] 
+NHBDKAOG_01637	K03746	DNA-binding protein H-NS 
+NHBDKAOG_01638	K16048	3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component
+NHBDKAOG_01639	K03575	A/G-specific adenine glycosylase [EC:3.2.2.31]
+NHBDKAOG_01640	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_01642	K03186	flavin prenyltransferase [EC:2.5.1.129] 
+NHBDKAOG_01645	K16165	fumarylpyruvate hydrolase [EC:3.7.1.20] 
+NHBDKAOG_01648	K06153	undecaprenyl-diphosphatase [EC:3.6.1.27]  
+NHBDKAOG_01649	K07000	uncharacterized protein  
+NHBDKAOG_01650	K01147	exoribonuclease II [EC:3.1.13.1] 
+NHBDKAOG_01651	K03832	periplasmic protein TonB 
+NHBDKAOG_01653	K03814	monofunctional glycosyltransferase [EC:2.4.1.129] 
+NHBDKAOG_01656	K08296	phosphohistidine phosphatase [EC:3.1.3.-] 
+NHBDKAOG_01658	K01649	2-isopropylmalate synthase [EC:2.3.3.13] 
+NHBDKAOG_01659	K03719	Lrp/AsnC family transcriptional regulator,
+NHBDKAOG_01665	K09983	uncharacterized protein  
+NHBDKAOG_01667	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_01670	K05795	tellurium resistance protein TerD
+NHBDKAOG_01674	K03793	pteridine reductase [EC:1.5.1.33] 
+NHBDKAOG_01675	K14058	tRNA 2-thiocytidine biosynthesis protein
+NHBDKAOG_01677	K02242	competence protein ComFC 
+NHBDKAOG_01678	K01012	biotin synthase [EC:2.8.1.6] 
+NHBDKAOG_01679	K02169	malonyl-CoA O-methyltransferase [EC:2.1.1.197] 
+NHBDKAOG_01686	K03427	type I restriction enzyme
+NHBDKAOG_01688	K01154	type I restriction enzyme,
+NHBDKAOG_01709	K04069	pyruvate formate lyase activating
+NHBDKAOG_01710	K06990	MEMO1 family protein 
+NHBDKAOG_01710	K09141	uncharacterized protein  
+NHBDKAOG_01711	K06990	MEMO1 family protein 
+NHBDKAOG_01712	K00991	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+NHBDKAOG_01713	K01770	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+NHBDKAOG_01719	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]
+NHBDKAOG_01720	K02188	cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195] 
+NHBDKAOG_01721	K00595	precorrin-6Y C5,15-methyltransferase (decarboxylating) [EC:2.1.1.132]
+NHBDKAOG_01722	K03394	precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]
+NHBDKAOG_01723	K02189	cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+NHBDKAOG_01724	K02189	cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+NHBDKAOG_01725	K05934	precorrin-3B C17-methyltransferase [EC:2.1.1.131] 
+NHBDKAOG_01730	K01046	triacylglycerol lipase [EC:3.1.1.3] 
+NHBDKAOG_01733	K00154	coniferyl-aldehyde dehydrogenase [EC:1.2.1.68] 
+NHBDKAOG_01736	K08305	membrane-bound lytic murein transglycosylase
+NHBDKAOG_01736	K01792	glucose-6-phosphate 1-epimerase [EC:5.1.3.15] 
+NHBDKAOG_01740	K03775	FKBP-type peptidyl-prolyl cis-trans isomerase
+NHBDKAOG_01741	K01999	branched-chain amino acid transport
+NHBDKAOG_01743	K03555	DNA mismatch repair protein
+NHBDKAOG_01747	K00175	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit
+NHBDKAOG_01748	K00174	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit
+NHBDKAOG_01751	K01759	lactoylglutathione lyase [EC:4.4.1.5] 
+NHBDKAOG_01752	K07043	uncharacterized protein  
+NHBDKAOG_01753	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] 
+NHBDKAOG_01754	K03273	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82
+NHBDKAOG_01755	K01879	glycyl-tRNA synthetase beta chain
+NHBDKAOG_01756	K01878	glycyl-tRNA synthetase alpha chain
+NHBDKAOG_01757	K03820	apolipoprotein N-acyltransferase [EC:2.3.1.269] 
+NHBDKAOG_01758	K06189	magnesium and cobalt transporter
+NHBDKAOG_01759	K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] 
+NHBDKAOG_01762	K03702	excinuclease ABC subunit B
+NHBDKAOG_01763	K00832	aromatic-amino-acid transaminase [EC:2.6.1.57] 
+NHBDKAOG_01766	K02040	phosphate transport system substrate-binding
+NHBDKAOG_01767	K08683	3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA
+NHBDKAOG_01771	K01736	chorismate synthase [EC:4.2.3.5] 
+NHBDKAOG_01772	K09794	uncharacterized protein  
+NHBDKAOG_01773	K05820	MFS transporter, PPP family,
+NHBDKAOG_01774	K00259	alanine dehydrogenase [EC:1.4.1.1] 
+NHBDKAOG_01775	K07484	transposase   
+NHBDKAOG_01777	K01996	branched-chain amino acid transport
+NHBDKAOG_01777	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_01778	K01995	branched-chain amino acid transport
+NHBDKAOG_01778	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_01779	K01998	branched-chain amino acid transport
+NHBDKAOG_01780	K01997	branched-chain amino acid transport
+NHBDKAOG_01782	K07448	restriction system protein 
+NHBDKAOG_01785	K01999	branched-chain amino acid transport
+NHBDKAOG_01788	K04062	osmotically inducible lipoprotein OsmB
+NHBDKAOG_01790	K00942	guanylate kinase [EC:2.7.4.8] 
+NHBDKAOG_01791	K03060	DNA-directed RNA polymerase subunit
+NHBDKAOG_01792	K01139	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate)
+NHBDKAOG_01793	K00285	D-amino-acid dehydrogenase [EC:1.4.5.1] 
+NHBDKAOG_01794	K03424	TatD DNase family protein
+NHBDKAOG_01796	K00239	succinate dehydrogenase / fumarate
+NHBDKAOG_01796	K00244	fumarate reductase flavoprotein subunit
+NHBDKAOG_01797	K00245	fumarate reductase iron-sulfur subunit
+NHBDKAOG_01797	K00240	succinate dehydrogenase / fumarate
+NHBDKAOG_01797	K00246	fumarate reductase subunit C
+NHBDKAOG_01799	K01008	selenide, water dikinase [EC:2.7.9.3]
+NHBDKAOG_01800	K07213	copper chaperone  
+NHBDKAOG_01801	K17686	P-type Cu+ transporter [EC:7.2.2.8]
+NHBDKAOG_01801	K01533	P-type Cu2+ transporter [EC:7.2.2.9]
+NHBDKAOG_01802	K09792	uncharacterized protein  
+NHBDKAOG_01804	K19661	two-component system, NtrC family,
+NHBDKAOG_01805	K03832	periplasmic protein TonB 
+NHBDKAOG_01806	K02674	type IV pilus assembly
+NHBDKAOG_01807	K02673	type IV pilus assembly
+NHBDKAOG_01808	K02672	type IV pilus assembly
+NHBDKAOG_01809	K02671	type IV pilus assembly
+NHBDKAOG_01810	K08084	type IV fimbrial biogenesis
+NHBDKAOG_01811	K02655	type IV pilus assembly
+NHBDKAOG_01813	K03527	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+NHBDKAOG_01814	K03774	FKBP-type peptidyl-prolyl cis-trans isomerase
+NHBDKAOG_01815	K03101	signal peptidase II [EC:3.4.23.36]
+NHBDKAOG_01816	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5] 
+NHBDKAOG_01817	K11753	riboflavin kinase / FMN
+NHBDKAOG_01818	K01533	P-type Cu2+ transporter [EC:7.2.2.9]
+NHBDKAOG_01820	K00404	cytochrome c oxidase cbb3-type
+NHBDKAOG_01821	K00405	cytochrome c oxidase cbb3-type
+NHBDKAOG_01822	K00407	cytochrome c oxidase cbb3-type
+NHBDKAOG_01823	K00406	cytochrome c oxidase cbb3-type
+NHBDKAOG_01825	K09926	uncharacterized protein  
+NHBDKAOG_01826	K03832	periplasmic protein TonB 
+NHBDKAOG_01827	K18453	ADP-ribose/FAD diphosphatase [EC:3.6.1.13 3.6.1.18]
+NHBDKAOG_01828	K02556	chemotaxis protein MotA 
+NHBDKAOG_01829	K02557	chemotaxis protein MotB 
+NHBDKAOG_01830	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_01831	K01756	adenylosuccinate lyase [EC:4.3.2.2] 
+NHBDKAOG_01838	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01839	K11527	two-component system, sensor histidine
+NHBDKAOG_01842	K04090	indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]
+NHBDKAOG_01848	K03208	colanic acid biosynthesis glycosyl
+NHBDKAOG_01849	K08679	UDP-glucuronate 4-epimerase [EC:5.1.3.6] 
+NHBDKAOG_01850	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22] 
+NHBDKAOG_01853	K02020	molybdate transport system substrate-binding
+NHBDKAOG_01854	K06204	DnaK suppressor protein 
+NHBDKAOG_01855	K00962	polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] 
+NHBDKAOG_01856	K02956	small subunit ribosomal protein
+NHBDKAOG_01860	K12573	ribonuclease R [EC:3.1.13.1] 
+NHBDKAOG_01864	K03074	preprotein translocase subunit SecF
+NHBDKAOG_01865	K03072	preprotein translocase subunit SecD
+NHBDKAOG_01866	K03210	preprotein translocase subunit YajC
+NHBDKAOG_01867	K00773	queuine tRNA-ribosyltransferase [EC:2.4.2.29] 
+NHBDKAOG_01868	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]
+NHBDKAOG_01870	K00170	pyruvate ferredoxin oxidoreductase beta
+NHBDKAOG_01871	K00169	pyruvate ferredoxin oxidoreductase alpha
+NHBDKAOG_01872	K00172	pyruvate ferredoxin oxidoreductase gamma
+NHBDKAOG_01873	K14449	2-methylfumaryl-CoA hydratase [EC:4.2.1.148] 
+NHBDKAOG_01874	K08691	malyl-CoA/(S)-citramalyl-CoA lyase [EC:4.1.3.24 4.1.3.25]
+NHBDKAOG_01874	K01644	citrate lyase subunit beta
+NHBDKAOG_01875	K14470	2-methylfumaryl-CoA isomerase [EC:5.4.1.3] 
+NHBDKAOG_01878	K09709	3-methylfumaryl-CoA hydratase [EC:4.2.1.153] 
+NHBDKAOG_01881	K14448	(2S)-methylsuccinyl-CoA dehydrogenase [EC:1.3.8.12] 
+NHBDKAOG_01882	K14449	2-methylfumaryl-CoA hydratase [EC:4.2.1.148] 
+NHBDKAOG_01883	K14447	ethylmalonyl-CoA mutase [EC:5.4.99.63] 
+NHBDKAOG_01884	K07588	LAO/AO transport system kinase
+NHBDKAOG_01885	K14446	crotonyl-CoA carboxylase/reductase [EC:1.3.1.85] 
+NHBDKAOG_01886	K00344	NADPH:quinone reductase [EC:1.6.5.5] 
+NHBDKAOG_01887	K17865	3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55] 
+NHBDKAOG_01888	K00428	cytochrome c peroxidase [EC:1.11.1.5]
+NHBDKAOG_01890	K05786	chloramphenicol-sensitive protein RarD 
+NHBDKAOG_01893	K03554	recombination associated protein RdgC
+NHBDKAOG_01894	K03722	ATP-dependent DNA helicase DinG
+NHBDKAOG_01896	K03753	molybdopterin-guanine dinucleotide biosynthesis adapter
+NHBDKAOG_01897	K03750	molybdopterin molybdotransferase [EC:2.10.1.1] 
+NHBDKAOG_01898	K03636	sulfur-carrier protein  
+NHBDKAOG_01899	K03635	molybdopterin synthase catalytic subunit
+NHBDKAOG_01901	K02314	replicative DNA helicase [EC:3.6.4.12]
+NHBDKAOG_01903	K07175	PhoH-like ATPase  
+NHBDKAOG_01904	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15] 
+NHBDKAOG_01932	K01495	GTP cyclohydrolase IA [EC:3.5.4.16]
+NHBDKAOG_01934	K07115	23S rRNA (adenine2030-N6)-methyltransferase [EC:2.1.1.266]
+NHBDKAOG_01937	K07240	chromate transporter  
+NHBDKAOG_01939	K07568	S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17] 
+NHBDKAOG_01940	K00797	spermidine synthase [EC:2.5.1.16] 
+NHBDKAOG_01942	K11312	cupin 2 domain-containing protein
+NHBDKAOG_01943	K10680	N-ethylmaleimide reductase [EC:1.-.-.-] 
+NHBDKAOG_01951	K09667	protein O-GlcNAc transferase [EC:2.4.1.255]
+NHBDKAOG_01952	K03499	trk system potassium uptake
+NHBDKAOG_01956	K03296	hydrophobic/amphiphilic exporter-1 (mainly G-
+NHBDKAOG_01957	K02005	HlyD family secretion protein
+NHBDKAOG_01959	K05782	benzoate membrane transport protein
+NHBDKAOG_01960	K15738	ABC transport system ATP-binding/permease
+NHBDKAOG_01969	K15899	pseudaminic acid cytidylyltransferase [EC:2.7.7.81]
+NHBDKAOG_01971	K15894	UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115] 
+NHBDKAOG_01976	K01406	serralysin [EC:3.4.24.40]  
+NHBDKAOG_01977	K04061	flagellar biosynthesis protein 
+NHBDKAOG_01978	K21087	flagellar brake protein 
+NHBDKAOG_01979	K00247	fumarate reductase subunit D
+NHBDKAOG_01981	K00632	acetyl-CoA acyltransferase [EC:2.3.1.16] 
+NHBDKAOG_01981	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_01985	K09022	2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10] 
+NHBDKAOG_01986	K03655	ATP-dependent DNA helicase RecG
+NHBDKAOG_01987	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_01989	K03583	exodeoxyribonuclease V gamma subunit
+NHBDKAOG_01990	K03582	exodeoxyribonuclease V beta subunit
+NHBDKAOG_01991	K03581	exodeoxyribonuclease V alpha subunit
+NHBDKAOG_01992	K02454	general secretion pathway protein
+NHBDKAOG_01994	K04079	molecular chaperone HtpG 
+NHBDKAOG_01995	K04760	transcription elongation factor GreB
+NHBDKAOG_02000	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] 
+NHBDKAOG_02002	K09966	uncharacterized protein  
+NHBDKAOG_02004	K04755	ferredoxin, 2Fe-2S  
+NHBDKAOG_02005	K04044	molecular chaperone HscA 
+NHBDKAOG_02006	K04082	molecular chaperone HscB 
+NHBDKAOG_02007	K13628	iron-sulfur cluster assembly protein
+NHBDKAOG_02008	K04488	nitrogen fixation protein NifU
+NHBDKAOG_02009	K04487	cysteine desulfurase [EC:2.8.1.7] 
+NHBDKAOG_02010	K04487	cysteine desulfurase [EC:2.8.1.7] 
+NHBDKAOG_02011	K13643	Rrf2 family transcriptional regulator,
+NHBDKAOG_02012	K00640	serine O-acetyltransferase [EC:2.3.1.30] 
+NHBDKAOG_02013	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-] 
+NHBDKAOG_02014	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25] 
+NHBDKAOG_02018	K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6] 
+NHBDKAOG_02019	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4] 
+NHBDKAOG_02020	K00658	2-oxoglutarate dehydrogenase E2 component
+NHBDKAOG_02021	K00164	2-oxoglutarate dehydrogenase E1 component
+NHBDKAOG_02022	K01647	citrate synthase [EC:2.3.3.1] 
+NHBDKAOG_02023	K09159	antitoxin CptB  
+NHBDKAOG_02024	K00240	succinate dehydrogenase / fumarate
+NHBDKAOG_02025	K00239	succinate dehydrogenase / fumarate
+NHBDKAOG_02026	K00242	succinate dehydrogenase / fumarate
+NHBDKAOG_02027	K00241	succinate dehydrogenase / fumarate
+NHBDKAOG_02032	K19092	toxin ParE1/3/4  
+NHBDKAOG_02038	K08989	putative membrane protein 
+NHBDKAOG_02039	K03525	type III pantothenate kinase
+NHBDKAOG_02040	K03524	BirA family transcriptional regulator,
+NHBDKAOG_02049	K07659	two-component system, OmpR family,
+NHBDKAOG_02049	K02483	two-component system, OmpR family,
+NHBDKAOG_02050	K07638	two-component system, OmpR family,
+NHBDKAOG_02052	K02939	large subunit ribosomal protein
+NHBDKAOG_02053	K02963	small subunit ribosomal protein
+NHBDKAOG_02054	K02686	primosomal replication protein N
+NHBDKAOG_02055	K02990	small subunit ribosomal protein
+NHBDKAOG_02057	K03695	ATP-dependent Clp protease ATP-binding
+NHBDKAOG_02059	K07711	two-component system, NtrC family,
+NHBDKAOG_02061	K07715	two-component system, NtrC family,
+NHBDKAOG_02062	K01682	aconitate hydratase 2 /
+NHBDKAOG_02064	K06168	tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3] 
+NHBDKAOG_02065	K06217	phosphate starvation-inducible protein PhoH
+NHBDKAOG_02066	K07042	probable rRNA maturation factor
+NHBDKAOG_02070	K01768	adenylate cyclase [EC:4.6.1.1] 
+NHBDKAOG_02072	K07126	uncharacterized protein  
+NHBDKAOG_02073	K02473	UDP-N-acetylglucosamine 4-epimerase [EC:5.1.3.7] 
+NHBDKAOG_02074	K02474	UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-] 
+NHBDKAOG_02076	K02481	two-component system, NtrC family,
+NHBDKAOG_02080	K01907	acetoacetyl-CoA synthetase [EC:6.2.1.16] 
+NHBDKAOG_02081	K07107	acyl-CoA thioester hydrolase [EC:3.1.2.-]
+NHBDKAOG_02082	K20035	3-(methylthio)propanoyl-CoA dehydrogenase [EC:1.3.8.-] 
+NHBDKAOG_02085	K03522	electron transfer flavoprotein alpha
+NHBDKAOG_02086	K03521	electron transfer flavoprotein beta
+NHBDKAOG_02086	K03522	electron transfer flavoprotein alpha
+NHBDKAOG_02091	K04653	hydrogenase expression/formation protein HypC
+NHBDKAOG_02092	K03605	hydrogenase maturation protease [EC:3.4.23.-]
+NHBDKAOG_02093	K06281	hydrogenase large subunit [EC:1.12.99.6]
+NHBDKAOG_02095	K00124	formate dehydrogenase iron-sulfur subunit
+NHBDKAOG_02098	K20034	3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] 
+NHBDKAOG_02098	K00666	fatty-acyl-CoA synthase [EC:6.2.1.-] 
+NHBDKAOG_02099	K06889	uncharacterized protein  
+NHBDKAOG_02102	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_02103	K04047	starvation-inducible DNA-binding protein 
+NHBDKAOG_02106	K02004	putative ABC transport system
+NHBDKAOG_02109	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_02110	K20333	toxoflavin biosynthesis protein ToxD
+NHBDKAOG_02117	K04751	nitrogen regulatory protein P-II
+NHBDKAOG_02117	K04752	nitrogen regulatory protein P-II
+NHBDKAOG_02118	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02119	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02120	K15342	CRISP-associated protein Cas1 
+NHBDKAOG_02124	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]
+NHBDKAOG_02125	K10914	CRP/FNR family transcriptional regulator,
+NHBDKAOG_02126	K03466	DNA segregation ATPase FtsK/SpoIIIE,
+NHBDKAOG_02127	K03634	outer membrane lipoprotein carrier
+NHBDKAOG_02129	K06204	DnaK suppressor protein 
+NHBDKAOG_02131	K02342	DNA polymerase III subunit
+NHBDKAOG_02131	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02133	K03424	TatD DNase family protein
+NHBDKAOG_02134	K02676	type IV pilus assembly
+NHBDKAOG_02135	K02341	DNA polymerase III subunit
+NHBDKAOG_02136	K00943	dTMP kinase [EC:2.7.4.9] 
+NHBDKAOG_02137	K07082	UPF0755 protein  
+NHBDKAOG_02138	K06980	tRNA-modifying protein YgfZ 
+NHBDKAOG_02141	K11991	tRNA(adenine34) deaminase [EC:3.5.4.33] 
+NHBDKAOG_02145	K06077	outer membrane lipoprotein SlyB
+NHBDKAOG_02154	K07001	NTE family protein 
+NHBDKAOG_02164	K06926	uncharacterized protein  
+NHBDKAOG_02171	K03424	TatD DNase family protein
+NHBDKAOG_02172	K12070	conjugal transfer pilus assembly
+NHBDKAOG_02182	K03630	DNA repair protein RadC
+NHBDKAOG_02194	K07154	serine/threonine-protein kinase HipA [EC:2.7.11.1]
+NHBDKAOG_02197	K12071	conjugal transfer pilus assembly
+NHBDKAOG_02224	K03169	DNA topoisomerase III [EC:5.6.2.1]
+NHBDKAOG_02225	K03111	single-strand DNA-binding protein 
+NHBDKAOG_02233	K12055	chromosome partitioning related protein
+NHBDKAOG_02233	K03496	chromosome partitioning protein 
+NHBDKAOG_02234	K07733	prophage regulatory protein 
+NHBDKAOG_02237	K05541	tRNA-dihydrouridine synthase C [EC:1.-.-.-]
+NHBDKAOG_02238	K13590	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_02239	K19661	two-component system, NtrC family,
+NHBDKAOG_02247	K04078	chaperonin GroES  
+NHBDKAOG_02248	K04077	chaperonin GroEL  
+NHBDKAOG_02249	K03770	peptidyl-prolyl cis-trans isomerase D
+NHBDKAOG_02252	K01338	ATP-dependent Lon protease [EC:3.4.21.53]
+NHBDKAOG_02253	K03544	ATP-dependent Clp protease ATP-binding
+NHBDKAOG_02254	K01358	ATP-dependent Clp protease, protease
+NHBDKAOG_02255	K03545	trigger factor  
+NHBDKAOG_02257	K01560	2-haloacid dehalogenase [EC:3.8.1.2] 
+NHBDKAOG_02261	K02238	competence protein ComEC 
+NHBDKAOG_02263	K06919	putative DNA primase/helicase 
+NHBDKAOG_02274	K01174	micrococcal nuclease [EC:3.1.31.1] 
+NHBDKAOG_02275	K01153	type I restriction enzyme,
+NHBDKAOG_02276	K03427	type I restriction enzyme
+NHBDKAOG_02277	K01154	type I restriction enzyme,
+NHBDKAOG_02279	K20074	PPM family protein phosphatase
+NHBDKAOG_02287	K15342	CRISP-associated protein Cas1 
+NHBDKAOG_02288	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02290	K02226	alpha-ribazole phosphatase [EC:3.1.3.73] 
+NHBDKAOG_02291	K06218	mRNA interferase RelE/StbE 
+NHBDKAOG_02291	K19158	toxin YoeB [EC:3.1.-.-] 
+NHBDKAOG_02298	K00833	adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62] 
+NHBDKAOG_02299	K00652	8-amino-7-oxononanoate synthase [EC:2.3.1.47] 
+NHBDKAOG_02300	K02170	pimeloyl-[acyl-carrier protein] methyl ester
+NHBDKAOG_02301	K02169	malonyl-CoA O-methyltransferase [EC:2.1.1.197] 
+NHBDKAOG_02302	K01935	dethiobiotin synthetase [EC:6.3.3.3] 
+NHBDKAOG_02303	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_02307	K06985	aspartyl protease family protein
+NHBDKAOG_02313	K01420	CRP/FNR family transcriptional regulator,
+NHBDKAOG_02314	K02495	oxygen-independent coproporphyrinogen III oxidase
+NHBDKAOG_02315	K12286	MSHA biogenesis protein MshP
+NHBDKAOG_02316	K12285	MSHA biogenesis protein MshO
+NHBDKAOG_02317	K10927	MSHA pilin protein MshD
+NHBDKAOG_02318	K10926	MSHA pilin protein MshC
+NHBDKAOG_02319	K12287	MSHA biogenesis protein MshQ
+NHBDKAOG_02321	K10924	MSHA pilin protein MshA
+NHBDKAOG_02323	K12278	MSHA biogenesis protein MshG
+NHBDKAOG_02324	K12276	MSHA biogenesis protein MshE
+NHBDKAOG_02324	K02652	type IV pilus assembly
+NHBDKAOG_02330	K00558	DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+NHBDKAOG_02336	K07481	transposase, IS5 family 
+NHBDKAOG_02337	K03832	periplasmic protein TonB 
+NHBDKAOG_02339	K09181	acetyltransferase   
+NHBDKAOG_02341	K00703	starch synthase [EC:2.4.1.21] 
+NHBDKAOG_02342	K00975	glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] 
+NHBDKAOG_02343	K01835	phosphoglucomutase [EC:5.4.2.2]  
+NHBDKAOG_02344	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9] 
+NHBDKAOG_02346	K01356	repressor LexA [EC:3.4.21.88] 
+NHBDKAOG_02355	K18235	virginiamycin B lyase [EC:4.2.99.-]
+NHBDKAOG_02356	K11690	C4-dicarboxylate transporter, DctM subunit
+NHBDKAOG_02357	K11689	C4-dicarboxylate transporter, DctQ subunit
+NHBDKAOG_02358	K11688	C4-dicarboxylate-binding protein DctP 
+NHBDKAOG_02359	K02016	iron complex transport system
+NHBDKAOG_02360	K02225	cobalamin biosynthetic protein CobC
+NHBDKAOG_02361	K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10] 
+NHBDKAOG_02362	K02232	adenosylcobyric acid synthase [EC:6.3.5.10]
+NHBDKAOG_02364	K02231	adenosylcobinamide kinase / adenosylcobinamide-phosphate
+NHBDKAOG_02365	K00768	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21] 
+NHBDKAOG_02366	K01406	serralysin [EC:3.4.24.40]  
+NHBDKAOG_02367	K07234	uncharacterized protein involved in
+NHBDKAOG_02368	K03782	catalase-peroxidase [EC:1.11.1.21]  
+NHBDKAOG_02369	K01214	isoamylase [EC:3.2.1.68]  
+NHBDKAOG_02369	K01236	maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141] 
+NHBDKAOG_02369	K01200	pullulanase [EC:3.2.1.41]  
+NHBDKAOG_02371	K03098	apolipoprotein D and lipocalin
+NHBDKAOG_02375	K02379	FdhD protein  
+NHBDKAOG_02376	K00123	formate dehydrogenase major subunit
+NHBDKAOG_02377	K22515	formate dehydrogenase beta subunit
+NHBDKAOG_02378	K00975	glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] 
+NHBDKAOG_02379	K02203	phosphoserine / homoserine phosphotransferase
+NHBDKAOG_02380	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10] 
+NHBDKAOG_02381	K06158	ATP-binding cassette, subfamily F,
+NHBDKAOG_02382	K07216	hemerythrin   
+NHBDKAOG_02387	K03566	LysR family transcriptional regulator,
+NHBDKAOG_02390	K05825	2-aminoadipate transaminase [EC:2.6.1.-] 
+NHBDKAOG_02393	K02013	iron complex transport system
+NHBDKAOG_02394	K02015	iron complex transport system
+NHBDKAOG_02395	K16092	vitamin B12 transporter 
+NHBDKAOG_02395	K02014	iron complex outermembrane recepter
+NHBDKAOG_02397	K09888	cell division protein ZapA
+NHBDKAOG_02399	K02233	adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26] 
+NHBDKAOG_02400	K02226	alpha-ribazole phosphatase [EC:3.1.3.73] 
+NHBDKAOG_02401	K01875	seryl-tRNA synthetase [EC:6.1.1.11] 
+NHBDKAOG_02402	K07478	putative ATPase  
+NHBDKAOG_02403	K00635	diacylglycerol O-acyltransferase / wax
+NHBDKAOG_02405	K03566	LysR family transcriptional regulator,
+NHBDKAOG_02407	K00937	polyphosphate kinase [EC:2.7.4.1] 
+NHBDKAOG_02410	K09933	MtfA peptidase  
+NHBDKAOG_02411	K11711	two-component system, LuxR family,
+NHBDKAOG_02412	K11712	two-component system, LuxR family,
+NHBDKAOG_02413	K04075	tRNA(Ile)-lysidine synthase [EC:6.3.4.19] 
+NHBDKAOG_02414	K01962	acetyl-CoA carboxylase carboxyl transferase
+NHBDKAOG_02415	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]
+NHBDKAOG_02417	K03321	sulfate permease, SulP family
+NHBDKAOG_02420	K07220	uncharacterized protein  
+NHBDKAOG_02429	K01534	Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+NHBDKAOG_02431	K09122	uncharacterized protein  
+NHBDKAOG_02432	K01620	threonine aldolase [EC:4.1.2.48] 
+NHBDKAOG_02434	K01872	alanyl-tRNA synthetase [EC:6.1.1.7] 
+NHBDKAOG_02438	K07487	transposase   
+NHBDKAOG_02438	K07481	transposase, IS5 family 
+NHBDKAOG_02448	K04068	anaerobic ribonucleoside-triphosphate reductase activating
+NHBDKAOG_02452	K01998	branched-chain amino acid transport
+NHBDKAOG_02452	K01995	branched-chain amino acid transport
+NHBDKAOG_02452	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_02453	K01997	branched-chain amino acid transport
+NHBDKAOG_02454	K01999	branched-chain amino acid transport
+NHBDKAOG_02455	K05559	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02455	K05565	multicomponent Na+:H+ antiporter subunit
+NHBDKAOG_02455	K05566	multicomponent Na+:H+ antiporter subunit
+NHBDKAOG_02456	K05560	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02457	K05561	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02458	K05562	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02458	K05569	multicomponent Na+:H+ antiporter subunit
+NHBDKAOG_02459	K05563	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02459	K05570	multicomponent Na+:H+ antiporter subunit
+NHBDKAOG_02460	K05564	multicomponent K+:H+ antiporter subunit
+NHBDKAOG_02479	K01637	isocitrate lyase [EC:4.1.3.1] 
+NHBDKAOG_02483	K15633	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]
+NHBDKAOG_02485	K07182	CBS domain-containing protein 
+NHBDKAOG_02488	K06207	GTP-binding protein  
+NHBDKAOG_02489	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_02490	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase
+NHBDKAOG_02493	K19267	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+NHBDKAOG_02494	K12262	superoxide oxidase [EC:1.10.3.17] 
+NHBDKAOG_02497	K09019	3-hydroxypropanoate dehydrogenase [EC:1.1.1.-] 
+NHBDKAOG_02500	K07152	protein SCO1  
+NHBDKAOG_02502	K09796	periplasmic copper chaperone A
+NHBDKAOG_02503	K13993	HSP20 family protein 
+NHBDKAOG_02506	K03687	molecular chaperone GrpE 
+NHBDKAOG_02508	K13634	LysR family transcriptional regulator,
+NHBDKAOG_02509	K07090	uncharacterized protein  
+NHBDKAOG_02510	K00381	sulfite reductase (NADPH) hemoprotein
+NHBDKAOG_02512	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8
+NHBDKAOG_02513	K00957	sulfate adenylyltransferase subunit 2
+NHBDKAOG_02514	K00956	sulfate adenylyltransferase subunit 1
+NHBDKAOG_02516	K03218	23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+NHBDKAOG_02517	K16692	tyrosine-protein kinase Etk/Wzc [EC:2.7.10.-]
+NHBDKAOG_02518	K01991	polysaccharide biosynthesis/export protein 
+NHBDKAOG_02519	K01104	protein-tyrosine phosphatase [EC:3.1.3.48] 
+NHBDKAOG_02520	K02851	UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33
+NHBDKAOG_02528	K02437	glycine cleavage system H
+NHBDKAOG_02529	K00281	glycine dehydrogenase [EC:1.4.4.2] 
+NHBDKAOG_02530	K00432	glutathione peroxidase [EC:1.11.1.9] 
+NHBDKAOG_02533	K03544	ATP-dependent Clp protease ATP-binding
+NHBDKAOG_02534	K06889	uncharacterized protein  
+NHBDKAOG_02536	K18929	L-lactate dehydrogenase complex protein
+NHBDKAOG_02537	K00782	L-lactate dehydrogenase complex protein
+NHBDKAOG_02538	K18928	L-lactate dehydrogenase complex protein
+NHBDKAOG_02539	K05799	GntR family transcriptional regulator,
+NHBDKAOG_02540	K03664	SsrA-binding protein  
+NHBDKAOG_02541	K18588	coenzyme Q-binding protein COQ10
+NHBDKAOG_02542	K09801	uncharacterized protein  
+NHBDKAOG_02544	K00088	IMP dehydrogenase [EC:1.1.1.205] 
+NHBDKAOG_02545	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+NHBDKAOG_02547	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_02547	K07216	hemerythrin   
+NHBDKAOG_02548	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine
+NHBDKAOG_02549	K01520	dUTP pyrophosphatase [EC:3.6.1.23] 
+NHBDKAOG_02550	K03611	protein dithiol:quinone oxidoreductase [EC:1.8.5.9]
+NHBDKAOG_02551	K00507	stearoyl-CoA desaturase (Delta-9 desaturase)
+NHBDKAOG_02552	K07661	two-component system, OmpR family,
+NHBDKAOG_02553	K07639	two-component system, OmpR family,
+NHBDKAOG_02557	K03500	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+NHBDKAOG_02559	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]
+NHBDKAOG_02560	K03975	membrane-associated protein  
+NHBDKAOG_02561	K03572	DNA mismatch repair protein
+NHBDKAOG_02562	K00791	tRNA dimethylallyltransferase [EC:2.5.1.75] 
+NHBDKAOG_02563	K02342	DNA polymerase III subunit
+NHBDKAOG_02563	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02567	K03496	chromosome partitioning protein 
+NHBDKAOG_02572	K02040	phosphate transport system substrate-binding
+NHBDKAOG_02573	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_02575	K06880	erythromycin esterase [EC:3.1.1.-] 
+NHBDKAOG_02576	K07397	putative redox protein 
+NHBDKAOG_02577	K09181	acetyltransferase   
+NHBDKAOG_02580	K02456	general secretion pathway protein
+NHBDKAOG_02581	K02456	general secretion pathway protein
+NHBDKAOG_02582	K02453	general secretion pathway protein
+NHBDKAOG_02600	K09803	uncharacterized protein  
+NHBDKAOG_02616	K07493	putative transposase  
+NHBDKAOG_02619	K07012	CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.-
+NHBDKAOG_02621	K19075	CRISPR-associated protein Cst2 
+NHBDKAOG_02622	K19090	CRISPR-associated protein Cas5t 
+NHBDKAOG_02623	K15342	CRISP-associated protein Cas1 
+NHBDKAOG_02623	K07464	CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+NHBDKAOG_02624	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02628	K07137	uncharacterized protein  
+NHBDKAOG_02629	K01628	L-fuculose-phosphate aldolase [EC:4.1.2.17] 
+NHBDKAOG_02639	K01207	beta-N-acetylhexosaminidase [EC:3.2.1.52]  
+NHBDKAOG_02640	K06143	inner membrane protein 
+NHBDKAOG_02641	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_02652	K07484	transposase   
+NHBDKAOG_02654	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4] 
+NHBDKAOG_02655	K00627	pyruvate dehydrogenase E2 component
+NHBDKAOG_02656	K00163	pyruvate dehydrogenase E1 component
+NHBDKAOG_02661	K07001	NTE family protein 
+NHBDKAOG_02664	K03666	host factor-I protein 
+NHBDKAOG_02665	K03665	GTPase   
+NHBDKAOG_02666	K04088	modulator of FtsH protease
+NHBDKAOG_02667	K04087	modulator of FtsH protease
+NHBDKAOG_02668	K09937	uncharacterized protein  
+NHBDKAOG_02669	K02502	ATP phosphoribosyltransferase regulatory subunit
+NHBDKAOG_02670	K01939	adenylosuccinate synthase [EC:6.3.4.4] 
+NHBDKAOG_02673	K07182	CBS domain-containing protein 
+NHBDKAOG_02674	K02342	DNA polymerase III subunit
+NHBDKAOG_02674	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_02677	K00179	indolepyruvate ferredoxin oxidoreductase, alpha
+NHBDKAOG_02678	K00180	indolepyruvate ferredoxin oxidoreductase, beta
+NHBDKAOG_02679	K18997	chaperone modulatory protein CbpM
+NHBDKAOG_02680	K05516	curved DNA-binding protein 
+NHBDKAOG_02681	K13993	HSP20 family protein 
+NHBDKAOG_02682	K13993	HSP20 family protein 
+NHBDKAOG_02683	K09800	translocation and assembly module
+NHBDKAOG_02689	K00459	nitronate monooxygenase [EC:1.13.12.16] 
+NHBDKAOG_02692	K15724	iron-sulfur cluster insertion protein
+NHBDKAOG_02693	K02259	cytochrome c oxidase assembly
+NHBDKAOG_02695	K02257	heme o synthase [EC:2.5.1.141]
+NHBDKAOG_02696	K07152	protein SCO1  
+NHBDKAOG_02697	K11068	hemolysin III  
+NHBDKAOG_02709	K02036	phosphate transport system ATP-binding
+NHBDKAOG_02710	K02036	phosphate transport system ATP-binding
+NHBDKAOG_02711	K02038	phosphate transport system permease
+NHBDKAOG_02713	K02039	phosphate transport system protein
+NHBDKAOG_02714	K02040	phosphate transport system substrate-binding
+NHBDKAOG_02718	K07038	inner membrane protein 
+NHBDKAOG_02721	K03699	putative hemolysin  
+NHBDKAOG_02722	K03699	putative hemolysin  
+NHBDKAOG_02729	K07493	putative transposase  
+NHBDKAOG_02732	K15777	4,5-DOPA dioxygenase extradiol [EC:1.13.11.-]
+NHBDKAOG_02735	K03549	KUP system potassium uptake
+NHBDKAOG_02736	K07667	two-component system, OmpR family,
+NHBDKAOG_02737	K07646	two-component system, OmpR family,
+NHBDKAOG_02738	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]
+NHBDKAOG_02739	K02386	flagella basal body P-ring
+NHBDKAOG_02740	K02398	negative regulator of flagellin
+NHBDKAOG_02741	K02399	flagella synthesis protein FlgN
+NHBDKAOG_02742	K03189	urease accessory protein 
+NHBDKAOG_02743	K03188	urease accessory protein 
+NHBDKAOG_02744	K03187	urease accessory protein 
+NHBDKAOG_02746	K01154	type I restriction enzyme,
+NHBDKAOG_02751	K01153	type I restriction enzyme,
+NHBDKAOG_02752	K07043	uncharacterized protein  
+NHBDKAOG_02753	K02003	putative ABC transport system
+NHBDKAOG_02758	K05275	pyridoxine 4-dehydrogenase [EC:1.1.1.65] 
+NHBDKAOG_02759	K02004	putative ABC transport system
+NHBDKAOG_02762	K02030	polar amino acid transport
+NHBDKAOG_02764	K03799	heat shock protein HtpX
+NHBDKAOG_02767	K13993	HSP20 family protein 
+NHBDKAOG_02776	K01796	alpha-methylacyl-CoA racemase [EC:5.1.99.4] 
+NHBDKAOG_02778	K01996	branched-chain amino acid transport
+NHBDKAOG_02778	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_02781	K01997	branched-chain amino acid transport
+NHBDKAOG_02782	K01995	branched-chain amino acid transport
+NHBDKAOG_02782	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_02783	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3]
+NHBDKAOG_02785	K14393	cation/acetate symporter  
+NHBDKAOG_02786	K14393	cation/acetate symporter  
+NHBDKAOG_02787	K01674	carbonic anhydrase [EC:4.2.1.1] 
+NHBDKAOG_02790	K07497	putative transposase  
+NHBDKAOG_02792	K02617	phenylacetic acid degradation protein
+NHBDKAOG_02797	K02039	phosphate transport system protein
+NHBDKAOG_02798	K02040	phosphate transport system substrate-binding
+NHBDKAOG_02799	K02037	phosphate transport system permease
+NHBDKAOG_02800	K02038	phosphate transport system permease
+NHBDKAOG_02801	K02036	phosphate transport system ATP-binding
+NHBDKAOG_02802	K02039	phosphate transport system protein
+NHBDKAOG_02803	K07657	two-component system, OmpR family,
+NHBDKAOG_02804	K07636	two-component system, OmpR family,
+NHBDKAOG_02805	K09803	uncharacterized protein  
+NHBDKAOG_02807	K00995	CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5] 
+NHBDKAOG_02808	K03703	excinuclease ABC subunit C
+NHBDKAOG_02810	K01207	beta-N-acetylhexosaminidase [EC:3.2.1.52]  
+NHBDKAOG_02811	K00997	holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+NHBDKAOG_02812	K03474	pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+NHBDKAOG_02813	K03584	DNA repair protein RecO
+NHBDKAOG_02814	K03595	GTPase   
+NHBDKAOG_02815	K03685	ribonuclease III [EC:3.1.26.3] 
+NHBDKAOG_02817	K03100	signal peptidase I [EC:3.4.21.89]
+NHBDKAOG_02818	K03596	GTP-binding protein LepA 
+NHBDKAOG_02820	K04771	serine protease Do [EC:3.4.21.107]
+NHBDKAOG_02821	K03803	sigma-E factor negative regulatory
+NHBDKAOG_02822	K03088	RNA polymerase sigma-70 factor,
+NHBDKAOG_02824	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17] 
+NHBDKAOG_02825	K00906	isocitrate dehydrogenase kinase/phosphatase [EC:2.7.11.5
+NHBDKAOG_02826	K00031	isocitrate dehydrogenase [EC:1.1.1.42] 
+NHBDKAOG_02827	K07749	formyl-CoA transferase [EC:2.8.3.16] 
+NHBDKAOG_02831	K18139	outer membrane protein, multidrug
+NHBDKAOG_02832	K22468	polyphosphate kinase [EC:2.7.4.1] 
+NHBDKAOG_02833	K00208	enoyl-[acyl-carrier protein] reductase I
+NHBDKAOG_02835	K00925	acetate kinase [EC:2.7.2.1] 
+NHBDKAOG_02836	K00705	4-alpha-glucanotransferase [EC:2.4.1.25]  
+NHBDKAOG_02840	K06907	uncharacterized protein  
+NHBDKAOG_02845	K10680	N-ethylmaleimide reductase [EC:1.-.-.-] 
+NHBDKAOG_02847	K03071	preprotein translocase subunit SecB
+NHBDKAOG_02848	K03676	glutaredoxin 3  
+NHBDKAOG_02851	K22719	murein hydrolase activator 
+NHBDKAOG_02852	K03797	carboxyl-terminal processing protease [EC:3.4.21.102]
+NHBDKAOG_02854	K21029	molybdopterin-synthase adenylyltransferase [EC:2.7.7.80] 
+NHBDKAOG_02854	K03148	sulfur carrier protein ThiS
+NHBDKAOG_02855	K11752	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil
+NHBDKAOG_02856	K07738	transcriptional repressor NrdR 
+NHBDKAOG_02857	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1] 
+NHBDKAOG_02861	K02078	acyl carrier protein 
+NHBDKAOG_02871	K07481	transposase, IS5 family 
+NHBDKAOG_02877	K00793	riboflavin synthase [EC:2.5.1.9] 
+NHBDKAOG_02879	K05366	penicillin-binding protein 1A [EC:2.4.1.129
+NHBDKAOG_02881	K11085	ATP-binding cassette, subfamily B,
+NHBDKAOG_02881	K06147	ATP-binding cassette, subfamily B,
+NHBDKAOG_02883	K02848	heptose I phosphotransferase [EC:2.7.1.-]
+NHBDKAOG_02885	K02848	heptose I phosphotransferase [EC:2.7.1.-]
+NHBDKAOG_02886	K02844	UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-] 
+NHBDKAOG_02887	K02517	Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241
+NHBDKAOG_02888	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6] 
+NHBDKAOG_02889	K03328	polysaccharide transporter, PST family
+NHBDKAOG_02897	K01912	phenylacetate-CoA ligase [EC:6.2.1.30] 
+NHBDKAOG_02901	K00066	GDP-mannose 6-dehydrogenase [EC:1.1.1.132] 
+NHBDKAOG_02902	K21001	polysaccharide biosynthesis protein PslH
+NHBDKAOG_02903	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+NHBDKAOG_02905	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+NHBDKAOG_02910	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]
+NHBDKAOG_02915	K01991	polysaccharide biosynthesis/export protein 
+NHBDKAOG_02919	K02968	small subunit ribosomal protein
+NHBDKAOG_02920	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] 
+NHBDKAOG_02921	K12340	outer membrane protein 
+NHBDKAOG_02922	K02527	3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13
+NHBDKAOG_02923	K02841	heptosyltransferase I [EC:2.4.-.-] 
+NHBDKAOG_02924	K16011	mannose-1-phosphate guanylyltransferase / mannose-6-phosphate
+NHBDKAOG_02924	K00971	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13] 
+NHBDKAOG_02925	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46] 
+NHBDKAOG_02926	K00067	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133] 
+NHBDKAOG_02929	K02050	NitT/TauT family transport system
+NHBDKAOG_02932	K03969	phage shock protein A
+NHBDKAOG_02935	K07340	inner membrane protein 
+NHBDKAOG_02939	K07287	outer membrane protein assembly
+NHBDKAOG_02940	K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] 
+NHBDKAOG_02940	K03517	quinolinate synthase [EC:2.5.1.72] 
+NHBDKAOG_02942	K03924	MoxR-like ATPase [EC:3.6.3.-] 
+NHBDKAOG_02944	K22452	protein-glutamine gamma-glutamyltransferase [EC:2.3.2.13] 
+NHBDKAOG_02945	K08305	membrane-bound lytic murein transglycosylase
+NHBDKAOG_02947	K06194	lipoprotein NlpD  
+NHBDKAOG_02948	K07497	putative transposase  
+NHBDKAOG_02952	K07497	putative transposase  
+NHBDKAOG_02963	K07492	putative transposase  
+NHBDKAOG_02964	K07492	putative transposase  
+NHBDKAOG_02974	K09803	uncharacterized protein  
+NHBDKAOG_02986	K03824	putative acetyltransferase [EC:2.3.1.-] 
+NHBDKAOG_02988	K07154	serine/threonine-protein kinase HipA [EC:2.7.11.1]
+NHBDKAOG_02993	K08997	uncharacterized protein  
+NHBDKAOG_02996	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1] 
+NHBDKAOG_02996	K00872	homoserine kinase [EC:2.7.1.39] 
+NHBDKAOG_02997	K10763	DnaA-homolog protein  
+NHBDKAOG_02999	K00970	poly(A) polymerase [EC:2.7.7.19] 
+NHBDKAOG_03000	K00950	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3] 
+NHBDKAOG_03003	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] 
+NHBDKAOG_03009	K01130	arylsulfatase [EC:3.1.6.1]  
+NHBDKAOG_03011	K02970	small subunit ribosomal protein
+NHBDKAOG_03016	K01130	arylsulfatase [EC:3.1.6.1]  
+NHBDKAOG_03019	K20074	PPM family protein phosphatase
+NHBDKAOG_03021	K11473	glycolate oxidase iron-sulfur subunit
+NHBDKAOG_03022	K11472	glycolate oxidase FAD binding
+NHBDKAOG_03023	K00104	glycolate oxidase [EC:1.1.3.15] 
+NHBDKAOG_03024	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03025	K07807	uncharacterized protein  
+NHBDKAOG_03026	K08970	nickel/cobalt transporter (NicO) family
+NHBDKAOG_03032	K00042	2-hydroxy-3-oxopropionate reductase [EC:1.1.1.60] 
+NHBDKAOG_03032	K00020	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31] 
+NHBDKAOG_03033	K00042	2-hydroxy-3-oxopropionate reductase [EC:1.1.1.60] 
+NHBDKAOG_03033	K00020	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31] 
+NHBDKAOG_03036	K10764	O-succinylhomoserine sulfhydrylase [EC:2.5.1.-] 
+NHBDKAOG_03037	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]  
+NHBDKAOG_03038	K03558	membrane protein required for
+NHBDKAOG_03039	K03749	DedD protein  
+NHBDKAOG_03040	K11754	dihydrofolate synthase / folylpolyglutamate
+NHBDKAOG_03041	K01963	acetyl-CoA carboxylase carboxyl transferase
+NHBDKAOG_03042	K01695	tryptophan synthase alpha chain
+NHBDKAOG_03043	K01696	tryptophan synthase beta chain
+NHBDKAOG_03043	K01817	phosphoribosylanthranilate isomerase [EC:5.3.1.24] 
+NHBDKAOG_03051	K04748	nitric oxide reductase NorQ
+NHBDKAOG_03052	K01601	ribulose-bisphosphate carboxylase large chain
+NHBDKAOG_03055	K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+NHBDKAOG_03056	K00873	pyruvate kinase [EC:2.7.1.40] 
+NHBDKAOG_03057	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6] 
+NHBDKAOG_03059	K01414	oligopeptidase A [EC:3.4.24.70] 
+NHBDKAOG_03061	K14393	cation/acetate symporter  
+NHBDKAOG_03064	K01586	diaminopimelate decarboxylase [EC:4.1.1.20] 
+NHBDKAOG_03067	K02005	HlyD family secretion protein
+NHBDKAOG_03068	K02003	putative ABC transport system
+NHBDKAOG_03069	K02004	putative ABC transport system
+NHBDKAOG_03070	K02004	putative ABC transport system
+NHBDKAOG_03071	K03190	urease accessory protein 
+NHBDKAOG_03082	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_03083	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03085	K07025	putative hydrolase of the
+NHBDKAOG_03086	K00930	acetylglutamate kinase [EC:2.7.2.8] 
+NHBDKAOG_03087	K01894	glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]
+NHBDKAOG_03088	K06131	cardiolipin synthase A/B [EC:2.7.8.-]
+NHBDKAOG_03089	K03442	small conductance mechanosensitive channel
+NHBDKAOG_03090	K22226	Fe-coproporphyrin III synthase 
+NHBDKAOG_03093	K09005	uncharacterized protein  
+NHBDKAOG_03094	K03181	chorismate--pyruvate lyase [EC:4.1.3.40] 
+NHBDKAOG_03095	K07666	two-component system, OmpR family,
+NHBDKAOG_03096	K07645	two-component system, OmpR family,
+NHBDKAOG_03096	K02484	two-component system, OmpR family,
+NHBDKAOG_03097	K04771	serine protease Do [EC:3.4.21.107]
+NHBDKAOG_03102	K06195	ApaG protein  
+NHBDKAOG_03103	K01783	ribulose-phosphate 3-epimerase [EC:5.1.3.1] 
+NHBDKAOG_03104	K01091	phosphoglycolate phosphatase [EC:3.1.3.18] 
+NHBDKAOG_03105	K01657	anthranilate synthase component I
+NHBDKAOG_03107	K07090	uncharacterized protein  
+NHBDKAOG_03110	K01847	methylmalonyl-CoA mutase [EC:5.4.99.2] 
+NHBDKAOG_03110	K01849	methylmalonyl-CoA mutase, C-terminal domain
+NHBDKAOG_03111	K07588	LAO/AO transport system kinase
+NHBDKAOG_03112	K01966	propionyl-CoA carboxylase beta chain
+NHBDKAOG_03113	K01965	propionyl-CoA carboxylase alpha chain
+NHBDKAOG_03114	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_03120	K01990	ABC-2 type transport system
+NHBDKAOG_03121	K09667	protein O-GlcNAc transferase [EC:2.4.1.255]
+NHBDKAOG_03133	K05366	penicillin-binding protein 1A [EC:2.4.1.129
+NHBDKAOG_03143	K03427	type I restriction enzyme
+NHBDKAOG_03148	K01974	RNA 3'-terminal phosphate cyclase
+NHBDKAOG_03149	K14415	tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy
+NHBDKAOG_03153	K14414	transcriptional regulatory protein RtcR
+NHBDKAOG_03159	K15371	glutamate dehydrogenase [EC:1.4.1.2] 
+NHBDKAOG_03160	K15371	glutamate dehydrogenase [EC:1.4.1.2] 
+NHBDKAOG_03161	K10004	glutamate/aspartate transport system ATP-binding
+NHBDKAOG_03161	K02028	polar amino acid transport
+NHBDKAOG_03161	K02030	polar amino acid transport
+NHBDKAOG_03161	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_03162	K10002	glutamate/aspartate transport system permease
+NHBDKAOG_03162	K02029	polar amino acid transport
+NHBDKAOG_03163	K10003	glutamate/aspartate transport system permease
+NHBDKAOG_03163	K02029	polar amino acid transport
+NHBDKAOG_03165	K00568	2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9
+NHBDKAOG_03166	K03286	OmpA-OmpF porin, OOP family
+NHBDKAOG_03167	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]
+NHBDKAOG_03168	K03286	OmpA-OmpF porin, OOP family
+NHBDKAOG_03169	K12410	NAD-dependent deacetylase [EC:3.5.1.-] 
+NHBDKAOG_03171	K03723	transcription-repair coupling factor (superfamily
+NHBDKAOG_03172	K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] 
+NHBDKAOG_03173	K06213	magnesium transporter  
+NHBDKAOG_03174	K18446	triphosphatase [EC:3.6.1.25]  
+NHBDKAOG_03180	K01721	nitrile hydratase subunit alpha
+NHBDKAOG_03183	K03723	transcription-repair coupling factor (superfamily
+NHBDKAOG_03184	K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] 
+NHBDKAOG_03185	K00873	pyruvate kinase [EC:2.7.1.40] 
+NHBDKAOG_03187	K05939	acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein]
+NHBDKAOG_03187	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] 
+NHBDKAOG_03190	K05541	tRNA-dihydrouridine synthase C [EC:1.-.-.-]
+NHBDKAOG_03191	K07667	two-component system, OmpR family,
+NHBDKAOG_03192	K07646	two-component system, OmpR family,
+NHBDKAOG_03193	K01548	potassium-transporting ATPase KdpC subunit
+NHBDKAOG_03194	K01547	potassium-transporting ATPase ATP-binding subunit
+NHBDKAOG_03195	K01546	potassium-transporting ATPase potassium-binding subunit
+NHBDKAOG_03196	K01545	potassium-transporting ATPase KdpF subunit
+NHBDKAOG_03197	K03321	sulfate permease, SulP family
+NHBDKAOG_03199	K00135	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde
+NHBDKAOG_03201	K03455	monovalent cation:H+ antiporter-2, CPA2
+NHBDKAOG_03209	K02238	competence protein ComEC 
+NHBDKAOG_03210	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03210	K07216	hemerythrin   
+NHBDKAOG_03211	K09810	lipoprotein-releasing system ATP-binding protein
+NHBDKAOG_03211	K02003	putative ABC transport system
+NHBDKAOG_03212	K09808	lipoprotein-releasing system permease protein
+NHBDKAOG_03212	K02004	putative ABC transport system
+NHBDKAOG_03214	K07462	single-stranded-DNA-specific exonuclease [EC:3.1.-.-] 
+NHBDKAOG_03215	K01624	fructose-bisphosphate aldolase, class II
+NHBDKAOG_03216	K00895	diphosphate-dependent phosphofructokinase [EC:2.7.1.90] 
+NHBDKAOG_03224	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03226	K02836	peptide chain release factor
+NHBDKAOG_03227	K04567	lysyl-tRNA synthetase, class II
+NHBDKAOG_03228	K15461	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional
+NHBDKAOG_03230	K01740	O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49] 
+NHBDKAOG_03233	K06916	cell division protein ZapE
+NHBDKAOG_03234	K07160	5-oxoprolinase (ATP-hydrolysing) subunit A
+NHBDKAOG_03237	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+NHBDKAOG_03239	K07814	putative two-component system response
+NHBDKAOG_03242	K03776	aerotaxis receptor  
+NHBDKAOG_03242	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03242	K07216	hemerythrin   
+NHBDKAOG_03244	K07076	uncharacterized protein  
+NHBDKAOG_03248	K03699	putative hemolysin  
+NHBDKAOG_03249	K03699	putative hemolysin  
+NHBDKAOG_03251	K03324	phosphate:Na+ symporter  
+NHBDKAOG_03252	K03699	putative hemolysin  
+NHBDKAOG_03253	K03699	putative hemolysin  
+NHBDKAOG_03254	K03699	putative hemolysin  
+NHBDKAOG_03255	K03498	trk system potassium uptake
+NHBDKAOG_03261	K00525	ribonucleoside-diphosphate reductase alpha chain
+NHBDKAOG_03264	K06999	phospholipase/carboxylesterase   
+NHBDKAOG_03267	K00864	glycerol kinase [EC:2.7.1.30] 
+NHBDKAOG_03275	K00865	glycerate 2-kinase [EC:2.7.1.165] 
+NHBDKAOG_03276	K00625	phosphate acetyltransferase [EC:2.3.1.8] 
+NHBDKAOG_03276	K00634	phosphate butyryltransferase [EC:2.3.1.19] 
+NHBDKAOG_03277	K18005	[NiFe] hydrogenase diaphorase moiety
+NHBDKAOG_03278	K18006	[NiFe] hydrogenase diaphorase moiety
+NHBDKAOG_03279	K02674	type IV pilus assembly
+NHBDKAOG_03280	K02673	type IV pilus assembly
+NHBDKAOG_03281	K02672	type IV pilus assembly
+NHBDKAOG_03282	K02671	type IV pilus assembly
+NHBDKAOG_03283	K08084	type IV fimbrial biogenesis
+NHBDKAOG_03284	K02655	type IV pilus assembly
+NHBDKAOG_03289	K09793	uncharacterized protein  
+NHBDKAOG_03291	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03307	K07497	putative transposase  
+NHBDKAOG_03309	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+NHBDKAOG_03310	K02337	DNA polymerase III subunit
+NHBDKAOG_03312	K03750	molybdopterin molybdotransferase [EC:2.10.1.1] 
+NHBDKAOG_03313	K03639	GTP 3',8-cyclase [EC:4.1.99.22] 
+NHBDKAOG_03319	K02387	flagellar basal-body rod protein
+NHBDKAOG_03320	K02388	flagellar basal-body rod protein
+NHBDKAOG_03321	K02389	flagellar basal-body rod modification
+NHBDKAOG_03322	K02390	flagellar hook protein FlgE
+NHBDKAOG_03323	K02391	flagellar basal-body rod protein
+NHBDKAOG_03324	K02392	flagellar basal-body rod protein
+NHBDKAOG_03325	K02393	flagellar L-ring protein precursor
+NHBDKAOG_03326	K02394	flagellar P-ring protein precursor
+NHBDKAOG_03327	K02395	flagellar protein FlgJ 
+NHBDKAOG_03328	K02396	flagellar hook-associated protein 1
+NHBDKAOG_03329	K02397	flagellar hook-associated protein 3
+NHBDKAOG_03332	K21470	L,D-transpeptidase YcbB  
+NHBDKAOG_03333	K03154	sulfur carrier protein 
+NHBDKAOG_03334	K03149	thiazole synthase [EC:2.8.1.10] 
+NHBDKAOG_03335	K03439	tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33] 
+NHBDKAOG_03336	K03832	periplasmic protein TonB 
+NHBDKAOG_03339	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66] 
+NHBDKAOG_03340	K00989	ribonuclease PH [EC:2.7.7.56] 
+NHBDKAOG_03341	K20074	PPM family protein phosphatase
+NHBDKAOG_03344	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66] 
+NHBDKAOG_03345	K03630	DNA repair protein RadC
+NHBDKAOG_03346	K00003	homoserine dehydrogenase [EC:1.1.1.3] 
+NHBDKAOG_03347	K14260	alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]
+NHBDKAOG_03348	K14261	alanine-synthesizing transaminase [EC:2.6.1.-] 
+NHBDKAOG_03349	K09008	NADH dehydrogenase [ubiquinone] 1
+NHBDKAOG_03355	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_03355	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_03358	K03413	two-component system, chemotaxis family,
+NHBDKAOG_03359	K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6] 
+NHBDKAOG_03361	K03469	ribonuclease HI [EC:3.1.26.4] 
+NHBDKAOG_03362	K02342	DNA polymerase III subunit
+NHBDKAOG_03362	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_03364	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-]
+NHBDKAOG_03365	K03557	Fis family transcriptional regulator,
+NHBDKAOG_03366	K00602	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP
+NHBDKAOG_03367	K01945	phosphoribosylamine---glycine ligase [EC:6.3.4.13] 
+NHBDKAOG_03368	K00228	coproporphyrinogen III oxidase [EC:1.3.3.3]
+NHBDKAOG_03369	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75] 
+NHBDKAOG_03370	K01749	hydroxymethylbilane synthase [EC:2.5.1.61] 
+NHBDKAOG_03372	K02303	uroporphyrin-III C-methyltransferase [EC:2.1.1.107] 
+NHBDKAOG_03373	K08083	two-component system, LytTR family,
+NHBDKAOG_03374	K08082	two-component system, LytTR family,
+NHBDKAOG_03375	K01755	argininosuccinate lyase [EC:4.3.2.1] 
+NHBDKAOG_03376	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_03376	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_03378	K07390	monothiol glutaredoxin  
+NHBDKAOG_03379	K02493	release factor glutamine methyltransferase
+NHBDKAOG_03380	K02835	peptide chain release factor
+NHBDKAOG_03381	K02492	glutamyl-tRNA reductase [EC:1.2.1.70] 
+NHBDKAOG_03385	K02045	sulfate/thiosulfate transport system ATP-binding
+NHBDKAOG_03385	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_03386	K02047	sulfate/thiosulfate transport system permease
+NHBDKAOG_03387	K02046	sulfate/thiosulfate transport system permease
+NHBDKAOG_03388	K02048	sulfate/thiosulfate transport system substrate-binding
+NHBDKAOG_03389	K07262	serine-type D-Ala-D-Ala endopeptidase (penicillin-binding
+NHBDKAOG_03390	K07001	NTE family protein 
+NHBDKAOG_03391	K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+NHBDKAOG_03392	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+NHBDKAOG_03394	K03806	N-acetyl-anhydromuramoyl-L-alanine amidase [EC:3.5.1.28] 
+NHBDKAOG_03395	K02667	two-component system, NtrC family,
+NHBDKAOG_03396	K02668	two-component system, NtrC family,
+NHBDKAOG_03401	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90] 
+NHBDKAOG_03402	K07444	putative N6-adenine-specific DNA methylase
+NHBDKAOG_03403	K08973	putative membrane protein 
+NHBDKAOG_03405	K00523	CDP-4-dehydro-6-deoxyglucose reductase, E3 [EC:1.17.1.1]
+NHBDKAOG_03411	K00372	assimilatory nitrate reductase catalytic
+NHBDKAOG_03413	K03831	molybdopterin adenylyltransferase [EC:2.7.7.75] 
+NHBDKAOG_03413	K06999	phospholipase/carboxylesterase   
+NHBDKAOG_03414	K09889	ribosome-associated protein  
+NHBDKAOG_03415	K03592	PmbA protein  
+NHBDKAOG_03417	K20444	O-antigen biosynthesis protein [EC:2.4.1.-]
+NHBDKAOG_03418	K09691	lipopolysaccharide transport system ATP-binding
+NHBDKAOG_03419	K09690	lipopolysaccharide transport system permease
+NHBDKAOG_03420	K01790	dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13] 
+NHBDKAOG_03421	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24] 
+NHBDKAOG_03426	K05794	tellurite resistance protein TerC
+NHBDKAOG_03427	K01673	carbonic anhydrase [EC:4.2.1.1] 
+NHBDKAOG_03428	K03799	heat shock protein HtpX
+NHBDKAOG_03430	K03717	LysR family transcriptional regulator,
+NHBDKAOG_03433	K09931	uncharacterized protein  
+NHBDKAOG_03435	K02888	large subunit ribosomal protein
+NHBDKAOG_03436	K02899	large subunit ribosomal protein
+NHBDKAOG_03437	K03979	GTPase [EC:3.6.5.-]  
+NHBDKAOG_03438	K00931	glutamate 5-kinase [EC:2.7.2.11] 
+NHBDKAOG_03442	K09137	uncharacterized protein  
+NHBDKAOG_03443	K06199	fluoride exporter  
+NHBDKAOG_03447	K18778	cell division protein ZapD
+NHBDKAOG_03448	K00859	dephospho-CoA kinase [EC:2.7.1.24] 
+NHBDKAOG_03450	K06001	tryptophan synthase beta chain
+NHBDKAOG_03451	K01611	S-adenosylmethionine decarboxylase [EC:4.1.1.50] 
+NHBDKAOG_03452	K07552	MFS transporter, DHA1 family,
+NHBDKAOG_03453	K07391	magnesium chelatase family protein
+NHBDKAOG_03454	K09806	uncharacterized protein  
+NHBDKAOG_03455	K04752	nitrogen regulatory protein P-II
+NHBDKAOG_03455	K04751	nitrogen regulatory protein P-II
+NHBDKAOG_03456	K03320	ammonium transporter, Amt family
+NHBDKAOG_03470	K21498	antitoxin HigA-1  
+NHBDKAOG_03471	K07726	putative transcriptional regulator 
+NHBDKAOG_03474	K23548	uptake hydrogenase small subunit
+NHBDKAOG_03475	K19641	two-component system, NtrC family,
+NHBDKAOG_03476	K19640	putative two-component system protein,
+NHBDKAOG_03477	K04655	hydrogenase expression/formation protein HypE
+NHBDKAOG_03478	K04654	hydrogenase expression/formation protein HypD
+NHBDKAOG_03480	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_03480	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_03481	K20074	PPM family protein phosphatase
+NHBDKAOG_03482	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_03482	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_03486	K01733	threonine synthase [EC:4.2.3.1] 
+NHBDKAOG_03497	K04653	hydrogenase expression/formation protein HypC
+NHBDKAOG_03498	K04656	hydrogenase maturation protein HypF
+NHBDKAOG_03498	K01512	acylphosphatase [EC:3.6.1.7]  
+NHBDKAOG_03499	K04652	hydrogenase nickel incorporation protein
+NHBDKAOG_03500	K04651	hydrogenase nickel incorporation protein
+NHBDKAOG_03502	K02193	heme exporter protein A
+NHBDKAOG_03503	K02194	heme exporter protein B
+NHBDKAOG_03504	K02195	heme exporter protein C
+NHBDKAOG_03505	K02196	heme exporter protein D
+NHBDKAOG_03506	K02197	cytochrome c-type biogenesis protein
+NHBDKAOG_03507	K02198	cytochrome c-type biogenesis protein
+NHBDKAOG_03508	K02199	cytochrome c biogenesis protein
+NHBDKAOG_03509	K02200	cytochrome c-type biogenesis protein
+NHBDKAOG_03510	K02200	cytochrome c-type biogenesis protein
+NHBDKAOG_03511	K07075	uncharacterized protein  
+NHBDKAOG_03523	K01720	2-methylcitrate dehydratase [EC:4.2.1.79] 
+NHBDKAOG_03524	K01659	2-methylcitrate synthase [EC:2.3.3.5] 
+NHBDKAOG_03525	K03642	rare lipoprotein A 
+NHBDKAOG_03527	K03644	lipoyl synthase [EC:2.8.1.8] 
+NHBDKAOG_03528	K03801	lipoyl(octanoyl) transferase [EC:2.3.1.181] 
+NHBDKAOG_03529	K09158	uncharacterized protein  
+NHBDKAOG_03530	K07258	serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding
+NHBDKAOG_03532	K03642	rare lipoprotein A 
+NHBDKAOG_03533	K05837	rod shape determining protein
+NHBDKAOG_03534	K05515	penicillin-binding protein 2 [EC:3.4.16.4]
+NHBDKAOG_03535	K03571	rod shape-determining protein MreD
+NHBDKAOG_03536	K03570	rod shape-determining protein MreC
+NHBDKAOG_03537	K03569	rod shape-determining protein MreB
+NHBDKAOG_03538	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C
+NHBDKAOG_03539	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A
+NHBDKAOG_03539	K01426	amidase [EC:3.5.1.4]  
+NHBDKAOG_03540	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B
+NHBDKAOG_03542	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10] 
+NHBDKAOG_03543	K01142	exodeoxyribonuclease III [EC:3.1.11.2] 
+NHBDKAOG_03544	K05594	ElaB protein  
+NHBDKAOG_03547	K10800	single-strand selective monofunctional uracil
+NHBDKAOG_03548	K08218	MFS transporter, PAT family,
+NHBDKAOG_03550	K00641	homoserine O-acetyltransferase/O-succinyltransferase [EC:2.3.1.31 2.3.1.46]
+NHBDKAOG_03551	K08483	phosphoenolpyruvate-protein phosphotransferase (PTS system
+NHBDKAOG_03552	K02784	phosphocarrier protein HPr 
+NHBDKAOG_03554	K03734	FAD:protein FMN transferase [EC:2.7.1.180]
+NHBDKAOG_03555	K01920	glutathione synthase [EC:6.3.2.3] 
+NHBDKAOG_03557	K05805	CreA protein  
+NHBDKAOG_03561	K04719	5,6-dimethylbenzimidazole synthase [EC:1.13.11.79] 
+NHBDKAOG_03562	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17] 
+NHBDKAOG_03563	K02224	cobyrinic acid a,c-diamide synthase
+NHBDKAOG_03567	K10001	glutamate/aspartate transport system substrate-binding
+NHBDKAOG_03570	K00537	arsenate reductase (glutaredoxin) [EC:1.20.4.1]
+NHBDKAOG_03572	K09181	acetyltransferase   
+NHBDKAOG_03573	K11745	glutathione-regulated potassium-efflux system ancillary
+NHBDKAOG_03573	K03455	monovalent cation:H+ antiporter-2, CPA2
+NHBDKAOG_03574	K11746	glutathione-regulated potassium-efflux system ancillary
+NHBDKAOG_03582	K19810	L-lysine 2,3-aminomutase [EC:5.4.3.-] 
+NHBDKAOG_03583	K02356	elongation factor P 
+NHBDKAOG_03584	K04568	elongation factor P--(R)-beta-lysine ligase
+NHBDKAOG_03585	K11530	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase [EC:5.3.1.32] 
+NHBDKAOG_03588	K01061	carboxymethylenebutenolidase [EC:3.1.1.45]  
+NHBDKAOG_03589	K19135	CRISPR-associated protein Csx14 
+NHBDKAOG_03592	K20074	PPM family protein phosphatase
+NHBDKAOG_03594	K01902	succinyl-CoA synthetase alpha subunit
+NHBDKAOG_03595	K01903	succinyl-CoA synthetase beta subunit
+NHBDKAOG_03601	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_03602	K01026	propionate CoA-transferase [EC:2.8.3.1] 
+NHBDKAOG_03604	K12340	outer membrane protein 
+NHBDKAOG_03605	K02005	HlyD family secretion protein
+NHBDKAOG_03606	K02003	putative ABC transport system
+NHBDKAOG_03606	K02030	polar amino acid transport
+NHBDKAOG_03607	K02004	putative ABC transport system
+NHBDKAOG_03608	K01726	gamma-carbonic anhydrase [EC:4.2.1.-] 
+NHBDKAOG_03615	K20074	PPM family protein phosphatase
+NHBDKAOG_03617	K01902	succinyl-CoA synthetase alpha subunit
+NHBDKAOG_03636	K05834	homoserine/homoserine lactone efflux protein
+NHBDKAOG_03638	K02066	phospholipid/cholesterol/gamma-HCH transport system permease
+NHBDKAOG_03639	K02065	phospholipid/cholesterol/gamma-HCH transport system ATP-binding
+NHBDKAOG_03639	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_03640	K02067	phospholipid/cholesterol/gamma-HCH transport system substrate-binding
+NHBDKAOG_03641	K18480	cholesterol transport system auxiliary
+NHBDKAOG_03642	K00666	fatty-acyl-CoA synthase [EC:6.2.1.-] 
+NHBDKAOG_03644	K03578	ATP-dependent helicase HrpA [EC:3.6.4.13]
+NHBDKAOG_03648	K09774	lipopolysaccharide export system protein
+NHBDKAOG_03649	K11719	lipopolysaccharide export system protein
+NHBDKAOG_03650	K03270	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO
+NHBDKAOG_03651	K06041	arabinose-5-phosphate isomerase [EC:5.3.1.13] 
+NHBDKAOG_03662	K12284	MSHA biogenesis protein MshN
+NHBDKAOG_03664	K12283	MSHA biogenesis protein MshM
+NHBDKAOG_03664	K03112	DamX protein  
+NHBDKAOG_03666	K02065	phospholipid/cholesterol/gamma-HCH transport system ATP-binding
+NHBDKAOG_03667	K02066	phospholipid/cholesterol/gamma-HCH transport system permease
+NHBDKAOG_03668	K02067	phospholipid/cholesterol/gamma-HCH transport system substrate-binding
+NHBDKAOG_03669	K04754	phospholipid-binding lipoprotein MlaA 
+NHBDKAOG_03670	K07323	phospholipid transport system substrate-binding
+NHBDKAOG_03671	K07122	phospholipid transport system transporter-binding
+NHBDKAOG_03672	K01990	ABC-2 type transport system
+NHBDKAOG_03675	K00790	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7] 
+NHBDKAOG_03676	K00615	transketolase [EC:2.2.1.1]  
+NHBDKAOG_03677	K00855	phosphoribulokinase [EC:2.7.1.19]  
+NHBDKAOG_03678	K01086	fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase
+NHBDKAOG_03678	K03841	fructose-1,6-bisphosphatase I [EC:3.1.3.11] 
+NHBDKAOG_03679	K21703	LysR family transcriptional regulator,
+NHBDKAOG_03680	K07649	two-component system, OmpR family,
+NHBDKAOG_03681	K02483	two-component system, OmpR family,
+NHBDKAOG_03682	K01451	hippurate hydrolase [EC:3.5.1.32] 
+NHBDKAOG_03683	K06958	RNase adapter protein RapZ
+NHBDKAOG_03685	K01251	adenosylhomocysteinase [EC:3.3.1.1]  
+NHBDKAOG_03686	K00297	methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+NHBDKAOG_03691	K00681	gamma-glutamyltranspeptidase / glutathione hydrolase
+NHBDKAOG_03699	K09125	uncharacterized protein  
+NHBDKAOG_03701	K01531	P-type Mg2+ transporter [EC:7.2.2.14]
+NHBDKAOG_03710	K00990	[protein-PII] uridylyltransferase [EC:2.7.7.59] 
+NHBDKAOG_03714	K01507	inorganic pyrophosphatase [EC:3.6.1.1] 
+NHBDKAOG_03716	K14415	tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy
+NHBDKAOG_03720	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03722	K00411	ubiquinol-cytochrome c reductase iron-sulfur
+NHBDKAOG_03723	K08591	acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]
+NHBDKAOG_03724	K01633	7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8
+NHBDKAOG_03725	K04065	hyperosmotically inducible periplasmic protein
+NHBDKAOG_03726	K03271	D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]
+NHBDKAOG_03728	K07460	putative endonuclease  
+NHBDKAOG_03729	K07056	16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+NHBDKAOG_03731	K19345	protein NirF  
+NHBDKAOG_03732	K22225	siroheme decarboxylase [EC:4.1.1.111] 
+NHBDKAOG_03736	K03925	MraZ protein  
+NHBDKAOG_03737	K03438	16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+NHBDKAOG_03738	K03586	cell division protein FtsL
+NHBDKAOG_03739	K03587	cell division protein FtsI
+NHBDKAOG_03740	K01928	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13] 
+NHBDKAOG_03741	K01929	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10] 
+NHBDKAOG_03742	K01000	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]  
+NHBDKAOG_03743	K01925	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9] 
+NHBDKAOG_03744	K03588	cell division protein FtsW
+NHBDKAOG_03745	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NHBDKAOG_03746	K01924	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] 
+NHBDKAOG_03747	K01921	D-alanine-D-alanine ligase [EC:6.3.2.4] 
+NHBDKAOG_03748	K03589	cell division protein FtsQ
+NHBDKAOG_03750	K03925	MraZ protein  
+NHBDKAOG_03751	K03438	16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+NHBDKAOG_03752	K03586	cell division protein FtsL
+NHBDKAOG_03753	K03587	cell division protein FtsI
+NHBDKAOG_03754	K01928	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13] 
+NHBDKAOG_03755	K01929	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10] 
+NHBDKAOG_03756	K01000	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]  
+NHBDKAOG_03757	K01925	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9] 
+NHBDKAOG_03758	K03588	cell division protein FtsW
+NHBDKAOG_03759	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NHBDKAOG_03760	K01924	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] 
+NHBDKAOG_03761	K01921	D-alanine-D-alanine ligase [EC:6.3.2.4] 
+NHBDKAOG_03762	K03589	cell division protein FtsQ
+NHBDKAOG_03763	K03590	cell division protein FtsA
+NHBDKAOG_03764	K03531	cell division protein FtsZ
+NHBDKAOG_03765	K02535	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+NHBDKAOG_03771	K08303	putative protease [EC:3.4.-.-] 
+NHBDKAOG_03772	K08303	putative protease [EC:3.4.-.-] 
+NHBDKAOG_03773	K03608	cell division topological specificity
+NHBDKAOG_03774	K03609	septum site-determining protein MinD
+NHBDKAOG_03775	K03610	septum site-determining protein MinC
+NHBDKAOG_03776	K03185	2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-] 
+NHBDKAOG_03777	K01262	Xaa-Pro aminopeptidase [EC:3.4.11.9] 
+NHBDKAOG_03778	K00992	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99]
+NHBDKAOG_03779	K07102	N-acetylmuramate 1-kinase [EC:2.7.1.221] 
+NHBDKAOG_03781	K04744	LPS-assembly protein  
+NHBDKAOG_03782	K03771	peptidyl-prolyl cis-trans isomerase SurA
+NHBDKAOG_03783	K00097	4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262] 
+NHBDKAOG_03784	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]
+NHBDKAOG_03786	K01142	exodeoxyribonuclease III [EC:3.1.11.2] 
+NHBDKAOG_03787	K15371	glutamate dehydrogenase [EC:1.4.1.2] 
+NHBDKAOG_03788	K10004	glutamate/aspartate transport system ATP-binding
+NHBDKAOG_03788	K02028	polar amino acid transport
+NHBDKAOG_03788	K02030	polar amino acid transport
+NHBDKAOG_03788	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_03789	K10002	glutamate/aspartate transport system permease
+NHBDKAOG_03789	K02029	polar amino acid transport
+NHBDKAOG_03790	K10003	glutamate/aspartate transport system permease
+NHBDKAOG_03790	K02029	polar amino acid transport
+NHBDKAOG_03791	K05597	glutamin-(asparagin-)ase [EC:3.5.1.38]  
+NHBDKAOG_03791	K01424	L-asparaginase [EC:3.5.1.1]  
+NHBDKAOG_03792	K10001	glutamate/aspartate transport system substrate-binding
+NHBDKAOG_03794	K00275	pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]
+NHBDKAOG_03795	K22900	tRNA (adenine37-N6)-methyltransferase [EC:2.1.1.-] 
+NHBDKAOG_03799	K03795	sirohydrochlorin cobaltochelatase [EC:4.99.1.3] 
+NHBDKAOG_03800	K22292	N-acetyl-D-muramate 6-phosphate phosphatase [EC:3.1.3.105]
+NHBDKAOG_03800	K01091	phosphoglycolate phosphatase [EC:3.1.3.18] 
+NHBDKAOG_03802	K00018	glycerate dehydrogenase [EC:1.1.1.29] 
+NHBDKAOG_03810	K01658	anthranilate synthase component II
+NHBDKAOG_03810	K01664	para-aminobenzoate synthetase component II
+NHBDKAOG_03811	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18] 
+NHBDKAOG_03815	K18303	multidrug efflux pump 
+NHBDKAOG_03817	K02662	type IV pilus assembly
+NHBDKAOG_03818	K02663	type IV pilus assembly
+NHBDKAOG_03819	K02664	type IV pilus assembly
+NHBDKAOG_03820	K02665	type IV pilus assembly
+NHBDKAOG_03821	K02666	type IV pilus assembly
+NHBDKAOG_03822	K00891	shikimate kinase [EC:2.7.1.71] 
+NHBDKAOG_03823	K01735	3-dehydroquinate synthase [EC:4.2.3.4] 
+NHBDKAOG_03824	K01129	dGTPase [EC:3.1.5.1]  
+NHBDKAOG_03826	K00325	H+-translocating NAD(P) transhydrogenase subunit
+NHBDKAOG_03828	K07216	hemerythrin   
+NHBDKAOG_03831	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]
+NHBDKAOG_03833	K03654	ATP-dependent DNA helicase RecQ
+NHBDKAOG_03834	K03269	UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54] 
+NHBDKAOG_03836	K03767	peptidyl-prolyl cis-trans isomerase A
+NHBDKAOG_03838	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16] 
+NHBDKAOG_03839	K01999	branched-chain amino acid transport
+NHBDKAOG_03840	K03686	molecular chaperone DnaJ 
+NHBDKAOG_03841	K04043	molecular chaperone DnaK 
+NHBDKAOG_03842	K03687	molecular chaperone GrpE 
+NHBDKAOG_03843	K12132	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+NHBDKAOG_03843	K08884	serine/threonine protein kinase, bacterial
+NHBDKAOG_03846	K03667	ATP-dependent HslUV protease ATP-binding
+NHBDKAOG_03847	K01419	ATP-dependent HslUV protease, peptidase
+NHBDKAOG_03849	K01689	enolase [EC:4.2.1.11]  
+NHBDKAOG_03850	K03892	ArsR family transcriptional regulator,
+NHBDKAOG_03851	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_03851	K02030	polar amino acid transport
+NHBDKAOG_03852	K11071	spermidine/putrescine transport system permease
+NHBDKAOG_03853	K11070	spermidine/putrescine transport system permease
+NHBDKAOG_03856	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8] 
+NHBDKAOG_03857	K00788	thiamine-phosphate pyrophosphorylase [EC:2.5.1.3] 
+NHBDKAOG_03860	K02657	twitching motility two-component system
+NHBDKAOG_03861	K02658	twitching motility two-component system
+NHBDKAOG_03862	K02659	twitching motility protein PilI
+NHBDKAOG_03863	K02660	twitching motility protein PilJ
+NHBDKAOG_03863	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03864	K06596	chemosensory pili system protein
+NHBDKAOG_03864	K02487	type IV pili sensor
+NHBDKAOG_03865	K01669	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3] 
+NHBDKAOG_03874	K21023	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_03876	K01698	porphobilinogen synthase [EC:4.2.1.24] 
+NHBDKAOG_03877	K03978	GTP-binding protein  
+NHBDKAOG_03881	K15634	probable phosphoglycerate mutase [EC:5.4.2.12]
+NHBDKAOG_03882	K11942	isobutyryl-CoA mutase [EC:5.4.99.13] 
+NHBDKAOG_03885	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_03885	K07216	hemerythrin   
+NHBDKAOG_03891	K13012	O-antigen biosynthesis protein WbqP
+NHBDKAOG_03892	K03086	RNA polymerase primary sigma
+NHBDKAOG_03893	K02316	DNA primase [EC:2.7.7.101] 
+NHBDKAOG_03898	K02042	phosphonate transport system permease
+NHBDKAOG_03899	K02042	phosphonate transport system permease
+NHBDKAOG_03900	K02041	phosphonate transport system ATP-binding
+NHBDKAOG_03901	K02044	phosphonate transport system substrate-binding
+NHBDKAOG_03902	K01008	selenide, water dikinase [EC:2.7.9.3]
+NHBDKAOG_03904	K04758	ferrous iron transport protein
+NHBDKAOG_03905	K04759	ferrous iron transport protein
+NHBDKAOG_03907	K07267	porin   
+NHBDKAOG_03908	K06202	CyaY protein  
+NHBDKAOG_03909	K01586	diaminopimelate decarboxylase [EC:4.1.1.20] 
+NHBDKAOG_03915	K08678	UDP-glucuronate decarboxylase [EC:4.1.1.35] 
+NHBDKAOG_03916	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] 
+NHBDKAOG_03917	K01854	UDP-galactopyranose mutase [EC:5.4.99.9] 
+NHBDKAOG_03922	K09691	lipopolysaccharide transport system ATP-binding
+NHBDKAOG_03925	K12452	CDP-4-dehydro-6-deoxyglucose reductase, E1 [EC:1.17.1.1]
+NHBDKAOG_03926	K01709	CDP-glucose 4,6-dehydratase [EC:4.2.1.45] 
+NHBDKAOG_03927	K00978	glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33] 
+NHBDKAOG_03928	K02007	cobalt/nickel transport system permease
+NHBDKAOG_03928	K02008	cobalt/nickel transport system permease
+NHBDKAOG_03929	K02009	cobalt/nickel transport protein 
+NHBDKAOG_03930	K02008	cobalt/nickel transport system permease
+NHBDKAOG_03931	K02006	cobalt/nickel transport system ATP-binding
+NHBDKAOG_03932	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]
+NHBDKAOG_03934	K00612	carbamoyltransferase [EC:2.1.3.-]  
+NHBDKAOG_03940	K02078	acyl carrier protein 
+NHBDKAOG_03942	K02078	acyl carrier protein 
+NHBDKAOG_03947	K03634	outer membrane lipoprotein carrier
+NHBDKAOG_03952	K07487	transposase   
+NHBDKAOG_03952	K07481	transposase, IS5 family 
+NHBDKAOG_03956	K07246	tartrate dehydrogenase/decarboxylase / D-malate
+NHBDKAOG_03957	K01561	haloacetate dehalogenase [EC:3.8.1.3] 
+NHBDKAOG_03961	K07290	AsmA family protein 
+NHBDKAOG_03970	K03427	type I restriction enzyme
+NHBDKAOG_03971	K01154	type I restriction enzyme,
+NHBDKAOG_03972	K01153	type I restriction enzyme,
+NHBDKAOG_03973	K07043	uncharacterized protein  
+NHBDKAOG_03977	K07274	MipA family protein 
+NHBDKAOG_03978	K18240	chorismate lyase / 3-hydroxybenzoate
+NHBDKAOG_03983	K03600	stringent starvation protein B
+NHBDKAOG_03984	K03599	stringent starvation protein A
+NHBDKAOG_03984	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_03985	K00413	ubiquinol-cytochrome c reductase cytochrome
+NHBDKAOG_03986	K00412	ubiquinol-cytochrome c reductase cytochrome
+NHBDKAOG_03987	K00411	ubiquinol-cytochrome c reductase iron-sulfur
+NHBDKAOG_03988	K06187	recombination protein RecR 
+NHBDKAOG_03989	K09747	uncharacterized protein  
+NHBDKAOG_03990	K02343	DNA polymerase III subunit
+NHBDKAOG_03992	K03154	sulfur carrier protein 
+NHBDKAOG_03994	K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5] 
+NHBDKAOG_03999	K08300	ribonuclease E [EC:3.1.26.12] 
+NHBDKAOG_04000	K06179	23S rRNA pseudouridine955/2504/2580 synthase
+NHBDKAOG_04002	K04773	protease IV [EC:3.4.21.-] 
+NHBDKAOG_04003	K07056	16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+NHBDKAOG_04004	K06287	septum formation protein 
+NHBDKAOG_04005	K07040	uncharacterized protein  
+NHBDKAOG_04006	K02911	large subunit ribosomal protein
+NHBDKAOG_04007	K03621	phosphate acyltransferase [EC:2.3.1.274] 
+NHBDKAOG_04008	K00648	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+NHBDKAOG_04009	K00645	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] 
+NHBDKAOG_04010	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+NHBDKAOG_04011	K02078	acyl carrier protein 
+NHBDKAOG_04012	K09458	3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]
+NHBDKAOG_04013	K19168	toxin CptA  
+NHBDKAOG_04014	K00278	L-aspartate oxidase [EC:1.4.3.16] 
+NHBDKAOG_04015	K00963	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] 
+NHBDKAOG_04019	K01507	inorganic pyrophosphatase [EC:3.6.1.1] 
+NHBDKAOG_04022	K11209	GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]
+NHBDKAOG_04022	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_04023	K05972	acetylxylan esterase [EC:3.1.1.72] 
+NHBDKAOG_04023	K03932	polyhydroxybutyrate depolymerase  
+NHBDKAOG_04024	K01652	acetolactate synthase I/II/III large
+NHBDKAOG_04025	K01653	acetolactate synthase I/III small
+NHBDKAOG_04030	K08307	membrane-bound lytic murein transglycosylase
+NHBDKAOG_04036	K09947	uncharacterized protein  
+NHBDKAOG_04037	K08304	membrane-bound lytic murein transglycosylase
+NHBDKAOG_04038	K06923	uncharacterized protein  
+NHBDKAOG_04039	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55] 
+NHBDKAOG_04040	K01214	isoamylase [EC:3.2.1.68]  
+NHBDKAOG_04041	K00700	1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+NHBDKAOG_04042	K00688	glycogen phosphorylase [EC:2.4.1.1] 
+NHBDKAOG_04045	K04083	molecular chaperone Hsp33 
+NHBDKAOG_04046	K03517	quinolinate synthase [EC:2.5.1.72] 
+NHBDKAOG_04048	K01915	glutamine synthetase [EC:6.3.1.2] 
+NHBDKAOG_04051	K13635	LysR family transcriptional regulator,
+NHBDKAOG_04052	K02045	sulfate/thiosulfate transport system ATP-binding
+NHBDKAOG_04052	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_04052	K02030	polar amino acid transport
+NHBDKAOG_04053	K02047	sulfate/thiosulfate transport system permease
+NHBDKAOG_04054	K02046	sulfate/thiosulfate transport system permease
+NHBDKAOG_04055	K23163	sulfate/thiosulfate transport system substrate-binding
+NHBDKAOG_04061	K06133	4'-phosphopantetheinyl transferase [EC:2.7.8.-] 
+NHBDKAOG_04063	K00645	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] 
+NHBDKAOG_04065	K03549	KUP system potassium uptake
+NHBDKAOG_04066	K03284	magnesium transporter  
+NHBDKAOG_04067	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] 
+NHBDKAOG_04068	K00075	UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98] 
+NHBDKAOG_04069	K06182	23S rRNA pseudouridine2604 synthase
+NHBDKAOG_04071	K22132	tRNA threonylcarbamoyladenosine dehydratase 
+NHBDKAOG_04072	K13590	diguanylate cyclase [EC:2.7.7.65] 
+NHBDKAOG_04074	K03190	urease accessory protein 
+NHBDKAOG_04075	K01430	urease subunit gamma [EC:3.5.1.5]
+NHBDKAOG_04076	K01429	urease subunit beta [EC:3.5.1.5]
+NHBDKAOG_04077	K01428	urease subunit alpha [EC:3.5.1.5]
+NHBDKAOG_04078	K00882	1-phosphofructokinase [EC:2.7.1.56]  
+NHBDKAOG_04102	K01159	crossover junction endodeoxyribonuclease RuvC
+NHBDKAOG_04103	K06919	putative DNA primase/helicase 
+NHBDKAOG_04107	K19789	DNA repair protein RadD
+NHBDKAOG_04119	K06400	site-specific DNA recombinase 
+NHBDKAOG_04123	K20532	type IV secretion system
+NHBDKAOG_04124	K20267	type IV secretion system
+NHBDKAOG_04125	K20533	type IV secretion system
+NHBDKAOG_04126	K20266	type IV secretion system
+NHBDKAOG_04128	K07344	type IV secretion system
+NHBDKAOG_04142	K07787	Cu(I)/Ag(I) efflux system membrane
+NHBDKAOG_04143	K07798	membrane fusion protein, Cu(I)/Ag(I)
+NHBDKAOG_04143	K15727	membrane fusion protein, cobalt-zinc-cadmium
+NHBDKAOG_04144	K15725	outer membrane protein, cobalt-zinc-cadmium
+NHBDKAOG_04145	K07665	two-component system, OmpR family,
+NHBDKAOG_04146	K07644	two-component system, OmpR family,
+NHBDKAOG_04154	K03688	ubiquinone biosynthesis protein 
+NHBDKAOG_04162	K03530	DNA-binding protein HU-beta 
+NHBDKAOG_04163	K03701	excinuclease ABC subunit A
+NHBDKAOG_04165	K03111	single-strand DNA-binding protein 
+NHBDKAOG_04166	K01265	methionyl aminopeptidase [EC:3.4.11.18] 
+NHBDKAOG_04167	K00990	[protein-PII] uridylyltransferase [EC:2.7.7.59] 
+NHBDKAOG_04172	K14441	ribosomal protein S12 methylthiotransferase
+NHBDKAOG_04173	K01613	phosphatidylserine decarboxylase [EC:4.1.1.65] 
+NHBDKAOG_04177	K01993	HlyD family secretion protein
+NHBDKAOG_04178	K01990	ABC-2 type transport system
+NHBDKAOG_04179	K01992	ABC-2 type transport system
+NHBDKAOG_04182	K07497	putative transposase  
+NHBDKAOG_04186	K03498	trk system potassium uptake
+NHBDKAOG_04187	K11960	urea transport system permease
+NHBDKAOG_04187	K01997	branched-chain amino acid transport
+NHBDKAOG_04188	K11961	urea transport system permease
+NHBDKAOG_04189	K11962	urea transport system ATP-binding
+NHBDKAOG_04189	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_04190	K11963	urea transport system ATP-binding
+NHBDKAOG_04190	K10822	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2] 
+NHBDKAOG_04191	K03321	sulfate permease, SulP family
+NHBDKAOG_04195	K01524	exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+NHBDKAOG_04196	K04066	primosomal protein N' (replication
+NHBDKAOG_04197	K01599	uroporphyrinogen decarboxylase [EC:4.1.1.37] 
+NHBDKAOG_04198	K03498	trk system potassium uptake
+NHBDKAOG_04199	K03499	trk system potassium uptake
+NHBDKAOG_04201	K13598	two-component system, NtrC family,
+NHBDKAOG_04203	K03500	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+NHBDKAOG_04204	K13283	ferrous-iron efflux pump FieF
+NHBDKAOG_04206	K03799	heat shock protein HtpX
+NHBDKAOG_04207	K00604	methionyl-tRNA formyltransferase [EC:2.1.2.9] 
+NHBDKAOG_04208	K01462	peptide deformylase [EC:3.5.1.88] 
+NHBDKAOG_04210	K04096	DNA processing protein 
+NHBDKAOG_04211	K03169	DNA topoisomerase III [EC:5.6.2.1]
+NHBDKAOG_04212	K04761	LysR family transcriptional regulator,
+NHBDKAOG_04215	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17] 
+NHBDKAOG_04217	K00631	glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15] 
+NHBDKAOG_04220	K03699	putative hemolysin  
+NHBDKAOG_04221	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20] 
+NHBDKAOG_04223	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3] 
+NHBDKAOG_04225	K03640	peptidoglycan-associated lipoprotein  
+NHBDKAOG_04226	K03641	TolB protein  
+NHBDKAOG_04285	K01154	type I restriction enzyme,
+NHBDKAOG_04287	K03427	type I restriction enzyme
+NHBDKAOG_04304	K03556	LuxR family transcriptional regulator,
+NHBDKAOG_04307	K02030	polar amino acid transport
+NHBDKAOG_04309	K02030	polar amino acid transport
+NHBDKAOG_04310	K07315	phosphoserine phosphatase RsbU/P [EC:3.1.3.3]
+NHBDKAOG_04311	K19055	Ala-tRNA(Pro) deacylase [EC:3.1.1.-] 
+NHBDKAOG_04315	K07746	antitoxin ParD1/3/4  
+NHBDKAOG_04318	K04749	anti-sigma B factor antagonist
+NHBDKAOG_04319	K01214	isoamylase [EC:3.2.1.68]  
+NHBDKAOG_04321	K04757	serine/threonine-protein kinase RsbW [EC:2.7.11.1]
+NHBDKAOG_04336	K00252	glutaryl-CoA dehydrogenase [EC:1.3.8.6] 
+NHBDKAOG_04342	K06886	hemoglobin   
+NHBDKAOG_04346	K01153	type I restriction enzyme,
+NHBDKAOG_04347	K03427	type I restriction enzyme
+NHBDKAOG_04348	K01154	type I restriction enzyme,
+NHBDKAOG_04352	K06173	tRNA pseudouridine38-40 synthase [EC:5.4.99.12]
+NHBDKAOG_04354	K08086	pilus assembly protein FimV
+NHBDKAOG_04355	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] 
+NHBDKAOG_04356	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85] 
+NHBDKAOG_04357	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit
+NHBDKAOG_04359	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit
+NHBDKAOG_04362	K13924	two-component system, chemotaxis family,
+NHBDKAOG_04362	K00575	chemotaxis protein methyltransferase CheR
+NHBDKAOG_04373	K03427	type I restriction enzyme
+NHBDKAOG_04374	K01154	type I restriction enzyme,
+NHBDKAOG_04376	K01153	type I restriction enzyme,
+NHBDKAOG_04381	K06400	site-specific DNA recombinase 
+NHBDKAOG_04388	K07733	prophage regulatory protein 
+NHBDKAOG_04391	K12279	MSHA biogenesis protein MshI
+NHBDKAOG_04393	K12280	MSHA biogenesis protein MshJ
+NHBDKAOG_04394	K12281	MSHA biogenesis protein MshK
+NHBDKAOG_04395	K12282	MSHA biogenesis protein MshL
+NHBDKAOG_04396	K12283	MSHA biogenesis protein MshM
+NHBDKAOG_04397	K12284	MSHA biogenesis protein MshN
+NHBDKAOG_04403	K07316	adenine-specific DNA-methyltransferase [EC:2.1.1.72] 
+NHBDKAOG_04406	K01156	type III restriction enzyme
+NHBDKAOG_04413	K07001	NTE family protein 
+NHBDKAOG_04416	K00635	diacylglycerol O-acyltransferase / wax
+NHBDKAOG_04419	K06949	ribosome biogenesis GTPase /
+NHBDKAOG_04420	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96] 
+NHBDKAOG_04421	K06013	STE24 endopeptidase [EC:3.4.24.84] 
+NHBDKAOG_04422	K13288	oligoribonuclease [EC:3.1.-.-]  
+NHBDKAOG_04424	K02909	large subunit ribosomal protein
+NHBDKAOG_04425	K02967	small subunit ribosomal protein
+NHBDKAOG_04426	K02357	elongation factor Ts 
+NHBDKAOG_04427	K09903	uridylate kinase [EC:2.7.4.22] 
+NHBDKAOG_04428	K02838	ribosome recycling factor 
+NHBDKAOG_04429	K00806	undecaprenyl diphosphate synthase [EC:2.5.1.31]
+NHBDKAOG_04430	K00981	phosphatidate cytidylyltransferase [EC:2.7.7.41] 
+NHBDKAOG_04431	K00099	1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267] 
+NHBDKAOG_04432	K11749	regulator of sigma E
+NHBDKAOG_04433	K07277	outer membrane protein insertion
+NHBDKAOG_04434	K06142	outer membrane protein 
+NHBDKAOG_04435	K02536	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+NHBDKAOG_04436	K02372	3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59] 
+NHBDKAOG_04437	K00677	UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129] 
+NHBDKAOG_04438	K00748	lipid-A-disaccharide synthase [EC:2.4.1.182] 
+NHBDKAOG_04439	K03470	ribonuclease HII [EC:3.1.26.4] 
+NHBDKAOG_04440	K03437	RNA methyltransferase, TrmH family
+NHBDKAOG_04445	K07491	putative transposase  
+NHBDKAOG_04447	K07075	uncharacterized protein  
+NHBDKAOG_04448	K07075	uncharacterized protein  
+NHBDKAOG_04449	K07491	putative transposase  
+NHBDKAOG_04458	K07337	penicillin-binding protein activator 
+NHBDKAOG_04460	K09859	uncharacterized protein  
+NHBDKAOG_04461	K00362	nitrite reductase (NADH) large
+NHBDKAOG_04463	K20074	PPM family protein phosphatase
+NHBDKAOG_04474	K09859	uncharacterized protein  
+NHBDKAOG_04476	K23541	Ca2+/H+ antiporter, TMEM165/GDT1 family
+NHBDKAOG_04482	K00981	phosphatidate cytidylyltransferase [EC:2.7.7.41] 
+NHBDKAOG_04485	K06911	quercetin 2,3-dioxygenase [EC:1.13.11.24] 
+NHBDKAOG_04490	K07154	serine/threonine-protein kinase HipA [EC:2.7.11.1]
+NHBDKAOG_04495	K07043	uncharacterized protein  
+NHBDKAOG_04496	K01153	type I restriction enzyme,
+NHBDKAOG_04498	K01154	type I restriction enzyme,
+NHBDKAOG_04501	K03427	type I restriction enzyme
+NHBDKAOG_04507	K15011	two-component system, sensor histidine
+NHBDKAOG_04508	K15012	two-component system, response regulator
+NHBDKAOG_04509	K04762	ribosome-associated heat shock protein
+NHBDKAOG_04511	K03577	TetR/AcrR family transcriptional regulator,
+NHBDKAOG_04514	K18138	multidrug efflux pump 
+NHBDKAOG_04519	K03502	DNA polymerase V 
+NHBDKAOG_04520	K03503	DNA polymerase V [EC:3.4.21.-]
+NHBDKAOG_04524	K01246	DNA-3-methyladenine glycosylase I [EC:3.2.2.20]
+NHBDKAOG_04526	K07039	uncharacterized protein  
+NHBDKAOG_04529	K09951	CRISPR-associated protein Cas2 
+NHBDKAOG_04530	K15342	CRISP-associated protein Cas1 
+NHBDKAOG_04531	K19126	CRISPR system Cascade subunit
+NHBDKAOG_04532	K19125	CRISPR system Cascade subunit
+NHBDKAOG_04533	K19124	CRISPR system Cascade subunit
+NHBDKAOG_04534	K19046	CRISPR system Cascade subunit
+NHBDKAOG_04535	K19123	CRISPR system Cascade subunit
+NHBDKAOG_04536	K07012	CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.-
+NHBDKAOG_04539	K07659	two-component system, OmpR family,
+NHBDKAOG_04540	K07638	two-component system, OmpR family,
+NHBDKAOG_04542	K00287	dihydrofolate reductase [EC:1.5.1.3] 
+NHBDKAOG_04543	K00560	thymidylate synthase [EC:2.1.1.45] 
+NHBDKAOG_04544	K23127	cyclic-di-GMP-binding protein  
+NHBDKAOG_04545	K01874	methionyl-tRNA synthetase [EC:6.1.1.10] 
+NHBDKAOG_04546	K11065	thiol peroxidase, atypical 2-Cys
+NHBDKAOG_04552	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] 
+NHBDKAOG_04565	K19158	toxin YoeB [EC:3.1.-.-] 
+NHBDKAOG_04566	K00311	electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1] 
+NHBDKAOG_04567	K19745	acrylyl-CoA reductase (NADPH) [EC:1.3.1.-]
+NHBDKAOG_04571	K07263	zinc protease [EC:3.4.24.-] 
+NHBDKAOG_04572	K03282	large conductance mechanosensitive channel
+NHBDKAOG_04573	K14287	methionine transaminase [EC:2.6.1.88] 
+NHBDKAOG_04586	K09667	protein O-GlcNAc transferase [EC:2.4.1.255]
+NHBDKAOG_04591	K09456	putative acyl-CoA dehydrogenase 
+NHBDKAOG_04593	K06131	cardiolipin synthase A/B [EC:2.7.8.-]
+NHBDKAOG_04595	K07497	putative transposase  
+NHBDKAOG_04597	K07481	transposase, IS5 family 
+NHBDKAOG_04598	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_04600	K07216	hemerythrin   
+NHBDKAOG_04605	K02051	NitT/TauT family transport system
+NHBDKAOG_04607	K07814	putative two-component system response
+NHBDKAOG_04608	K03412	two-component system, chemotaxis family,
+NHBDKAOG_04611	K02030	polar amino acid transport
+NHBDKAOG_04616	K09950	uncharacterized protein  
+NHBDKAOG_04617	K02004	putative ABC transport system
+NHBDKAOG_04627	K07491	putative transposase  
+NHBDKAOG_04633	K07010	putative glutamine amidotransferase 
+NHBDKAOG_04635	K06048	glutamate---cysteine ligase / carboxylate-amine
+NHBDKAOG_04640	K07090	uncharacterized protein  
+NHBDKAOG_04642	K22042	ArsR family transcriptional regulator,
+NHBDKAOG_04643	K07112	uncharacterized protein  
+NHBDKAOG_04659	K02051	NitT/TauT family transport system
+NHBDKAOG_04686	K07492	putative transposase  
+NHBDKAOG_04696	K06894	alpha-2-macroglobulin   
+NHBDKAOG_04697	K11206	deaminated glutathione amidase [EC:3.5.1.128]
+NHBDKAOG_04698	K03568	TldD protein  
+NHBDKAOG_04704	K00219	2,4-dienoyl-CoA reductase (NADPH2) [EC:1.3.1.34]
+NHBDKAOG_04705	K07663	two-component system, OmpR family,
+NHBDKAOG_04706	K07641	two-component system, OmpR family,
+NHBDKAOG_04710	K11527	two-component system, sensor histidine
+NHBDKAOG_04712	K07484	transposase   
+NHBDKAOG_04715	K07814	putative two-component system response
+NHBDKAOG_04717	K21345	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase [EC:2.7.7.70]
+NHBDKAOG_04722	K07647	two-component system, OmpR family,
+NHBDKAOG_04722	K20976	histidine phosphotransfer protein HptB
+NHBDKAOG_04723	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_04736	K07492	putative transposase  
+NHBDKAOG_04738	K02557	chemotaxis protein MotB 
+NHBDKAOG_04744	K15864	nitrite reductase (NO-forming) /
+NHBDKAOG_04746	K00374	nitrate reductase gamma subunit
+NHBDKAOG_04747	K00373	nitrate reductase molybdenum cofactor
+NHBDKAOG_04748	K00371	nitrate reductase / nitrite
+NHBDKAOG_04749	K00370	nitrate reductase / nitrite
+NHBDKAOG_04750	K02575	MFS transporter, NNP family,
+NHBDKAOG_04751	K02575	MFS transporter, NNP family,
+NHBDKAOG_04759	K01975	RNA 2',3'-cyclic 3'-phosphodiesterase [EC:3.1.4.58]
+NHBDKAOG_04762	K07486	transposase   
+NHBDKAOG_04764	K03559	biopolymer transport protein ExbD
+NHBDKAOG_04765	K03787	5'-nucleotidase [EC:3.1.3.5]  
+NHBDKAOG_04766	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] 
+NHBDKAOG_04768	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]
+NHBDKAOG_04769	K18829	antitoxin VapB  
+NHBDKAOG_04783	K18930	D-lactate dehydrogenase  
+NHBDKAOG_04785	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_04787	K03303	lactate permease  
+NHBDKAOG_04788	K11711	two-component system, LuxR family,
+NHBDKAOG_04788	K14986	two-component system, LuxR family,
+NHBDKAOG_04789	K11712	two-component system, LuxR family,
+NHBDKAOG_04789	K14987	two-component system, LuxR family,
+NHBDKAOG_04789	K13041	two-component system, LuxR family,
+NHBDKAOG_04790	K01817	phosphoribosylanthranilate isomerase [EC:5.3.1.24] 
+NHBDKAOG_04791	K07497	putative transposase  
+NHBDKAOG_04804	K09803	uncharacterized protein  
+NHBDKAOG_04807	K18700	fluoroacetyl-CoA thioesterase [EC:3.1.2.29] 
+NHBDKAOG_04813	K06996	uncharacterized protein  
+NHBDKAOG_04818	K00569	thiopurine S-methyltransferase [EC:2.1.1.67] 
+NHBDKAOG_04820	K00799	glutathione S-transferase [EC:2.5.1.18] 
+NHBDKAOG_04823	K01692	enoyl-CoA hydratase [EC:4.2.1.17] 
+NHBDKAOG_04827	K03566	LysR family transcriptional regulator,
+NHBDKAOG_04835	K07484	transposase   
+NHBDKAOG_04849	K03406	methyl-accepting chemotaxis protein 
+NHBDKAOG_04850	K07497	putative transposase  
+NHBDKAOG_04851	K07483	transposase   
+NHBDKAOG_04854	K05301	sulfite dehydrogenase [EC:1.8.2.1] 
+NHBDKAOG_04872	K07497	putative transposase  
+NHBDKAOG_04875	K07075	uncharacterized protein  
+NHBDKAOG_04876	K07075	uncharacterized protein  

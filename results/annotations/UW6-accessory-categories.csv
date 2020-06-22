@@ -1,0 +1,165 @@
+orthogroup,locus_tag,KO,Kannotation,in_or_ex,Module,Module_type,General_category,Specific_category,Module_description
+OG0003544,NHBDKAOG_03585,K11530,(4S)-4-hydroxy-5-phosphonooxypentane-2 3 dione isomerase,inclusive,NA,NA,NA,NA,NA
+OG0004319,NHBDKAOG_04063,K00645,[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] ,inclusive,M00082,Pathway modules,Lipid metabolism,Fatty acid metabolism, Fatty acid biosynthesis, initiation [PATH:map00061 map01212 map01100]
+OG0004319,NHBDKAOG_04063,K00645,[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] ,inclusive,M00873,Pathway modules,Lipid metabolism,Fatty acid metabolism, Fatty acid biosynthesis in mitochondria, animals [PATH:map00061 map01212 map01100]
+OG0004319,NHBDKAOG_04063,K00645,[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] ,inclusive,M00874,Pathway modules,Lipid metabolism,Fatty acid metabolism, Fatty acid biosynthesis in mitochondria, fungi [PATH:map00061 map01212 map01100]
+OG0003527,NHBDKAOG_04078,K00882,1-phosphofructokinase [EC:2.7.1.56]  ,inclusive,NA,NA,NA,NA,NA
+OG0003568,NHBDKAOG_02257,K01560,2-haloacid dehalogenase [EC:3.8.1.2] ,inclusive,NA,NA,NA,NA,NA
+OG0003174,NHBDKAOG_01200,K20034,3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] ,inclusive,NA,NA,NA,NA,NA
+OG0003174,NHBDKAOG_02098,K20034,3-(methylthio)propionyl---CoA ligase [EC:6.2.1.44] ,inclusive,NA,NA,NA,NA,NA
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00373,Pathway modules,Carbohydrate metabolism,Other carbohydrate metabolism, Ethylmalonyl pathway [PATH:map00630 map01200 map01100 map01120]
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00375,Pathway modules,Energy metabolism,Carbon fixation, Hydroxypropionate-hydroxybutylate cycle [PATH:map00720 map01200 map01100 map01120]
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00374,Pathway modules,Energy metabolism,Carbon fixation, Dicarboxylate-hydroxybutyrate cycle [PATH:map00720 map01200 map01100 map01120]
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00088,Pathway modules,Lipid metabolism,Lipid metabolism, Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone [PATH:map00072 map01100]
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00095,Pathway modules,Biosynthesis of terpenoids and polyketides,Terpenoid backbone biosynthesis, C5 isoprenoid biosynthesis, mevalonate pathway [PATH:map00900 map01100 map01110]
+OG0003562,NHBDKAOG_03003,K00626,acetyl-CoA C-acetyltransferase [EC:2.3.1.9] ,inclusive,M00849,Pathway modules,Biosynthesis of terpenoids and polyketides,Terpenoid backbone biosynthesis, C5 isoprenoid biosynthesis, mevalonate pathway, archaea [PATH:map00900 map01100 map01110]
+OG0003157,NHBDKAOG_03572,K09181,acetyltransferase   ,inclusive,NA,NA,NA,NA,NA
+OG0003462,NHBDKAOG_03942,K02078,acyl carrier protein ,inclusive,M00848,Pathway modules,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites, Aurachin biosynthesis, anthranilate => aurachin A [PATH:map00998 map01100 map01130]
+OG0003463,NHBDKAOG_03940,K02078,acyl carrier protein ,inclusive,M00848,Pathway modules,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites, Aurachin biosynthesis, anthranilate => aurachin A [PATH:map00998 map01100 map01130]
+OG0003183,NHBDKAOG_01051,K10804,acyl-CoA thioesterase I [EC:3.1.2.-,inclusive,NA,NA,NA,NA,NA
+OG0004288,NHBDKAOG_04403,K07316,adenine-specific DNA-methyltransferase [EC:2.1.1.72] ,inclusive,NA,NA,NA,NA,NA
+OG0003474,NHBDKAOG_02070,K01768,adenylate cyclase [EC:4.6.1.1] ,inclusive,NA,NA,NA,NA,NA
+OG0004184,NHBDKAOG_00720,K01939,adenylosuccinate synthase [EC:6.3.4.4] ,inclusive,M00049,Pathway modules,Nucleotide metabolism,Purine metabolism, Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:map00230 map01100]
+OG0003499,NHBDKAOG_02290,K02226,alpha-ribazole phosphatase [EC:3.1.3.73] ,inclusive,M00122,Pathway modules,Metabolism of cofactors and vitamins,Cofactor and vitamin metabolism, Cobalamin biosynthesis, cobinamide => cobalamin [PATH:map00860 map01100]
+OG0005386,NHBDKAOG_00695,K03893,arsenical pump membrane protein,inclusive,NA,NA,NA,NA,NA
+OG0005533,NHBDKAOG_04642,K22042,ArsR family transcriptional regulator,inclusive,NA,NA,NA,NA,NA
+OG0003136,NHBDKAOG_02639,K01207,beta-N-acetylhexosaminidase [EC:3.2.1.52]  ,inclusive,NA,NA,NA,NA,NA
+OG0005384,NHBDKAOG_00664,K20509,carboxybiotin decarboxylase [EC:7.2.4.1] ,inclusive,NA,NA,NA,NA,NA
+OG0003146,NHBDKAOG_01076,K00575,chemotaxis protein methyltransferase CheR,inclusive,NA,NA,NA,NA,NA
+OG0004068,NHBDKAOG_01346,K03478,chitin disaccharide deacetylase [EC:3.5.1.105],inclusive,NA,NA,NA,NA,NA
+OG0004006,NHBDKAOG_03978,K18240,chorismate lyase / 3-hydroxybenzoate,inclusive,M00117,Pathway modules,Metabolism of cofactors and vitamins,Cofactor and vitamin metabolism, Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone [PATH:map00130 map01100 map01110]
+OG0003557,NHBDKAOG_01723,K02189,cobalt-precorrin 5A hydrolase [EC:3.7.1.12],inclusive,NA,NA,NA,NA,NA
+OG0004159,NHBDKAOG_01724,K02189,cobalt-precorrin 5A hydrolase [EC:3.7.1.12],inclusive,NA,NA,NA,NA,NA
+OG0003559,NHBDKAOG_01720,K02188,cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195] ,inclusive,NA,NA,NA,NA,NA
+OG0003142,NHBDKAOG_03929,K02009,cobalt/nickel transport protein ,inclusive,NA,NA,NA,NA,NA
+OG0003525,NHBDKAOG_03931,K02006,cobalt/nickel transport system ATP-binding,inclusive,NA,NA,NA,NA,NA
+OG0003580,NHBDKAOG_00960,K02006,cobalt/nickel transport system ATP-binding,inclusive,NA,NA,NA,NA,NA
+OG0002787,NHBDKAOG_03928,K02007,cobalt/nickel transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0002787,NHBDKAOG_03928,K02008,cobalt/nickel transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0003526,NHBDKAOG_03930,K02008,cobalt/nickel transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0003581,NHBDKAOG_00961,K02008,cobalt/nickel transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0003582,NHBDKAOG_00962,K02007,cobalt/nickel transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0004044,NHBDKAOG_03209,K02238,competence protein ComEC ,inclusive,NA,NA,NA,NA,NA
+OG0003151,NHBDKAOG_02288,K09951,CRISPR-associated protein Cas2 ,inclusive,NA,NA,NA,NA,NA
+OG0004269,NHBDKAOG_00105,K07016,CRISPR-associated protein Csm1 ,inclusive,NA,NA,NA,NA,NA
+OG0004268,NHBDKAOG_00104,K19138,CRISPR-associated protein Csm2 ,inclusive,NA,NA,NA,NA,NA
+OG0004267,NHBDKAOG_00103,K09002,CRISPR-associated protein Csm3 ,inclusive,NA,NA,NA,NA,NA
+OG0004266,NHBDKAOG_00102,K19139,CRISPR-associated protein Csm4 ,inclusive,NA,NA,NA,NA,NA
+OG0004265,NHBDKAOG_00101,K19140,CRISPR-associated protein Csm5 ,inclusive,NA,NA,NA,NA,NA
+OG0002806,NHBDKAOG_03589,K19135,CRISPR-associated protein Csx14 ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01297,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01367,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01576,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01582,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01640,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_02641,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_03082,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_03874,K21023,diguanylate cyclase [EC:2.7.7.65] ,inclusive,NA,NA,NA,NA,NA
+OG0003658,NHBDKAOG_04107,K19789,DNA repair protein RadD,inclusive,NA,NA,NA,NA,NA
+OG0005480,NHBDKAOG_03584,K04568,elongation factor P--(R)-beta-lysine ligase,inclusive,NA,NA,NA,NA,NA
+OG0004126,NHBDKAOG_02575,K06880,erythromycin esterase [EC:3.1.1.-] ,inclusive,NA,NA,NA,NA,NA
+OG0005388,NHBDKAOG_00737,K16568,exopolysaccharide production protein ExoZ,inclusive,NA,NA,NA,NA,NA
+OG0003174,NHBDKAOG_02098,K00666,fatty-acyl-CoA synthase [EC:6.2.1.-] ,inclusive,NA,NA,NA,NA,NA
+OG0003593,NHBDKAOG_03114,K00799,glutathione S-transferase [EC:2.5.1.18] ,inclusive,NA,NA,NA,NA,NA
+OG0004077,NHBDKAOG_02764,K03799,heat shock protein HtpX,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_03828,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_01581,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0003099,NHBDKAOG_03885,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0003179,NHBDKAOG_01448,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0003553,NHBDKAOG_02547,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0005373,NHBDKAOG_00304,K15773,HTH-type transcriptional regulator /,inclusive,NA,NA,NA,NA,NA
+OG0003135,NHBDKAOG_02677,K00179,indolepyruvate ferredoxin oxidoreductase alpha,inclusive,NA,NA,NA,NA,NA
+OG0003134,NHBDKAOG_02678,K00180,indolepyruvate ferredoxin oxidoreductase beta,inclusive,NA,NA,NA,NA,NA
+OG0003137,NHBDKAOG_02640,K06143,inner membrane protein ,inclusive,NA,NA,NA,NA,NA
+OG0005479,NHBDKAOG_03582,K19810,L-lysine 2 3 aminomutase,inclusive,NA,NA,NA,NA,NA
+OG0003616,NHBDKAOG_00853,K03556,LuxR family transcriptional regulator,inclusive,NA,NA,NA,NA,NA
+OG0004177,NHBDKAOG_02387,K03566,LysR family transcriptional regulator,inclusive,NA,NA,NA,NA,NA
+OG0003519,NHBDKAOG_00948,K06896,maltose 6'-phosphate phosphatase [EC:3.1.3.90],inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_00769,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_01581,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_02102,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_02489,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_03024,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0000308,NHBDKAOG_03083,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0003099,NHBDKAOG_00773,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0003099,NHBDKAOG_03885,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0003179,NHBDKAOG_01448,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0003553,NHBDKAOG_02547,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0003563,NHBDKAOG_02109,K03406,methyl-accepting chemotaxis protein ,inclusive,NA,NA,NA,NA,NA
+OG0004007,NHBDKAOG_03977,K07274,MipA family protein ,inclusive,NA,NA,NA,NA,NA
+OG0003110,NHBDKAOG_02506,K03687,molecular chaperone GrpE ,inclusive,NA,NA,NA,NA,NA
+OG0003599,NHBDKAOG_00341,K03924,MoxR-like ATPase [EC:3.6.3.-] ,inclusive,NA,NA,NA,NA,NA
+OG0003492,NHBDKAOG_03026,K08970,nickel/cobalt transporter (NicO) family,inclusive,NA,NA,NA,NA,NA
+OG0004286,NHBDKAOG_00725,K00763,nicotinate phosphoribosyltransferase [EC:6.3.4.21] ,inclusive,NA,NA,NA,NA,NA
+OG0004286,NHBDKAOG_01376,K00763,nicotinate phosphoribosyltransferase [EC:6.3.4.21] ,inclusive,NA,NA,NA,NA,NA
+OG0004130,NHBDKAOG_01267,K07001,NTE family protein ,inclusive,NA,NA,NA,NA,NA
+OG0004017,NHBDKAOG_03947,K03634,outer membrane lipoprotein carrier,inclusive,NA,NA,NA,NA,NA
+OG0003112,NHBDKAOG_03133,K05366,penicillin-binding protein 1A [EC:2.4.1.129,inclusive,NA,NA,NA,NA,NA
+OG0004134,NHBDKAOG_01805,K03832,periplasmic protein TonB ,inclusive,NA,NA,NA,NA,NA
+OG0003119,NHBDKAOG_02932,K03969,phage shock protein A,inclusive,NA,NA,NA,NA,NA
+OG0002814,NHBDKAOG_01220,K02040,phosphate transport system substrate-binding,inclusive,NA,NA,NA,NA,NA
+OG0002814,NHBDKAOG_01588,K02040,phosphate transport system substrate-binding,inclusive,NA,NA,NA,NA,NA
+OG0002814,NHBDKAOG_02572,K02040,phosphate transport system substrate-binding,inclusive,NA,NA,NA,NA,NA
+OG0004311,NHBDKAOG_02798,K02040,phosphate transport system substrate-binding,inclusive,NA,NA,NA,NA,NA
+OG0003170,NHBDKAOG_04482,K00981,phosphatidate cytidylyltransferase [EC:2.7.7.41] ,inclusive,M00093,Pathway modules,Lipid metabolism,Lipid metabolism, Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE [PATH:map00564 map01100]
+OG0003554,NHBDKAOG_04611,K02030,polar amino acid transport,inclusive,NA,NA,NA,NA,NA
+OG0003129,NHBDKAOG_03194,K01547,potassium-transporting ATPase ATP-binding subunit,inclusive,NA,NA,NA,NA,NA
+OG0003128,NHBDKAOG_03193,K01548,potassium-transporting ATPase KdpC subunit,inclusive,NA,NA,NA,NA,NA
+OG0005472,NHBDKAOG_03196,K01545,potassium-transporting ATPase KdpF subunit,inclusive,NA,NA,NA,NA,NA
+OG0003130,NHBDKAOG_03195,K01546,potassium-transporting ATPase potassium-binding subunit,inclusive,NA,NA,NA,NA,NA
+OG0003558,NHBDKAOG_01722,K03394,precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151],inclusive,NA,NA,NA,NA,NA
+OG0003610,NHBDKAOG_01951,K09667,protein O-GlcNAc transferase [EC:2.4.1.255],inclusive,NA,NA,NA,NA,NA
+OG0004084,NHBDKAOG_02759,K02004,putative ABC transport system,inclusive,NA,NA,NA,NA,NA
+OG0004135,NHBDKAOG_04591,K09456,putative acyl-CoA dehydrogenase ,inclusive,NA,NA,NA,NA,NA
+OG0002836,NHBDKAOG_04872,K07497,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0002839,NHBDKAOG_02963,K07492,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0002839,NHBDKAOG_02964,K07492,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0002839,NHBDKAOG_04686,K07492,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0002839,NHBDKAOG_04736,K07492,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0005456,NHBDKAOG_02616,K07493,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0005456,NHBDKAOG_02729,K07493,putative transposase  ,exclusive,NA,NA,NA,NA,NA
+OG0003495,NHBDKAOG_01377,K02825,pyrimidine operon attenuation protein,inclusive,NA,NA,NA,NA,NA
+OG0004098,NHBDKAOG_03148,K01974,RNA 3'-terminal phosphate cyclase,inclusive,NA,NA,NA,NA,NA
+OG0004064,NHBDKAOG_02988,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1],inclusive,NA,NA,NA,NA,NA
+OG0004282,NHBDKAOG_00305,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1],inclusive,NA,NA,NA,NA,NA
+OG0000601,NHBDKAOG_00203,K01406,serralysin [EC:3.4.24.40]  ,inclusive,NA,NA,NA,NA,NA
+OG0000601,NHBDKAOG_01976,K01406,serralysin [EC:3.4.24.40]  ,inclusive,NA,NA,NA,NA,NA
+OG0000601,NHBDKAOG_02366,K01406,serralysin [EC:3.4.24.40]  ,inclusive,NA,NA,NA,NA,NA
+OG0003602,NHBDKAOG_00338,K06384,stage II sporulation protein,inclusive,NA,NA,NA,NA,NA
+OG0004037,NHBDKAOG_02171,K03424,TatD DNase family protein,inclusive,NA,NA,NA,NA,NA
+OG0004161,NHBDKAOG_01670,K05795,tellurium resistance protein TerD,inclusive,NA,NA,NA,NA,NA
+OG0002110,NHBDKAOG_02110,K20333,toxoflavin biosynthesis protein ToxD,inclusive,NA,NA,NA,NA,NA
+OG0004096,NHBDKAOG_03153,K14414,transcriptional regulatory protein RtcR,inclusive,NA,NA,NA,NA,NA
+OG0000600,NHBDKAOG_00026,K07486,transposase   ,inclusive,NA,NA,NA,NA,NA
+OG0003199,NHBDKAOG_01285,K07486,transposase   ,exclusive,NA,NA,NA,NA,NA
+OG0003199,NHBDKAOG_04762,K07486,transposase   ,exclusive,NA,NA,NA,NA,NA
+OG0005362,NHBDKAOG_00118,K07486,transposase   ,exclusive,NA,NA,NA,NA,NA
+OG0005362,NHBDKAOG_00548,K07486,transposase   ,exclusive,NA,NA,NA,NA,NA
+OG0003146,NHBDKAOG_01076,K13924,two-component system,inclusive,NA,NA,NA,NA,NA
+OG0003146,NHBDKAOG_01076,K03412,two-component system,inclusive,NA,NA,NA,NA,NA
+OG0000004,NHBDKAOG_01576,K02488,two-component system cell cycle,inclusive,NA,NA,NA,NA,NA
+OG0002517,NHBDKAOG_04705,K07663,two-component system OmpR family,inclusive,NA,NA,NA,NA,NA
+OG0002803,NHBDKAOG_04706,K07641,two-component system OmpR family,inclusive,NA,NA,NA,NA,NA
+OG0003127,NHBDKAOG_03192,K07646,two-component system OmpR family,inclusive,NA,NA,NA,NA,NA
+OG0004088,NHBDKAOG_02736,K07667,two-component system OmpR family,inclusive,NA,NA,NA,NA,NA
+OG0000035,NHBDKAOG_01486,K01153,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000035,NHBDKAOG_02275,K01153,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000035,NHBDKAOG_02751,K01153,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000035,NHBDKAOG_04376,K01153,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000035,NHBDKAOG_04496,K01153,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000103,NHBDKAOG_00034,K01154,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000103,NHBDKAOG_02277,K01154,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000103,NHBDKAOG_04285,K01154,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0000103,NHBDKAOG_04374,K01154,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0003208,NHBDKAOG_04373,K03427,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0005378,NHBDKAOG_00433,K01154,type I restriction enzyme,exclusive,NA,NA,NA,NA,NA
+OG0005378,NHBDKAOG_04498,K01154,type I restriction enzyme,exclusive,NA,NA,NA,NA,NA
+OG0004131,NHBDKAOG_01811,K02655,type IV pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0004132,NHBDKAOG_01807,K02673,type IV pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0004133,NHBDKAOG_01806,K02674,type IV pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0005496,NHBDKAOG_04123,K20532,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0005497,NHBDKAOG_04124,K20267,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0005498,NHBDKAOG_04126,K20266,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0005500,NHBDKAOG_04128,K07344,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0003623,NHBDKAOG_03722,K00411,ubiquinol-cytochrome c reductase iron-sulfur,inclusive,M00151,Pathway modules,Energy metabolism,ATP synthesis, Cytochrome bc1 complex respiratory unit [PATH:map00190]
+OG0003623,NHBDKAOG_03722,K00411,ubiquinol-cytochrome c reductase iron-sulfur,inclusive,M00152,Pathway modules,Energy metabolism,ATP synthesis, Cytochrome bc1 complex [PATH:map00190]

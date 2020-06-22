@@ -1,0 +1,196 @@
+orthogroup,locus_tag,KO,Kannotation
+OG0000006,NHBDKAOG_02948,K07497,putative transposase  
+OG0000006,NHBDKAOG_02952,K07497,putative transposase  
+OG0000029,NHBDKAOG_02438,K07487,transposase   
+OG0000029,NHBDKAOG_02438,K07481,transposase, IS5 family 
+OG0000029,NHBDKAOG_03952,K07487,transposase   
+OG0000029,NHBDKAOG_03952,K07481,transposase, IS5 family 
+OG0000053,NHBDKAOG_04119,K06400,site-specific DNA recombinase 
+OG0000053,NHBDKAOG_04381,K06400,site-specific DNA recombinase 
+OG0000054,NHBDKAOG_04041,K00700,1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+OG0000065,NHBDKAOG_01079,K22468,polyphosphate kinase [EC:2.7.4.1] 
+OG0000065,NHBDKAOG_02832,K22468,polyphosphate kinase [EC:2.7.4.1] 
+OG0000098,NHBDKAOG_03016,K01130,arylsulfatase [EC:3.1.6.1]  
+OG0000099,NHBDKAOG_02369,K01214,isoamylase [EC:3.2.1.68]  
+OG0000099,NHBDKAOG_02369,K01236,maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141] 
+OG0000099,NHBDKAOG_02369,K01200,pullulanase [EC:3.2.1.41]  
+OG0000099,NHBDKAOG_04040,K01214,isoamylase [EC:3.2.1.68]  
+OG0000101,NHBDKAOG_02417,K03321,sulfate permease, SulP family
+OG0000101,NHBDKAOG_04191,K03321,sulfate permease, SulP family
+OG0000288,NHBDKAOG_00517,K09691,lipopolysaccharide transport system ATP-binding
+OG0000288,NHBDKAOG_03418,K09691,lipopolysaccharide transport system ATP-binding
+OG0000288,NHBDKAOG_03922,K09691,lipopolysaccharide transport system ATP-binding
+OG0000294,NHBDKAOG_00634,K06077,outer membrane lipoprotein SlyB
+OG0000294,NHBDKAOG_02145,K06077,outer membrane lipoprotein SlyB
+OG0000590,NHBDKAOG_03096,K07645,two-component system, OmpR family,
+OG0000590,NHBDKAOG_03096,K02484,two-component system, OmpR family,
+OG0000596,NHBDKAOG_00004,K21498,antitoxin HigA-1  
+OG0000596,NHBDKAOG_03470,K21498,antitoxin HigA-1  
+OG0001627,NHBDKAOG_01358,K21023,diguanylate cyclase [EC:2.7.7.65] 
+OG0001628,NHBDKAOG_01312,K03821,polyhydroxyalkanoate synthase subunit PhaC
+OG0001631,NHBDKAOG_01548,K21344,D-glycero-beta-D-manno-heptose-7-phosphate kinase [EC:2.7.1.167] 
+OG0001638,NHBDKAOG_00797,K12132,eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+OG0001638,NHBDKAOG_00797,K08884,serine/threonine protein kinase, bacterial
+OG0001638,NHBDKAOG_03480,K12132,eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+OG0001638,NHBDKAOG_03480,K08884,serine/threonine protein kinase, bacterial
+OG0001638,NHBDKAOG_03482,K12132,eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+OG0001638,NHBDKAOG_03482,K08884,serine/threonine protein kinase, bacterial
+OG0001657,NHBDKAOG_00032,K01153,type I restriction enzyme,
+OG0001657,NHBDKAOG_04346,K01153,type I restriction enzyme,
+OG0001959,NHBDKAOG_01575,K13590,diguanylate cyclase [EC:2.7.7.65] 
+OG0001980,NHBDKAOG_03904,K04758,ferrous iron transport protein
+OG0001981,NHBDKAOG_00747,K07050,misacylated tRNA(Ala) deacylase [EC:3.1.1.-]
+OG0001995,NHBDKAOG_02722,K03699,putative hemolysin  
+OG0001995,NHBDKAOG_03253,K03699,putative hemolysin  
+OG0001996,NHBDKAOG_02721,K03699,putative hemolysin  
+OG0001996,NHBDKAOG_03254,K03699,putative hemolysin  
+OG0002000,NHBDKAOG_03481,K20074,PPM family protein phosphatase
+OG0002021,NHBDKAOG_02291,K06218,mRNA interferase RelE/StbE 
+OG0002021,NHBDKAOG_02291,K19158,toxin YoeB [EC:3.1.-.-] 
+OG0002042,NHBDKAOG_00949,K00612,carbamoyltransferase [EC:2.1.3.-]  
+OG0002042,NHBDKAOG_03934,K00612,carbamoyltransferase [EC:2.1.3.-]  
+OG0002045,NHBDKAOG_02674,K02342,DNA polymerase III subunit
+OG0002045,NHBDKAOG_02674,K09951,CRISPR-associated protein Cas2 
+OG0002046,NHBDKAOG_01253,K07089,uncharacterized protein  
+OG0002057,NHBDKAOG_00003,K07334,toxin HigB-1  
+OG0002059,NHBDKAOG_01767,K08683,3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA
+OG0002061,NHBDKAOG_02420,K07220,uncharacterized protein  
+OG0002064,NHBDKAOG_02682,K13993,HSP20 family protein 
+OG0002066,NHBDKAOG_02836,K00705,4-alpha-glucanotransferase [EC:2.4.1.25]  
+OG0002079,NHBDKAOG_04413,K07001,NTE family protein 
+OG0002080,NHBDKAOG_01528,K02843,heptosyltransferase II [EC:2.4.-.-] 
+OG0002081,NHBDKAOG_01303,K01624,fructose-bisphosphate aldolase, class II
+OG0002081,NHBDKAOG_03215,K01624,fructose-bisphosphate aldolase, class II
+OG0002086,NHBDKAOG_04362,K13924,two-component system, chemotaxis family,
+OG0002086,NHBDKAOG_04362,K00575,chemotaxis protein methyltransferase CheR
+OG0002087,NHBDKAOG_03149,K14415,tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy
+OG0002087,NHBDKAOG_03716,K14415,tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy
+OG0002100,NHBDKAOG_02534,K06889,uncharacterized protein  
+OG0002267,NHBDKAOG_01570,K07028,uncharacterized protein  
+OG0002272,NHBDKAOG_00641,K07014,uncharacterized protein  
+OG0002279,NHBDKAOG_00970,K07304,peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+OG0002281,NHBDKAOG_03973,K07043,uncharacterized protein  
+OG0002282,NHBDKAOG_00776,K06182,23S rRNA pseudouridine2604 synthase
+OG0002283,NHBDKAOG_01064,K01104,protein-tyrosine phosphatase [EC:3.1.3.48] 
+OG0002284,NHBDKAOG_01063,K01462,peptide deformylase [EC:3.5.1.88] 
+OG0002305,NHBDKAOG_04195,K01524,exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+OG0002312,NHBDKAOG_04217,K00631,glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15] 
+OG0002314,NHBDKAOG_04717,K21345,D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase [EC:2.7.7.70]
+OG0002325,NHBDKAOG_04042,K00688,glycogen phosphorylase [EC:2.4.1.1] 
+OG0002326,NHBDKAOG_02886,K02844,UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-] 
+OG0002327,NHBDKAOG_02885,K02848,heptose I phosphotransferase [EC:2.7.1.-]
+OG0002328,NHBDKAOG_02883,K02848,heptose I phosphotransferase [EC:2.7.1.-]
+OG0002331,NHBDKAOG_02923,K02841,heptosyltransferase I [EC:2.4.-.-] 
+OG0002332,NHBDKAOG_02845,K10680,N-ethylmaleimide reductase [EC:1.-.-.-] 
+OG0002337,NHBDKAOG_02713,K02039,phosphate transport system protein
+OG0002338,NHBDKAOG_02710,K02036,phosphate transport system ATP-binding
+OG0002340,NHBDKAOG_04571,K07263,zinc protease [EC:3.4.24.-] 
+OG0002348,NHBDKAOG_03795,K22900,tRNA (adenine37-N6)-methyltransferase [EC:2.1.1.-] 
+OG0002349,NHBDKAOG_03794,K00275,pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]
+OG0002351,NHBDKAOG_01796,K00239,succinate dehydrogenase / fumarate
+OG0002351,NHBDKAOG_01796,K00244,fumarate reductase flavoprotein subunit
+OG0002352,NHBDKAOG_01797,K00245,fumarate reductase iron-sulfur subunit
+OG0002352,NHBDKAOG_01797,K00240,succinate dehydrogenase / fumarate
+OG0002352,NHBDKAOG_01797,K00246,fumarate reductase subunit C
+OG0002354,NHBDKAOG_01979,K00247,fumarate reductase subunit D
+OG0002355,NHBDKAOG_00830,K02423,flagellar protein FliT 
+OG0002358,NHBDKAOG_01348,K07264,4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43] 
+OG0002368,NHBDKAOG_02661,K07001,NTE family protein 
+OG0002377,NHBDKAOG_00859,K07220,uncharacterized protein  
+OG0002379,NHBDKAOG_00758,K20509,carboxybiotin decarboxylase [EC:7.2.4.1] 
+OG0002387,NHBDKAOG_01318,K22881,polyhydroxyalkanoate synthase subunit PhaE
+OG0002388,NHBDKAOG_01319,K03821,polyhydroxyalkanoate synthase subunit PhaC
+OG0002394,NHBDKAOG_01870,K00170,pyruvate ferredoxin oxidoreductase beta
+OG0002395,NHBDKAOG_01872,K00172,pyruvate ferredoxin oxidoreductase gamma
+OG0002396,NHBDKAOG_01873,K14449,2-methylfumaryl-CoA hydratase [EC:4.2.1.148] 
+OG0002397,NHBDKAOG_01875,K14470,2-methylfumaryl-CoA isomerase [EC:5.4.1.3] 
+OG0002398,NHBDKAOG_01878,K09709,3-methylfumaryl-CoA hydratase [EC:4.2.1.153] 
+OG0002400,NHBDKAOG_01881,K14448,(2S)-methylsuccinyl-CoA dehydrogenase [EC:1.3.8.12] 
+OG0002401,NHBDKAOG_01882,K14449,2-methylfumaryl-CoA hydratase [EC:4.2.1.148] 
+OG0002402,NHBDKAOG_01883,K14447,ethylmalonyl-CoA mutase [EC:5.4.99.63] 
+OG0002403,NHBDKAOG_01884,K07588,LAO/AO transport system kinase
+OG0002404,NHBDKAOG_01885,K14446,crotonyl-CoA carboxylase/reductase [EC:1.3.1.85] 
+OG0002405,NHBDKAOG_01886,K00344,NADPH:quinone reductase [EC:1.6.5.5] 
+OG0002409,NHBDKAOG_02403,K00635,diacylglycerol O-acyltransferase / wax
+OG0002410,NHBDKAOG_04179,K01992,ABC-2 type transport system
+OG0002419,NHBDKAOG_02497,K09019,3-hydroxypropanoate dehydrogenase [EC:1.1.1.-] 
+OG0002423,NHBDKAOG_01747,K00175,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit
+OG0002424,NHBDKAOG_01748,K00174,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit
+OG0002431,NHBDKAOG_01621,K00688,glycogen phosphorylase [EC:2.4.1.1] 
+OG0002432,NHBDKAOG_00076,K16147,starch synthase (maltosyl-transferring) [EC:2.4.99.16]
+OG0002436,NHBDKAOG_01202,K22250,poly(3-hydroxyoctanoate) depolymerase [EC:3.1.1.76] 
+OG0002450,NHBDKAOG_02341,K00703,starch synthase [EC:2.4.1.21] 
+OG0002451,NHBDKAOG_02342,K00975,glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] 
+OG0002452,NHBDKAOG_02343,K01835,phosphoglucomutase [EC:5.4.2.2]  
+OG0002455,NHBDKAOG_03185,K00873,pyruvate kinase [EC:2.7.1.40] 
+OG0002457,NHBDKAOG_00439,K07034,uncharacterized protein  
+OG0002458,NHBDKAOG_02681,K13993,HSP20 family protein 
+OG0002459,NHBDKAOG_01402,K03088,RNA polymerase sigma-70 factor,
+OG0002463,NHBDKAOG_00526,K12538,outer membrane protein, protease
+OG0002463,NHBDKAOG_00526,K12340,outer membrane protein 
+OG0002475,NHBDKAOG_01522,K01620,threonine aldolase [EC:4.1.2.48] 
+OG0002476,NHBDKAOG_03216,K00895,diphosphate-dependent phosphofructokinase [EC:2.7.1.90] 
+OG0002480,NHBDKAOG_01430,K01681,aconitate hydratase [EC:4.2.1.3] 
+OG0002485,NHBDKAOG_03523,K01720,2-methylcitrate dehydratase [EC:4.2.1.79] 
+OG0002486,NHBDKAOG_03524,K01659,2-methylcitrate synthase [EC:2.3.3.5] 
+OG0002495,NHBDKAOG_04416,K00635,diacylglycerol O-acyltransferase / wax
+OG0002515,NHBDKAOG_04304,K03556,LuxR family transcriptional regulator,
+OG0002527,NHBDKAOG_04182,K07497,putative transposase  
+OG0002632,NHBDKAOG_00417,K13590,diguanylate cyclase [EC:2.7.7.65] 
+OG0002632,NHBDKAOG_00417,K07216,hemerythrin   
+OG0002638,NHBDKAOG_02490,K14534,4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase
+OG0002639,NHBDKAOG_00709,K03699,putative hemolysin  
+OG0002640,NHBDKAOG_03419,K09690,lipopolysaccharide transport system permease
+OG0002652,NHBDKAOG_02194,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1]
+OG0002652,NHBDKAOG_04490,K07154,serine/threonine-protein kinase HipA [EC:2.7.11.1]
+OG0002653,NHBDKAOG_00640,K18588,coenzyme Q-binding protein COQ10
+OG0002682,NHBDKAOG_00409,K01338,ATP-dependent Lon protease [EC:3.4.21.53]
+OG0002685,NHBDKAOG_00348,K01768,adenylate cyclase [EC:4.6.1.1] 
+OG0002685,NHBDKAOG_00813,K01768,adenylate cyclase [EC:4.6.1.1] 
+OG0002687,NHBDKAOG_01788,K04062,osmotically inducible lipoprotein OsmB
+OG0002699,NHBDKAOG_00940,K22278,peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104] 
+OG0002712,NHBDKAOG_04023,K05972,acetylxylan esterase [EC:3.1.1.72] 
+OG0002712,NHBDKAOG_04023,K03932,polyhydroxybutyrate depolymerase  
+OG0002713,NHBDKAOG_02000,K00573,protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] 
+OG0002725,NHBDKAOG_03915,K08678,UDP-glucuronate decarboxylase [EC:4.1.1.35] 
+OG0002731,NHBDKAOG_00082,K06872,uncharacterized protein  
+OG0002737,NHBDKAOG_01618,K00831,phosphoserine aminotransferase [EC:2.6.1.52] 
+OG0002781,NHBDKAOG_01237,K06867,uncharacterized protein  
+OG0002801,NHBDKAOG_02680,K05516,curved DNA-binding protein 
+OG0002802,NHBDKAOG_02679,K18997,chaperone modulatory protein CbpM
+OG0002812,NHBDKAOG_03849,K01689,enolase [EC:4.2.1.11]  
+OG0002838,NHBDKAOG_02805,K09803,uncharacterized protein  
+OG0002838,NHBDKAOG_02974,K09803,uncharacterized protein  
+OG0002838,NHBDKAOG_04804,K09803,uncharacterized protein  
+OG0002964,NHBDKAOG_02580,K02456,general secretion pathway protein
+OG0002965,NHBDKAOG_02581,K02456,general secretion pathway protein
+OG0002976,NHBDKAOG_00645,K05367,penicillin-binding protein 1C [EC:2.4.1.129]
+OG0002978,NHBDKAOG_04102,K01159,crossover junction endodeoxyribonuclease RuvC
+OG0002988,NHBDKAOG_03249,K03699,putative hemolysin  
+OG0002989,NHBDKAOG_03248,K03699,putative hemolysin  
+OG0003009,NHBDKAOG_03714,K01507,inorganic pyrophosphatase [EC:3.6.1.1] 
+OG0003025,NHBDKAOG_03282,K02671,type IV pilus assembly
+OG0003026,NHBDKAOG_03283,K08084,type IV fimbrial biogenesis
+OG0003027,NHBDKAOG_02337,K03832,periplasmic protein TonB 
+OG0003028,NHBDKAOG_01271,K03192,urease accessory protein 
+OG0003042,NHBDKAOG_02154,K07001,NTE family protein 
+OG0003139,NHBDKAOG_00944,K01185,lysozyme [EC:3.2.1.17]  
+OG0003330,NHBDKAOG_02767,K13993,HSP20 family protein 
+OG0003363,NHBDKAOG_02378,K00975,glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] 
+OG0003366,NHBDKAOG_01308,K16074,zinc transporter  
+OG0003383,NHBDKAOG_00038,K01154,type I restriction enzyme,
+OG0003399,NHBDKAOG_02762,K02030,polar amino acid transport
+OG0003399,NHBDKAOG_04309,K02030,polar amino acid transport
+OG0003640,NHBDKAOG_01028,K00034,glucose 1-dehydrogenase [EC:1.1.1.47] 
+OG0003640,NHBDKAOG_01028,K00059,3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+OG0003657,NHBDKAOG_03972,K01153,type I restriction enzyme,
+OG0003660,NHBDKAOG_04851,K07483,transposase   
+OG0003802,NHBDKAOG_01969,K15899,pseudaminic acid cytidylyltransferase [EC:2.7.7.81]
+OG0003812,NHBDKAOG_03427,K01673,carbonic anhydrase [EC:4.2.1.1] 
+OG0003904,NHBDKAOG_04321,K04757,serine/threonine-protein kinase RsbW [EC:2.7.11.1]
+OG0003906,NHBDKAOG_04319,K01214,isoamylase [EC:3.2.1.68]  
+OG0003907,NHBDKAOG_04311,K19055,Ala-tRNA(Pro) deacylase [EC:3.1.1.-] 
+OG0003908,NHBDKAOG_04310,K07315,phosphoserine phosphatase RsbU/P [EC:3.1.3.3]
+OG0003910,NHBDKAOG_04307,K02030,polar amino acid transport
+OG0004307,NHBDKAOG_02263,K06919,putative DNA primase/helicase 
+OG0004307,NHBDKAOG_04103,K06919,putative DNA primase/helicase 

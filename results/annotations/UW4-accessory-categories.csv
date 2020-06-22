@@ -1,0 +1,152 @@
+orthogroup,locus_tag,KO,Kannotation,in_or_ex,Module,Module_type,General_category,Specific_category,Module_description
+OG0002076,BBLLADNB_02569,K07746,antitoxin ParD1/3/4  ,inclusive,NA,NA,NA,NA,NA
+OG0002445,BBLLADNB_03057,K23256,NADPH-dependent curcumin reductase [EC:1.3.1.-],inclusive,NA,NA,NA,NA,NA
+OG0002490,BBLLADNB_00202,K06905,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0002624,BBLLADNB_03303,K02029,polar amino acid transport,inclusive,NA,NA,NA,NA,NA
+OG0002626,BBLLADNB_02876,K09984,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0002642,BBLLADNB_02529,K19746,D-arginine dehydrogenase [EC:1.4.99.6] ,inclusive,NA,NA,NA,NA,NA
+OG0002683,BBLLADNB_03488,K09667,protein O-GlcNAc transferase [EC:2.4.1.255],inclusive,NA,NA,NA,NA,NA
+OG0002696,BBLLADNB_03585,K18289,itaconate CoA-transferase [EC:2.8.3.- 2.8.3.22],inclusive,NA,NA,NA,NA,NA
+OG0002717,BBLLADNB_00275,K03301,ATP:ADP antiporter,inclusive,NA,NA,NA,NA,NA
+OG0002721,BBLLADNB_01504,K02111,F-type H+/Na+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0002729,BBLLADNB_02601,K06897,7-8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase [EC:2.5.1.105],inclusive,NA,NA,NA,NA,NA
+OG0002753,BBLLADNB_03309,K01692,enoyl-CoA hydratase [EC:4.2.1.17] ,inclusive,M00087,Pathway modules,Lipid metabolism,Fatty acid metabolism, beta-Oxidation [PATH:map00071 map01212 map01100]
+OG0002753,BBLLADNB_03309,K01692,enoyl-CoA hydratase [EC:4.2.1.17] ,inclusive,M00032,Pathway modules,Amino acid metabolism,Lysine metabolism, Lysine degradation, lysine => saccharopine => acetoacetyl-CoA [PATH:map00310 map01100]
+OG0002757,BBLLADNB_00997,K09857,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0002758,BBLLADNB_00996,K06192,paraquat-inducible protein B ,inclusive,NA,NA,NA,NA,NA
+OG0002759,BBLLADNB_00995,K03808,paraquat-inducible protein A ,inclusive,NA,NA,NA,NA,NA
+OG0002760,BBLLADNB_00994,K03808,paraquat-inducible protein A ,inclusive,NA,NA,NA,NA,NA
+OG0002768,BBLLADNB_00705,K05595,multiple antibiotic resistance protein,inclusive,NA,NA,NA,NA,NA
+OG0002769,BBLLADNB_00829,K00873,pyruvate kinase [EC:2.7.1.40] ,inclusive,M00001,Pathway modules,Carbohydrate metabolism,Central carbohydrate metabolism, Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate [PATH:map00010 map01200 map01100]
+OG0002769,BBLLADNB_00829,K00873,pyruvate kinase [EC:2.7.1.40] ,inclusive,M00002,Pathway modules,Carbohydrate metabolism,Central carbohydrate metabolism, Glycolysis, core module involving three-carbon compounds [PATH:map00010 map01200 map01230 map01100]
+OG0002769,BBLLADNB_00829,K00873,pyruvate kinase [EC:2.7.1.40] ,inclusive,M00049,Pathway modules,Nucleotide metabolism,Purine metabolism, Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:map00230 map01100]
+OG0002769,BBLLADNB_00829,K00873,pyruvate kinase [EC:2.7.1.40] ,inclusive,M00050,Pathway modules,Nucleotide metabolism,Purine metabolism, Guanine ribonucleotide biosynthesis IMP => GDP,GTP [PATH:map00230 map01100]
+OG0002974,BBLLADNB_03766,K06888,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0002983,BBLLADNB_01798,K09700,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003003,BBLLADNB_02231,K02482,two-component system,inclusive,NA,NA,NA,NA,NA
+OG0003014,BBLLADNB_01130,K14379,tartrate-resistant acid phosphatase type,inclusive,NA,NA,NA,NA,NA
+OG0003018,BBLLADNB_01856,K08682,acyl carrier protein phosphodiesterase,inclusive,NA,NA,NA,NA,NA
+OG0003031,BBLLADNB_01505,K02109,F-type H+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0003031,BBLLADNB_01505,K02113,F-type H+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0003032,BBLLADNB_01506,K02110,F-type H+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0003033,BBLLADNB_01507,K02108,F-type H+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0003036,BBLLADNB_01510,K02112,F-type H+/Na+-transporting ATPase subunit,inclusive,M00157,Pathway modules,Energy metabolism,ATP synthesis, F-type ATPase, prokaryotes and chloroplasts [PATH:map00190 map00195]
+OG0003041,BBLLADNB_00359,K07178,RIO kinase 1 [EC:2.7.11.1],inclusive,NA,NA,NA,NA,NA
+OG0003054,BBLLADNB_03781,K07220,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003058,BBLLADNB_03355,K00799,glutathione S-transferase [EC:2.5.1.18] ,inclusive,NA,NA,NA,NA,NA
+OG0003074,BBLLADNB_02131,K00998,CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] ,inclusive,M00093,Pathway modules,Lipid metabolism,Lipid metabolism, Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE [PATH:map00564 map01100]
+OG0003076,BBLLADNB_03814,K07167,putative transcriptional regulator ,inclusive,NA,NA,NA,NA,NA
+OG0003089,BBLLADNB_00394,K03205,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0003089,BBLLADNB_03917,K03205,type IV secretion system,inclusive,NA,NA,NA,NA,NA
+OG0003173,BBLLADNB_03908,K07133,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003213,BBLLADNB_03444,K07497,putative transposase  ,inclusive,NA,NA,NA,NA,NA
+OG0003214,BBLLADNB_02128,K07494,putative transposase  ,inclusive,NA,NA,NA,NA,NA
+OG0003326,BBLLADNB_00861,K17989,L-serine/L-threonine ammonia-lyase [EC:4.3.1.17 4.3.1.19],inclusive,M00570,Pathway modules,Amino acid metabolism,Branched-chain amino acid metabolism, Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine [PATH:map00290 map01230 map01100]
+OG0003328,BBLLADNB_01204,K01584,arginine decarboxylase [EC:4.1.1.19] ,inclusive,M00133,Pathway modules,Amino acid metabolism,Polyamine biosynthesis, Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine [PATH:map00330 map01100]
+OG0003331,BBLLADNB_03627,K15270,S-adenosylmethionine uptake transporter ,inclusive,NA,NA,NA,NA,NA
+OG0003340,BBLLADNB_03063,K07734,transcriptional regulator  ,inclusive,NA,NA,NA,NA,NA
+OG0003382,BBLLADNB_01594,K03192,urease accessory protein ,inclusive,NA,NA,NA,NA,NA
+OG0003382,BBLLADNB_02578,K03192,urease accessory protein ,inclusive,NA,NA,NA,NA,NA
+OG0003395,BBLLADNB_01159,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0003405,BBLLADNB_00361,K07264,4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43] ,inclusive,NA,NA,NA,NA,NA
+OG0003412,BBLLADNB_02967,K06975,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003415,BBLLADNB_01585,K13688,cyclic beta-1-2-glucan synthetase [EC:2.4.1.-],inclusive,NA,NA,NA,NA,NA
+OG0003428,BBLLADNB_01484,K00033,6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343],inclusive,M00004,Pathway modules,Carbohydrate metabolism,Central carbohydrate metabolism, Pentose phosphate pathway (Pentose phosphate cycle) [PATH:map00030 map01200 map01100 map01120]
+OG0003428,BBLLADNB_01484,K00033,6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343],inclusive,M00006,Pathway modules,Carbohydrate metabolism,Central carbohydrate metabolism, Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P [PATH:map00030 map01200 map01100 map01120]
+OG0003435,BBLLADNB_03228,K12058,conjugal transfer mating pair,inclusive,NA,NA,NA,NA,NA
+OG0003436,BBLLADNB_00706,K07216,hemerythrin   ,inclusive,NA,NA,NA,NA,NA
+OG0003437,BBLLADNB_00821,K00285,D-amino-acid dehydrogenase [EC:1.4.5.1] ,inclusive,NA,NA,NA,NA,NA
+OG0003445,BBLLADNB_00206,K06907,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003449,BBLLADNB_01945,K07454,putative restriction endonuclease ,inclusive,NA,NA,NA,NA,NA
+OG0003511,BBLLADNB_00471,K07341,death on curing protein,inclusive,NA,NA,NA,NA,NA
+OG0003668,BBLLADNB_02053,K03497,ParB family transcriptional regulator,inclusive,NA,NA,NA,NA,NA
+OG0003692,BBLLADNB_03453,K01156,type III restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0003804,BBLLADNB_03121,K05785,transcriptional antiterminator RfaH ,inclusive,NA,NA,NA,NA,NA
+OG0003808,BBLLADNB_03023,K01560,2-haloacid dehalogenase [EC:3.8.1.2] ,inclusive,NA,NA,NA,NA,NA
+OG0003815,BBLLADNB_03215,K01725,cyanate lyase [EC:4.2.1.104] ,inclusive,NA,NA,NA,NA,NA
+OG0003819,BBLLADNB_02717,K02066,phospholipid/cholesterol/gamma-HCH transport system permease,inclusive,NA,NA,NA,NA,NA
+OG0003839,BBLLADNB_01154,K03113,translation initiation factor 1,inclusive,NA,NA,NA,NA,NA
+OG0003844,BBLLADNB_01515,K01236,maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141] ,inclusive,M00565,Pathway modules,Carbohydrate metabolism,Other carbohydrate metabolism, Trehalose biosynthesis, D-glucose 1P => trehalose [PATH:map00500 map01100 map01110]
+OG0003845,BBLLADNB_03779,K01154,type I restriction enzyme,inclusive,NA,NA,NA,NA,NA
+OG0003848,BBLLADNB_00775,K05568,multicomponent Na+:H+ antiporter subunit,inclusive,NA,NA,NA,NA,NA
+OG0003852,BBLLADNB_00791,K07001,NTE family protein ,inclusive,NA,NA,NA,NA,NA
+OG0003853,BBLLADNB_00805,K07343,DNA transformation protein and,inclusive,NA,NA,NA,NA,NA
+OG0003864,BBLLADNB_00393,K07064,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003866,BBLLADNB_00386,K07261,penicillin-insensitive murein DD-endopeptidase [EC:3.4.24.-],inclusive,NA,NA,NA,NA,NA
+OG0003870,BBLLADNB_01365,K05801,DnaJ like chaperone protein,inclusive,NA,NA,NA,NA,NA
+OG0003871,BBLLADNB_03553,K01580,glutamate decarboxylase [EC:4.1.1.15] ,inclusive,M00027,Pathway modules,Amino acid metabolism,Other amino acid metabolism, GABA (gamma-Aminobutyrate) shunt [PATH:map00250 map00650 map01100]
+OG0003875,BBLLADNB_02959,K03316,monovalent cation:H+ antiporter,inclusive,NA,NA,NA,NA,NA
+OG0003889,BBLLADNB_02657,K22441,diamine N-acetyltransferase [EC:2.3.1.57] ,inclusive,NA,NA,NA,NA,NA
+OG0003899,BBLLADNB_03050,K01434,penicillin G amidase [EC:3.5.1.11],inclusive,NA,NA,NA,NA,NA
+OG0003913,BBLLADNB_00289,K03781,catalase [EC:1.11.1.6]  ,inclusive,M00532,Pathway modules,Carbohydrate metabolism,Other carbohydrate metabolism, Photorespiration [PATH:map00630 map01200 map01100 map01110]
+OG0003917,BBLLADNB_01496,K07090,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0003920,BBLLADNB_02302,K16052,MscS family membrane protein,inclusive,NA,NA,NA,NA,NA
+OG0003928,BBLLADNB_00342,K23886,CDGSH iron-sulfur domain-containing protein,inclusive,NA,NA,NA,NA,NA
+OG0003929,BBLLADNB_02364,K15977,putative oxidoreductase  ,inclusive,NA,NA,NA,NA,NA
+OG0003937,BBLLADNB_02333,K04062,osmotically inducible lipoprotein OsmB,inclusive,NA,NA,NA,NA,NA
+OG0003946,BBLLADNB_03497,K07114,Ca-activated chloride channel homolog,inclusive,NA,NA,NA,NA,NA
+OG0003948,BBLLADNB_03492,K19156,antitoxin PrlF  ,inclusive,NA,NA,NA,NA,NA
+OG0003953,BBLLADNB_02688,K01114,phospholipase C [EC:3.1.4.3] ,inclusive,NA,NA,NA,NA,NA
+OG0003954,BBLLADNB_02949,K07107,acyl-CoA thioester hydrolase [EC:3.1.2.-],inclusive,NA,NA,NA,NA,NA
+OG0003965,BBLLADNB_03230,K12059,conjugal transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0003981,BBLLADNB_00216,K13670,putative glycosyltransferase [EC:2.4.-.-] ,inclusive,NA,NA,NA,NA,NA
+OG0003983,BBLLADNB_02611,K12062,conjugal transfer pilin signal,inclusive,NA,NA,NA,NA,NA
+OG0003986,BBLLADNB_03639,K01779,aspartate racemase [EC:5.1.1.13] ,inclusive,NA,NA,NA,NA,NA
+OG0004341,BBLLADNB_02391,K06921,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0004387,BBLLADNB_00473,K12056,conjugal transfer mating pair,inclusive,NA,NA,NA,NA,NA
+OG0004590,BBLLADNB_03291,K07727,putative transcriptional regulator ,inclusive,NA,NA,NA,NA,NA
+OG0004595,BBLLADNB_02850,K12137,hydrogenase-4 component B [EC:1.-.-.-],inclusive,NA,NA,NA,NA,NA
+OG0004597,BBLLADNB_02848,K12140,hydrogenase-4 component E [EC:1.-.-.-],inclusive,NA,NA,NA,NA,NA
+OG0004598,BBLLADNB_02847,K12141,hydrogenase-4 component F [EC:1.-.-.-],inclusive,NA,NA,NA,NA,NA
+OG0004601,BBLLADNB_03180,K09978,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0004621,BBLLADNB_00192,K06893,uncharacterized protein  ,inclusive,NA,NA,NA,NA,NA
+OG0004622,BBLLADNB_01514,K06044,(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15] ,inclusive,M00565,Pathway modules,Carbohydrate metabolism,Other carbohydrate metabolism, Trehalose biosynthesis, D-glucose 1P => trehalose [PATH:map00500 map01100 map01110]
+OG0004622,BBLLADNB_01514,K00705,4-alpha-glucanotransferase [EC:2.4.1.25]  ,inclusive,M00855,Pathway modules,Carbohydrate metabolism,Other carbohydrate metabolism, Glycogen degradation, glycogen => glucose-6P [PATH:map00500 map01100]
+OG0004629,BBLLADNB_00779,K05567,multicomponent Na+:H+ antiporter subunit,inclusive,NA,NA,NA,NA,NA
+OG0004630,BBLLADNB_00783,K05570,multicomponent Na+:H+ antiporter subunit,inclusive,NA,NA,NA,NA,NA
+OG0004631,BBLLADNB_00784,K05569,multicomponent Na+:H+ antiporter subunit,inclusive,NA,NA,NA,NA,NA
+OG0004636,BBLLADNB_01828,K03547,DNA repair protein SbcD/Mre11,inclusive,NA,NA,NA,NA,NA
+OG0004643,BBLLADNB_02227,K08481,circadian clock protein KaiB,inclusive,NA,NA,NA,NA,NA
+OG0004644,BBLLADNB_02229,K08481,circadian clock protein KaiB,inclusive,NA,NA,NA,NA,NA
+OG0004645,BBLLADNB_02230,K08482,circadian clock protein KaiC,inclusive,NA,NA,NA,NA,NA
+OG0004659,BBLLADNB_02236,K00568,2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9,inclusive,M00117,Pathway modules,Metabolism of cofactors and vitamins,Cofactor and vitamin metabolism, Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone [PATH:map00130 map01100 map01110]
+OG0004661,BBLLADNB_00012,K03410,chemotaxis protein CheC ,inclusive,NA,NA,NA,NA,NA
+OG0004666,BBLLADNB_01133,K03975,membrane-associated protein  ,inclusive,NA,NA,NA,NA,NA
+OG0004666,BBLLADNB_01133,K19302,undecaprenyl-diphosphatase [EC:3.6.1.27]  ,inclusive,NA,NA,NA,NA,NA
+OG0004671,BBLLADNB_01808,K20370,phosphoenolpyruvate carboxykinase (diphosphate) [EC:4.1.1.38],inclusive,NA,NA,NA,NA,NA
+OG0004686,BBLLADNB_00559,K01607,4-carboxymuconolactone decarboxylase [EC:4.1.1.44] ,inclusive,NA,NA,NA,NA,NA
+OG0004687,BBLLADNB_00557,K03333,cholesterol oxidase [EC:1.1.3.6] ,inclusive,NA,NA,NA,NA,NA
+OG0004730,BBLLADNB_02997,K11689,C4-dicarboxylate transporter,inclusive,NA,NA,NA,NA,NA
+OG0004731,BBLLADNB_03493,K07171,mRNA interferase MazF [EC:3.1.-.-],inclusive,NA,NA,NA,NA,NA
+OG0004741,BBLLADNB_03359,K02040,phosphate transport system substrate-binding,inclusive,NA,NA,NA,NA,NA
+OG0004750,BBLLADNB_03043,K03281,chloride channel protein,inclusive,NA,NA,NA,NA,NA
+OG0004751,BBLLADNB_02567,K19164,antitoxin CcdA  ,inclusive,NA,NA,NA,NA,NA
+OG0004752,BBLLADNB_02568,K19163,toxin CcdB  ,inclusive,NA,NA,NA,NA,NA
+OG0004771,BBLLADNB_02592,K12349,neutral ceramidase [EC:3.5.1.23] ,inclusive,M00099,Pathway modules,Lipid metabolism,Lipid metabolism, Sphingosine biosynthesis [PATH:map00600 map01100]
+OG0004777,BBLLADNB_00700,K11021,insecticidal toxin complex protein,inclusive,NA,NA,NA,NA,NA
+OG0004793,BBLLADNB_00903,K07451,5-methylcytosine-specific restriction enzyme A,inclusive,NA,NA,NA,NA,NA
+OG0004804,BBLLADNB_02122,K22025,D-erythronate 2-dehydrogenase [EC:1.1.1.410] ,inclusive,NA,NA,NA,NA,NA
+OG0004805,BBLLADNB_02120,K22130,3-dehydro-4-phosphotetronate decarboxylase [EC:4.1.1.104] ,inclusive,NA,NA,NA,NA,NA
+OG0004806,BBLLADNB_02119,K21948,3-dehydrotetronate 4-kinase [EC:2.7.1.217] ,inclusive,NA,NA,NA,NA,NA
+OG0004807,BBLLADNB_02118,K08319,L-threonate 2-dehydrogenase [EC:1.1.1.411] ,inclusive,NA,NA,NA,NA,NA
+OG0004807,BBLLADNB_02118,K00020,3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31] ,inclusive,NA,NA,NA,NA,NA
+OG0004809,BBLLADNB_02114,K05799,GntR family transcriptional regulator,inclusive,NA,NA,NA,NA,NA
+OG0004816,BBLLADNB_03232,K12061,conjugal transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0004822,BBLLADNB_02542,K07455,recombination protein RecT ,inclusive,NA,NA,NA,NA,NA
+OG0005676,BBLLADNB_02397,K03630,DNA repair protein RadC,inclusive,NA,NA,NA,NA,NA
+OG0005716,BBLLADNB_00480,K12065,conjugal transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0005717,BBLLADNB_00481,K12066,conjugal transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0005726,BBLLADNB_00477,K12063,conjugal transfer ATP-binding protein,inclusive,NA,NA,NA,NA,NA
+OG0005728,BBLLADNB_00475,K12057,conjugal transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0005729,BBLLADNB_00474,K12072,conjugative transfer pilus assembly,inclusive,NA,NA,NA,NA,NA
+OG0005743,BBLLADNB_03900,K07493,putative transposase  ,inclusive,NA,NA,NA,NA,NA
+OG0005748,BBLLADNB_00681,K06919,putative DNA primase/helicase ,inclusive,NA,NA,NA,NA,NA
+OG0005751,BBLLADNB_01554,K19131,CRISPR-associated protein Csb1 ,inclusive,NA,NA,NA,NA,NA
+OG0005752,BBLLADNB_01555,K19132,CRISPR-associated protein Csb2 ,inclusive,NA,NA,NA,NA,NA
+OG0005753,BBLLADNB_01556,K07012,CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.-,inclusive,NA,NA,NA,NA,NA
+OG0005756,BBLLADNB_01955,K06006,periplasmic protein CpxP/Spy ,inclusive,NA,NA,NA,NA,NA
+OG0005759,BBLLADNB_03825,K07452,5-methylcytosine-specific restriction enzyme B,inclusive,NA,NA,NA,NA,NA
+OG0005762,BBLLADNB_00157,K07724,Ner family transcriptional regulator,exclusive,NA,NA,NA,NA,NA
+OG0005762,BBLLADNB_00159,K07724,Ner family transcriptional regulator,exclusive,NA,NA,NA,NA,NA
+OG0005764,BBLLADNB_01099,K07474,phage terminase small subunit,exclusive,NA,NA,NA,NA,NA
+OG0005764,BBLLADNB_01547,K07474,phage terminase small subunit,exclusive,NA,NA,NA,NA,NA
