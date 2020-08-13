@@ -111,7 +111,7 @@ IIC_rld <- rlogTransformation(IIC.dds)
 IIC_topVarGenes <- head(order(-rowVars(assay(IIC_rld))), 20)
 IIC_top_mat <- assay(IIC_rld)[IIC_topVarGenes, ]
 IIC_top_mat <- IIC_top_mat - rowMeans(IIC_top_mat)
-pheatmap(IIC_top_mat, annotation_col = IIC_metadata, drop_levels = TRUE, cluster_cols=FALSE)
+IIC_top_heatmap <- pheatmap(IIC_top_mat, drop_levels = TRUE, cluster_cols=FALSE)
 
 ## IIC core
 IIC_core <- read.csv("results/orthoTables/UW6-core-filtered.csv")
@@ -142,7 +142,7 @@ IIC_acc_metadata$locus_tag <- sub("^", "2767802455_", IIC_acc_metadata$locus_tag
 IIC_acc_metadata <- column_to_rownames(var="locus_tag", IIC_acc_metadata)
 colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
 IIC_acc_mat_ordered <- IIC_acc_mat[rownames(IIC_acc_metadata), ]
-pheatmap(IIC_acc_mat, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE, color=colors, annotation_row=IIC_acc_metadata, treeheight_row = 0, treeheight_col = 0, ann)
+IIC_accessory <- pheatmap(IIC_acc_mat, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE, color=colors, annotation_row=IIC_acc_metadata, treeheight_col = 0)
 
 ## IA top 20 DE genes
 IA_metadata <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
@@ -150,7 +150,8 @@ IA_rld <- rlogTransformation(IA.dds)
 IA_topVarGenes <- head(order(-rowVars(assay(IA_rld))), 20)
 IA_top_mat <- assay(IA_rld)[IA_topVarGenes, ]
 IA_top_mat <- IA_top_mat - rowMeans(IA_top_mat)
-pheatmap(IA_top_mat, annotation_col = IA_metadata, drop_levels = TRUE, cluster_cols=FALSE)
+IA_top_heatmap <- pheatmap(IA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
+
 
 ## IA core
 IA_core <- read.csv("results/orthoTables/UW4-core.csv")
@@ -181,4 +182,12 @@ IA_acc_categories_metadata <- read.csv("results/annotations/UW4-accessory-catego
 IA_acc_categories_metadata$locus_tag <- sub("^", "spades-bin.32_", IA_acc_categories_metadata$locus_tag)
 IA_acc_categories_metadata <- column_to_rownames(IA_acc_categories_metadata, var="locus_tag")
 colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
-pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, color=colors, annotation_row = IA_acc_categories_metadata, treeheight_row = 0, treeheight_col = 0)
+IA_accessory <- pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, annotation_row = IA_acc_categories_metadata, treeheight_col = 0,show_rownames=FALSE)
+
+################# 
+# save figures
+
+ggsave("figures/IIC_top_20DE_heatmap.png", IIC_top_heatmap, height=20, width=20, units=c("cm"))
+ggsave("figures/IA_top_20DE_heatmap.png", IA_top_heatmap, height=20, width=20, units=c("cm"))
+ggsave("figures/IA_accessory_heatmap.png", IA_accessory, height=20, width=20, units=c("cm"))
+ggsave("figures/IIC_accessory_heatmap.png", IIC_accessory, height=20, width=20, units=c("cm"))
