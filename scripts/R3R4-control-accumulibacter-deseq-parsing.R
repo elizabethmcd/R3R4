@@ -105,10 +105,10 @@ IIF_triple_fold <- IIF.df %>% filter(log2FoldChange > 3 | log2FoldChange < -3)
 # colors
 accessory_colors <- list(group = brewer.pal(3, "Set1"))
 
-## IIC top 20 DE genes 
+## IIC top 50 DE genes 
 IIC_metadata <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
 IIC_rld <- rlogTransformation(IIC.dds)
-IIC_topVarGenes <- head(order(-rowVars(assay(IIC_rld))), 20)
+IIC_topVarGenes <- head(order(-rowVars(assay(IIC_rld))), 50)
 IIC_top_mat <- assay(IIC_rld)[IIC_topVarGenes, ]
 IIC_top_mat <- IIC_top_mat - rowMeans(IIC_top_mat)
 IIC_top_heatmap <- pheatmap(IIC_top_mat, drop_levels = TRUE, cluster_cols=FALSE)
@@ -144,13 +144,20 @@ colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
 IIC_acc_mat_ordered <- IIC_acc_mat[rownames(IIC_acc_metadata), ]
 IIC_accessory <- pheatmap(IIC_acc_mat, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE, color=colors, annotation_row=IIC_acc_metadata, treeheight_col = 0)
 
-## IA top 20 DE genes
+## IA top 25 DE genes
 IA_metadata <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
 IA_rld <- rlogTransformation(IA.dds)
-IA_topVarGenes <- head(order(-rowVars(assay(IA_rld))), 20)
+IA_topVarGenes <- head(order(-rowVars(assay(IA_rld))), 25)
 IA_top_mat <- assay(IA_rld)[IA_topVarGenes, ]
 IA_top_mat <- IA_top_mat - rowMeans(IA_top_mat)
-IA_top_heatmap <- pheatmap(IA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
+IA_top_25_heatmap <- pheatmap(IA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
+
+## IIA top 25 DE genes
+IIA_rld <- rlogTransformation(IIA.dds)
+IIA_topVarGenes <- head(order(-rowVars(assay(IIA_rld))), 25)
+IIA_top_mat <- assay(IIA_rld)[IIA_topVarGenes, ]
+IIA_top_mat <- IIA_top_mat - rowMeans(IIA_top_mat)
+IIA_top_25_heatmap <- pheatmap(IIA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
 
 
 ## IA core
@@ -187,7 +194,7 @@ IA_accessory <- pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, c
 ################# 
 # save figures
 
-ggsave("figures/IIC_top_20DE_heatmap.png", IIC_top_heatmap, height=20, width=20, units=c("cm"))
+ggsave("figures/IIC_top_50DE_heatmap.png", IIC_top_heatmap, height=20, width=13, units=c("cm"))
 ggsave("figures/IA_top_20DE_heatmap.png", IA_top_heatmap, height=20, width=20, units=c("cm"))
 ggsave("figures/IA_accessory_heatmap.png", IA_accessory, height=20, width=20, units=c("cm"))
 ggsave("figures/IIC_accessory_heatmap.png", IIC_accessory, height=20, width=20, units=c("cm"))
