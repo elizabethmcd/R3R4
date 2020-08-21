@@ -38,6 +38,12 @@ cycles <- sumCounts %>% select(Group.1, Aerobic, Anaerobic)
 colnames(cycles) <- c("Bin", "A", "N")
 cycles.m <- melt(cycles, id.vars="Bin", measure.vars=c("A", "N"))
 
-R3R4_expression <- ggplot(cycles.m, aes(x=reorder(Bin,value), y=value, fill=variable)) + geom_col(width=0.5, position="dodge") + scale_y_log10(limits=c(1,1e7), expand=c(0,0)) + coord_flip() + scale_fill_manual(values=c("grey50", "grey30")) + theme_classic()
+R3R4_expression <- ggplot(cycles.m, aes(x=reorder(Bin,value), y=value, fill=variable)) + geom_col(width=0.5, position="dodge") + scale_y_log10(limits=c(1,1e7), expand=c(0,0)) + coord_flip() + scale_fill_manual(values=c("grey70", "grey30")) + theme_classic()
 
 ggsave("figures/R3R4_clades_expression_averages.png", R3R4_expression, width=15, height=10, units=c("cm"))
+
+#############################
+# N cycling genes expression profiles
+nitrogen <- read.csv("results/annotations/nitrogen_cycling_annotations.csv")
+nitrogen_profiles <- left_join(nitrogen, controlTPMcounts)
+write.csv(nitrogen_profiles, "results/tpm_tables/nitrogen_profiles_clades.csv", quote=FALSE, row.names = FALSE)
