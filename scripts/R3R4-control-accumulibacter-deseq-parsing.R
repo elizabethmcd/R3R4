@@ -114,12 +114,10 @@ IIC_top_mat <- IIC_top_mat - rowMeans(IIC_top_mat)
 IIC_top_heatmap <- pheatmap(IIC_top_mat, drop_levels = TRUE, cluster_cols=FALSE)
 
 ## IIC core
-IIC_core <- read.csv("results/orthoTables/UW6-core-filtered.csv")
-IIC_core$locus_tag <- sub("^", "2767802455_", IIC_core$locus_tag)
-IIC.df <- rownames_to_column(IIC.df, var = "locus_tag") 
-IIC_confirmed_core_tags <- left_join(IIC.df, IIC_core) %>% filter(!is.na(orthogroup)) %>% select(-all_or_exp_core)
-IIC_core_tags <- IIC_confirmed_core_tags[['locus_tag']]
-IIC_core_subset <- IIC.dds[IIC_core_tags, ]
+IIC_core <- read.csv("results/pangenomics/pyparanoid/core_lists/IIC_core_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
+colnames(IIC_core) <- c("locus_tag")
+IIC_core_list <- IIC_core[['locus_tag']]
+IIC_core_subset <- IIC.dds[IIC_core_list, ]
 IIC_core_rld <- rlogTransformation(IIC_core_subset)
 mat <- assay(IIC_core_rld)
 mat <- mat - rowMeans(mat)
@@ -127,30 +125,23 @@ df <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
 pheatmap(mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
 
 ## IIC accessory
-IIC_accessory <- read.csv("results/orthoTables/UW6-accessory.csv")
-IIC_accessory$locus_tag <- sub("^", "2767802455_", IIC_accessory$locus_tag)
-IIC_confirmed_accessory_tags <- left_join(IIC.df, IIC_accessory) %>% filter(!is.na(orthogroup)) %>% select(-in_or_ex)
-IIC_acc_tags <- IIC_confirmed_accessory_tags[['locus_tag']]
+IIC_accessory <- read.csv("results/pangenomics/pyparanoid/IIC_accessory_lists/IIC_accessory_strict_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
+colnames(IIC_accessory) <- c("locus_tag")
+IIC_acc_tags <- IIC_accessory[['locus_tag']]
 IIC_acc_subset <- IIC.dds[IIC_acc_tags, ]
 IIC_acc_rld <- rlogTransformation(IIC_acc_subset)
 IIC_acc_mat <- assay(IIC_acc_rld)
 IIC_acc_mat <- IIC_acc_mat - rowMeans(IIC_acc_mat)
-
-## IIC accessory plot
-IIC_acc_metadata <- read.csv("results/annotations/UW6-accessory-categories.csv") %>% select(locus_tag, Category)
-IIC_acc_metadata$locus_tag <- sub("^", "2767802455_", IIC_acc_metadata$locus_tag)
-IIC_acc_metadata <- column_to_rownames(var="locus_tag", IIC_acc_metadata)
-colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
-IIC_acc_mat_ordered <- IIC_acc_mat[rownames(IIC_acc_metadata), ]
-IIC_accessory <- pheatmap(IIC_acc_mat, drop_levels=TRUE, show_rownames=FALSE, cluster_cols=FALSE, color=colors, annotation_row=IIC_acc_metadata, treeheight_col = 0)
+df <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
+pheatmap(IIC_acc_mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
 
 ## IA top 25 DE genes
 IA_metadata <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
 IA_rld <- rlogTransformation(IA.dds)
-IA_topVarGenes <- head(order(-rowVars(assay(IA_rld))), 25)
+IA_topVarGenes <- head(order(-rowVars(assay(IA_rld))), 75)
 IA_top_mat <- assay(IA_rld)[IA_topVarGenes, ]
 IA_top_mat <- IA_top_mat - rowMeans(IA_top_mat)
-IA_top_25_heatmap <- pheatmap(IA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
+IA_top_75_heatmap <- pheatmap(IA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
 
 ## IIA top 25 DE genes
 IIA_rld <- rlogTransformation(IIA.dds)
@@ -159,14 +150,23 @@ IIA_top_mat <- assay(IIA_rld)[IIA_topVarGenes, ]
 IIA_top_mat <- IIA_top_mat - rowMeans(IIA_top_mat)
 IIA_top_25_heatmap <- pheatmap(IIA_top_mat, drop_levels = TRUE, cluster_cols=FALSE, treeheight_col=0)
 
+## IIA core plot
+IIA_core <- read.csv("results/pangenomics/pyparanoid/core_lists/IIA_core_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
+colnames(IIA_core) <- c("locus_tag")
+IIA_core_list <- IIA_core[['locus_tag']]
+IIA_core_subset <- IIA.dds[IIA_core_list, ]
+IIA_core_rld <- rlogTransformation(IIA_core_subset)
+mat <- assay(IIA_core_rld)
+mat <- mat - rowMeans(mat)
+df <- as.data.frame(colData(IIA.dds)[,c("r1", "r2", "sample", "condition")])
+pheatmap(mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
+
 
 ## IA core
-IA_core <- read.csv("results/orthoTables/UW4-core.csv")
-IA_core$locus_tag <- sub("^", "spades-bin.32_", IA_core$locus_tag)
-IA.df <- rownames_to_column(IA.df, var = "locus_tag") 
-IA_confirmed_core_tags <- left_join(IA.df, IA_core) %>% filter(!is.na(orthogroup)) %>% select(-all_or_exp_core)
-IA_core_tags <- IA_confirmed_core_tags[['locus_tag']]
-IA_core_subset <- IA.dds[IA_core_tags, ]
+IA_core <- read.csv("results/pangenomics/pyparanoid/core_lists/IA_core_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
+colnames(IA_core) <- c("locus_tag")
+IA_core_list <- IA_core[['locus_tag']]
+IA_core_subset <- IA.dds[IA_core_list, ]
 IA_core_rld <- rlogTransformation(IA_core_subset)
 IA_core_mat <- assay(IA_core_rld)
 IA_core_mat <- IA_core_mat - rowMeans(IA_core_mat)
@@ -174,14 +174,14 @@ IA_df <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
 pheatmap(IA_core_mat, annotation_col=IA_df, drop_levels=TRUE, cluster_rows=FALSE, cluster_cols=FALSE)
 
 # IA accessory
-IA_acc <- read.csv("results/orthoTables/UW4-accessory.csv")
-IA_acc$locus_tag <- sub("^", "spades-bin.32_", IA_acc$locus_tag)
-IA_confirmed_acc_tags <- left_join(IA.df, IA_acc) %>% filter(!is.na(orthogroup)) %>% select(-in_or_ex)
-IA_acc_tags <- IA_confirmed_acc_tags[['locus_tag']]
+IA_acc <- read.csv("results/pangenomics/pyparanoid/IA_accessory_lists/IA_accessory_strict_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
+colnames(IA_acc) <- c("locus_tag")
+IA_acc_tags <- IA_acc[['locus_tag']]
 IA_acc_subset <- IA.dds[IA_acc_tags, ]
 IA_acc_rld <- rlogTransformation(IA_acc_subset)
 IA_acc_mat <- assay(IA_acc_rld)
 IA_acc_mat <- IA_acc_mat - rowMeans(IA_acc_mat)
+pheatmap(IA_acc_mat, annotation_col=IA_df, drop_levels=TRUE, cluster_rows=FALSE, cluster_cols=FALSE)
 
 # IA accessory plot
 # IA row function categories metadata
