@@ -247,6 +247,18 @@ IA_only <- left_join(IA_group_table, IIC_group_table) %>%
   filter(is.na(IIC_locus_tag)) %>% 
   select(group, IA_locus_tag)
 
+# group annotations
+group_descriptions <- read.delim("results/pangenomics/pyparanoid/v2/group_descriptions.txt", header=FALSE, sep="\t") %>% select(V1, V2)
+colnames(group_descriptions) <- c("group", "annotation")
+
+IA_only_group_annotations <- left_join(IA_only, group_descriptions)
+IIC_only_group_annotations <- left_join(IIC_only, group_descriptions)
+clade_group_annotations <- left_join(clade_group_table, group_descriptions)
+
+write.csv(IA_only_group_annotations, "results/pangenomics/DE_tables/IA_acc_group_annotations.csv", quote=FALSE, row.names = FALSE)
+write.csv(IIC_only_group_annotations, "results/pangenomics/DE_tables/IIC_acc_group_annotations.csv", quote=FALSE, row.names = FALSE)
+write.csv(clade_group_annotations, "results/pangenomics/DE_tables/both_clade_group_annotations.csv", quote=FALSE, row.names = FALSE)
+
 # accessory lists and profiles for each clade
 IIC_only_list <- IIC_only$IIC_locus_tag
 IIC_only_subset <- IIC.dds[IIC_only_list, ]
@@ -255,7 +267,8 @@ IIC_acc_mat <- assay(IIC_DE_rld)
 IIC_acc_mat <- IIC_acc_mat - rowMeans(IIC_acc_mat)
 df <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
 colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
-pheatmap(IIC_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0, show_rownames=FALSE)
+IIC_accessory_heatmap_pretty <- pheatmap(IIC_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0, show_rownames=FALSE)
+IIC_accessory_heatmap_names <- pheatmap(IIC_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0)
 
 IA_only_list <- IA_only$IA_locus_tag
 IA_only_subset <- IA.dds[IA_only_list, ]
@@ -264,7 +277,12 @@ IA_acc_mat <- assay(IA_DE_rld)
 IA_acc_mat <- IA_acc_mat - rowMeans(IA_acc_mat)
 df <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
 colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
-pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = FALSE, color=colors, treeheight_col = 0, treeheight_row = 0)
+IA_accessory_heatmap_pretty <- pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0, show_rownames = FALSE)
+IA_accessory_heatmap_names <- pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0)
+
+# save accessory heatmaps
+ggsave("figures/IIC_accessory_heatmap_names.png", IIC_accessory_heatmap_names, units=c("cm"), width=15, height=14)
+ggsave("figures/IA_accessory_heatmap_names.png", IA_accessory_heatmap_names, units=c("cm"), width=15, height=19)
 
 # for core sets, make sure all genes met thresholds for both clades
 IIC_core_list <- clade_group_table$IIC_locus_tag
