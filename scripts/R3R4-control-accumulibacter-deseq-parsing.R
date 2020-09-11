@@ -113,6 +113,9 @@ IIC_top_mat <- assay(IIC_rld)[IIC_topVarGenes, ]
 IIC_top_mat <- IIC_top_mat - rowMeans(IIC_top_mat)
 IIC_top_heatmap <- pheatmap(IIC_top_mat, drop_levels = TRUE, cluster_cols=FALSE)
 
+################################################
+# Pulling directly from gene lists
+
 ## IIC core
 IIC_core <- read.csv("results/pangenomics/pyparanoid/core_lists/IIC_core_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
 colnames(IIC_core) <- c("locus_tag")
@@ -161,7 +164,6 @@ mat <- mat - rowMeans(mat)
 df <- as.data.frame(colData(IIA.dds)[,c("r1", "r2", "sample", "condition")])
 pheatmap(mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
 
-
 ## IA core
 IA_core <- read.csv("results/pangenomics/pyparanoid/core_lists/IA_core_locus_tags.txt", header=FALSE, stringsAsFactors = FALSE)
 colnames(IA_core) <- c("locus_tag")
@@ -191,10 +193,85 @@ IA_acc_categories_metadata <- column_to_rownames(IA_acc_categories_metadata, var
 colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
 IA_accessory <- pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, annotation_row = IA_acc_categories_metadata, treeheight_col = 0,show_rownames=FALSE)
 
-################# 
+#################################
 # save figures
 
 ggsave("figures/IIC_top_50DE_heatmap.png", IIC_top_heatmap, height=20, width=13, units=c("cm"))
 ggsave("figures/IA_top_20DE_heatmap.png", IA_top_heatmap, height=20, width=20, units=c("cm"))
 ggsave("figures/IA_accessory_heatmap.png", IA_accessory, height=20, width=20, units=c("cm"))
 ggsave("figures/IIC_accessory_heatmap.png", IIC_accessory, height=20, width=20, units=c("cm"))
+
+
+######################################
+# Pulling out DE genes above/below +- 1.5 fold-change for each clade
+# Get their locus tags, find ortholog family in, get corresponding homologs for other clade, look at expression patterns
+
+write.csv(IIC_fold, "results/pangenomics/DE_tables/IIC_1.5fold_DE_table.csv", quote=FALSE, row.names = FALSE)
+write.csv(IA_fold, "results/pangenomics/DE_tables/IA_1.5fold_DE_table.csv", quote=FALSE, row.names = FALSE)
+write.csv(IIA_fold, "results/pangenomics/DE_tables/IIA_1.5fold_DE_table.csv", quote=FALSE, row.names = FALSE)
+
+IIC_DE_tags <- IIC_fold$locus_tag
+IIC_DE_subset <- IIC.dds[IIC_DE_tags, ]
+IIC_DE_rld <- rlogTransformation(IIC_DE_subset)
+mat <- assay(IIC_DE_rld)
+mat <- mat - rowMeans(mat)
+df <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
+pheatmap(mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
+
+IA_DE_tags <- IA_fold$locus_tag
+IA_DE_subset <- IA.dds[IA_DE_tags, ]
+IA_DE_rld <- rlogTransformation(IA_DE_subset)
+mat <- assay(IA_DE_rld)
+mat <- mat - rowMeans(mat)
+df <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
+pheatmap(mat, annotation_col=df, drop_levels=TRUE, cluster_rows=FALSE, show_rownames=FALSE, cluster_cols=FALSE)
+
+#######################################
+# merge group tables to get genes for both clades to compare against
+IA_group_table <- read.delim("results/pangenomics/pyparanoid/DE_lists/IA-all-groups-table.txt", header=FALSE, sep="\t", stringsAsFactors = FALSE)
+IIC_group_table <- read.delim("results/pangenomics/pyparanoid/DE_lists/IIC-all-groups-table.txt", header=FALSE, sep="\t", stringsAsFactors = FALSE)
+colnames(IA_group_table) <- c("IA_locus_tag", "group")
+colnames(IIC_group_table) <- c("IIC_locus_tag", "group")
+
+clade_group_table <- left_join(IA_group_table, IIC_group_table) %>% 
+  select(group, IA_locus_tag, IIC_locus_tag) %>% 
+  filter(!is.na(IIC_locus_tag))
+
+IIC_only <- left_join(IIC_group_table, IA_group_table) %>% 
+  select(group, IA_locus_tag, IIC_locus_tag) %>% 
+  filter(is.na(IA_locus_tag)) %>% 
+  select(group, IIC_locus_tag)
+
+IA_only <- left_join(IA_group_table, IIC_group_table) %>% 
+  select(group, IA_locus_tag, IIC_locus_tag) %>% 
+  filter(is.na(IIC_locus_tag)) %>% 
+  select(group, IA_locus_tag)
+
+# accessory lists and profiles for each clade
+IIC_only_list <- IIC_only$IIC_locus_tag
+IIC_only_subset <- IIC.dds[IIC_only_list, ]
+IIC_DE_rld <- rlogTransformation(IIC_only_subset)
+IIC_acc_mat <- assay(IIC_DE_rld)
+IIC_acc_mat <- IIC_acc_mat - rowMeans(IIC_acc_mat)
+df <- as.data.frame(colData(IIC.dds)[,c("r1", "r2", "sample", "condition")])
+colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
+pheatmap(IIC_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = TRUE, color=colors, treeheight_col = 0, treeheight_row = 0, show_rownames=FALSE)
+
+IA_only_list <- IA_only$IA_locus_tag
+IA_only_subset <- IA.dds[IA_only_list, ]
+IA_DE_rld <- rlogTransformation(IA_only_subset)
+IA_acc_mat <- assay(IA_DE_rld)
+IA_acc_mat <- IA_acc_mat - rowMeans(IA_acc_mat)
+df <- as.data.frame(colData(IA.dds)[,c("r1", "r2", "sample", "condition")])
+colors <-colorRampPalette(rev(brewer.pal(n=9,name="PuOr")))(255)
+pheatmap(IA_acc_mat, drop_levels = TRUE, cluster_cols = FALSE, cluster_rows = FALSE, color=colors, treeheight_col = 0, treeheight_row = 0)
+
+# for core sets, make sure all genes met thresholds for both clades
+IIC_core_list <- clade_group_table$IIC_locus_tag
+IA_core_list <- clade_group_table$IA_locus_tag
+
+IIC_core_subset <- IIC.dds[IIC_core_list, ] # IIC has 3 genes probably need to pull out for low counts
+# 2767802455_NHBDKAOG_04291 group04479 
+# 2767802455_NHBDKAOG_04089 group04485
+# 2767802455_NHBDKAOG_04283 group05067
+IA_core_subset <- IA.dds[IA_core_list, ] # IA fine - although might need to go back and be more stringent with the cutoffs since this clade has lower counts

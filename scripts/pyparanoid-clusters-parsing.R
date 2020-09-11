@@ -127,3 +127,4 @@ colnames(IA_groups) <- c("IA_locus_tag", "group")
 colnames(IIC_groups) <- c("IIC_locus_tag", "group")
 clade_groups <- left_join(IA_groups, IIC_groups)
 clade_group_annotations <- left_join(clade_groups, group_descriptions) %>% select(group, annotation, IA_locus_tag, IIC_locus_tag)
+
