@@ -1,0 +1,30 @@
+﻿Locus_tag,gene,clade,function
+2767802455_NHBDKAOG_04461,nirB,IIC,nitrate reductase
+2767802455_NHBDKAOG_01596,nirD,IIC,nitrate reductase
+2767802455_NHBDKAOG_04746,narI,IIC,nitrate reductase
+2767802455_NHBDKAOG_04747,narJ,IIC,nitrate reductase
+2767802455_NHBDKAOG_04748,narH/narY,IIC,nitrate reductase
+2767802455_NHBDKAOG_04749,narG,IIC,nitrate reductase
+2767802455_NHBDKAOG_03091,nirS_1,IIC,nitrite reductase
+2767802455_NHBDKAOG_04744,nirS_2,IIC,nitrite reductase
+2767802455_NHBDKAOG_01023,norW_1,IIC,nitric oxide reductase
+2767802455_NHBDKAOG_03051,norQ,IIC,nitric oxide reductase
+2767802455_NHBDKAOG_02570,norW_2,IIC,nitric oxide reductase
+2767802455_NHBDKAOG_03153,norR,IIC,nitric oxide reductase regulator
+spades-bin.32_BBLLADNB_00818,napA_1,IA,nitrate reductase
+spades-bin.32_BBLLADNB_02988,napA_2,IA,nitrate reductase periplasmic
+spades-bin.32_BBLLADNB_00412,nirS_1,IA,nitrite reductase
+spades-bin.32_BBLLADNB_02303,nirS_2,IA,nitrite reductase
+spades-bin.32_BBLLADNB_03580,nirS_3,IA,nitrite reductase
+spades-bin.32_BBLLADNB_01567,norQ,IA,nitric oxide reductase
+spades-bin.32_BBLLADNB_01568,norD,IA,nitric oxide reductase
+spades-bin.32_BBLLADNB_00654,nosZ,IA,nitrous-oxide reductase
+2767802316_GNJGOIBN_02788,napA_1,IIA,Nitrate reductase
+2767802316_GNJGOIBN_03914,napA_2,IIA,Periplasmic nitrate reductase
+2767802316_GNJGOIBN_03917,napB,IIA,Periplasmic nitrate reductase
+2767802316_GNJGOIBN_00282,nirS_1,IIA,nitrite reductase
+2767802316_GNJGOIBN_02480,nirS_2,IIA,nitrite reductase
+2767802316_GNJGOIBN_00693,nirT,IIA,Denitrification system
+2767802316_GNJGOIBN_00804,nirQ,IIA,Denitrification system
+2767802316_GNJGOIBN_01837,norW,IIA,nitric oxide reductase
+2767802316_GNJGOIBN_03423,nosZ,IIA,nitrous-oxide reductase

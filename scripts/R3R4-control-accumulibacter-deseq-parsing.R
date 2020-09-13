@@ -8,6 +8,7 @@ library(superheat)
 library(pheatmap)
 library(RColorBrewer)
 library(viridis)
+library(reshape2)
 
 # Directory and files setup
 dir <- "results/transcriptomic_data"
@@ -292,4 +293,47 @@ IIC_core_subset <- IIC.dds[IIC_core_list, ] # IIC has 3 genes probably need to p
 # 2767802455_NHBDKAOG_04291 group04479 
 # 2767802455_NHBDKAOG_04089 group04485
 # 2767802455_NHBDKAOG_04283 group05067
-IA_core_subset <- IA.dds[IA_core_list, ] # IA fine - although might need to go back and be more stringent with the cutoffs since this clade has lower counts
+IA_core_subset <- IA.dds[IA_core_list, ] # IA fine
+
+# core groups table
+core_groups_table <- read.csv("results/pangenomics/DE_tables/both_clade_group_annotations.csv", stringsAsFactors = FALSE)
+# locus tags
+IA_core_locus_tags <- core_groups_table$IA_locus_tag
+IIC_core_locus_tags <- core_groups_table$IIC_locus_tag
+# IA core
+IA_core_subset <- IA.dds[IA_core_locus_tags, ]
+IA_core_DE_rld <- rlogTransformation(IA_core_subset)
+IA_core_mat <- assay(IA_core_DE_rld)
+IA_core_mat <- IA_core_mat - rowMeans(IA_core_mat)
+IA_core_df <- as.data.frame(IA_core_mat) %>% 
+  rownames_to_column(var="locus_tag")
+# melted for heatmap
+IA_core_melted <- melt(IA_core_df, id.vars="locus_tag")
+IA_core_melted$locus_tag <- factor(IA_core_melted$locus_tag, levels=c(IA_core_locus_tags))
+IA_core_plot <- ggplot(IA_core_melted, aes(x=variable, y=fct_rev(locus_tag), fill=value)) + geom_tile(color="white") + scale_fill_viridis(option="viridis", alpha=1, begin=0, end=1, direction=1, limits=c(-2.2,3), breaks=c(-2,-1,0,1,2,3)) + theme_bw()
+IA_core_cropped <- IA_core_plot + theme(axis.title.y = element_blank(), axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(), axis.title.x = element_blank(),
+        axis.text.x = element_blank(), axis.ticks.x = element_blank(),
+        legend.position="none")
+
+# IIC core
+IIC_core_subset <- IIC.dds[IIC_core_locus_tags, ]
+IIC_core_DE_rld <- rlogTransformation(IIC_core_subset)
+IIC_core_mat <- assay(IIC_core_DE_rld)
+IIC_core_mat <- IIC_core_mat - rowMeans(IIC_core_mat)
+IIC_core_df <- as.data.frame(IIC_core_mat) %>% 
+  rownames_to_column(var="locus_tag")
+# melted for heatmap
+IIC_core_melted <- melt(IIC_core_df, id.vars="locus_tag")
+IIC_core_melted$locus_tag <- factor(IIC_core_melted$locus_tag, levels=c(IIC_core_locus_tags))
+IIC_core_plot <- ggplot(IIC_core_melted, aes(x=variable, y=fct_rev(locus_tag), fill=value)) + geom_tile(color="white") + scale_fill_viridis(option="viridis", alpha=1, begin=0, end=1, direction=1, limits=c(-2.2,3), breaks=c(-2,-1,0,1,2,3)) + theme_bw()
+IIC_core_cropped <- IIC_core_plot + theme(axis.title.y = element_blank(), axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(), axis.title.x = element_blank(),
+        axis.text.x = element_blank(), axis.ticks.x = element_blank(),
+        legend.position="none")
+
+# save pretty and cropped plots
+ggsave("figures/IA-core-heatmap.png", IA_core_plot, width=10, height=14, units=c("cm"))
+ggsave("figures/IIC-core-heatmap.png", IIC_core_plot, width=10, height=14, units=c("cm"))
+ggsave("figures/IA-core-heatmap-cropped.png", IA_core_cropped, width=4, height=10, units=c("cm"))
+ggsave("figures/IIC-core-heatmap-cropped.png", IIC_core_cropped, width=4, height=10, units=c("cm"))
