@@ -2,6 +2,10 @@ library(tximport)
 library(tximportData)
 library(tidyverse)
 library(reshape2)
+library(data.table)
+library(formattable)
+library(htmltools)
+library(webshot)
 
 # Control experiments
 dir <- "/Users/emcdaniel/Desktop/McMahon-Lab/EBPR-Projects/R3R4/results/transcriptomic_data"
@@ -37,6 +41,41 @@ sumCounts$Aerobic = (sumCounts$`EBPR-Control-1240` + sumCounts$`EBPR-Control-131
 cycles <- sumCounts %>% select(Group.1, Aerobic, Anaerobic)
 colnames(cycles) <- c("Bin", "A", "N")
 cycles.m <- melt(cycles, id.vars="Bin", measure.vars=c("A", "N"))
+
+colnames(sumCounts) <- c("Clade Genome", "Anaerobic-10:45", "Anaerobic-11:16", "Anaerobic-11:55", "Aerobic-12:40", "Aerobic-13:15", "Aerobic-13:55", "Aerobic-14:55", "Total Reads Mapped", "Average Anaerobic", "Average Aerobic")
+
+sumCounts[1,1] <- c("IIA-UW5")
+sumCounts[2,1] <- c("IIC-UW6")
+sumCounts[3,1] <- c("IA-UW4")
+sumCounts[4,1] <- c("IIF-UW7")
+
+sumCounts[,2:11] <- round(sumCounts[,2:11], digits = 0)
+sumTable <- formattable(sumCounts)
+
+export_formattable <- function(f, file, width = "100%", height = NULL,
+                               background = "white", delay = 0.2)
+{
+  w <- as.htmlwidget(f, width = width, height = height)
+  path <- html_print(w, background = background, viewer = NULL)
+  url <- paste0("file:///", gsub("\\\\", "/", normalizePath(path)))
+  webshot(url,
+          file = file,
+          selector = ".formattable_widget",
+          delay = delay)
+}
+
+export_formattable(sumTable, "figures/R3R4-counts-table.pdf")
+
+sumRaw[1,1] <- c("IIA-UW5")
+sumRaw[2,1] <- c("IIC-UW6")
+sumRaw[4,1] <- c("IA-UW4")
+sumRaw[3,1] <- c("IIF-UW7")
+sumRaw[,2:9] <- round(sumRaw[,2:9], digits = 0)
+
+colnames(sumRaw) <- c("Clade Genome", "Anaerobic-10:45", "Anaerobic-11:16", "Anaerobic-11:55", "Aerobic-12:40", "Aerobic-13:15", "Aerobic-13:55", "Aerobic-14:55", "Total Reads Mapped")
+
+R3R4_raw_table<- formattable(sumRaw)
+export_formattable(R3R4_raw_table, "figures/R3R4-raw-counts-table.pdf")
 
 R3R4_expression <- ggplot(cycles.m, aes(x=reorder(Bin,value), y=value, fill=variable)) + geom_col(width=0.5, position="dodge") + scale_y_log10(limits=c(1,1e7), expand=c(0,0)) + coord_flip() + scale_fill_manual(values=c("grey70", "grey30")) + theme_classic()
 
