@@ -52,3 +52,5 @@ blast_pid$ref2 <- factor(blast_pid$ref2, levels=c(locus_order))
 ppk_heatmap <- blast_pid %>% ggplot(aes(x=ref1, y=ref2, fill=PID)) + geom_raster() + scale_fill_viridis(option="magma") + theme(axis.text.x= element_text(angle=85, hjust=1))
 
 ggsave("figures/ppk_blast_PID_heatmap.png", ppk_heatmap, width=20, height=15, units=c("cm"))
+
+write.csv(blast_pid, "results/ppk1_tree/hits/acc-pairwise-ppk1-blast-pid.csv", quote=FALSE, row.names = FALSE)

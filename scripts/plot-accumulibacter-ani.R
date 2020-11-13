@@ -53,3 +53,4 @@ ani_heatmap <- keep %>% ggplot(aes(x=bin1, y=bin2, fill=ANI)) + geom_raster() + 
 ani_heatmap
 ggsave(filename="figures/accumulibacter-ani.png", plot=ani_heatmap, width=20, height=15, units=c('cm'))
 
+write.csv(keep, "results/accumulibacter-pairwise-gANI.csv", quote=FALSE, row.names = FALSE)
