@@ -1,34 +1,34 @@
-﻿genome,clade,name,code
-2687453699,IA,Candidatus Accumulibacter UW3,UW3
-GCA_0005850751,IA,Candidatus Accumulibacter sp BA-93,BA-93
-GCA_0024554351,IA,Candidatus Accumulibacter phosphatis UBA6658,UBA6658
-GCA_0094678551,IA,Candidatus Accumulibacter phosphatis CANDO_1,CANDO_1
-spades-bin32,IA,Candidatus Accumulibacter UW4,UW4
-GCA_0005850551,IB,Candidatus Accumulibacter sp BA-92,BA-92
-GCA_0009874451,IB,Candidatus Accumulibacter phosphatis HKU1,HKU1
-GCA_0023522651,IB,Candidatus Accumulibacter phosphatis UBA2783,UBA2783
-GCA_0033322651,IC,Candidatus Accumulibacter phosphatis UW-LDO,UW-LDO
-2767802316,IIA,Candidatus Accumulibacter UW5,UW5
-GCA_0000241651,IIA,Candidatus Accumulibacter phosphatis UW1,UW1
-2767802455,IIC,Candidatus Accumulibacter UW6,UW6
-GCA_0005849552,IIC,Candidatus Accumulibacter sp SK-01,SK-01
-GCA_0005849752,IIC,Candidatus Accumulibacter sp SK-02,SK-02
-GCA_0005850352,IIC,Candidatus Accumulibacter sp BA-91,BA-91
-GCA_0009873951,IIC,Candidatus Accumulibacter phosphatis HKU2,HKU2
-GCA_0024254051,IIC,Candidatus Accumulibacter phosphatis UBA5574,UBA5574
-GCA_0058895751,IIC,Candidatus Accumulibacter phosphatis Bin19,BIN19
-GCA_0005849951,IIF,Candidatus Accumulibacter sp SK-11,SK-11
-GCA_0005850151,IIF,Candidatus Accumulibacter sp SK-12,SK-12
-GCA_0005850951,IIF,Candidatus Accumulibacter sp BA-94,BA-94
-GCA_0023450251,IIF,Candidatus Accumulibacter phosphatis UBA2327,UBA2327
-GCA_0023452851,IIF,Candidatus Accumulibacter phosphatis UBA2315,UBA2315
-GCA_0024338451,IIF,Candidatus Accumulibacter phosphatis UBA6585,UBA6585
-GCA_0034876851,IIF,Candidatus Accumulibacter sp UBA8770,UBA8770
-GCA_0035356351,IIF,Candidatus Accumulibacter sp UBA11070,UBA11070
-GCA_0035422351,IIF,Candidatus Accumulibacter sp UBA9001,UBA9001
-GCA_0055240451,IIF,Candidatus Accumulibacter sp SCELSE-1,SCELSE-1
-Reactor4-bin4,IIF,Candidatus Accumulibacter UW7,UW7
-GCA_0018977451,NA,Candidatus Accumulibacter sp 66-26,66-26
-GCA_0023047851,NA,Candidatus Accumulibacter sp UBA704,UBA704
-GCA_9000899551,NA,Candidatus Accumulibacter aalborgensis,UN
-GCA_0035384951,un,Candidatus Accumulibacter sp UBA11064,UBA11064
+﻿genome,Bioproject,name,code,completion,contamination,size_Mbp,contigs,GC_content,clade,Reference
+2687453699,NA (IMG),Candidatus Accumulibacter UW3,UW3,99.94,0.03,4329894,110,63.9,IA,Flowers et al. 2013 ISMEJ
+GCA_000585075.1,PRJNA236439,Candidatus Accumulibacter sp BA-93,BA-93,100,0.03,4626262,168,63.8,IA,Skennerton et al. 2015 Env. Micro
+GCA_002455435.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA6658,UBA6658,99.08,0,4184348,72,64.2,IA,Parks et al. 2017 Nat Micro.
+GCA_009467855.1,PRJNA386410,Candidatus Accumulibacter phosphatis CANDO_1,CANDO_1,91.43,0.28,3587117,437,64.1,IA,Gao et al. 2019 Water Res.
+UW4,PRJNA668760,Candidatus Accumulibacter UW4,UW4,92.9,3.37,4288117,358,64,IA,Current study
+GCA_000585055.1,PRJNA236438,Candidatus Accumulibacter sp BA-92,BA-92,93.33,1.49,4947936,583,62.9,IB,Skennerton et al. 2015 Env. Micro
+GCA_000987445.1,PRJNA238420,Candidatus Accumulibacter phosphatis HKU1,HKU1,90.06,2.54,3625256,824,63.9,IB,Mao et al. 2017 Env. Sci. Tech.
+GCA_002352265.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA2783,UBA2783,98.12,8.33,5266771,198,63,IB,Parks et al. 2017 Nat Micro.
+GCA_003332265.1,PRJNA322674,Candidatus Accumulibacter phosphatis UW-LDO,UW-LDO,95.24,0.7,4701482,187,62.5,IC,Camejo et al. 2019 mSystems
+GCA_000024165.1,PRJNA29435,Candidatus Accumulibacter phosphatis UW1,UW1,99.84,0.24,5306133,4,64,IIA,Garcia-Martin et al. 2006 Nat. Biotech.
+UW5,PRJNA668760,Candidatus Accumulibacter UW5,UW5,98.99,5.24,4882959,68,64.3,IIA,Current study
+GCA_000584955.2,PRJNA231877,Candidatus Accumulibacter sp SK-01,SK-01,93.73,1.19,4561076,779,61.7,IIC,Skennerton et al. 2015 Env. Micro
+GCA_000584975.2,PRJNA236434,Candidatus Accumulibacter sp SK-02,SK-02,97.62,1.59,4359420,165,61.3,IIC,Skennerton et al. 2015 Env. Micro
+GCA_000585035.2,PRJNA236437,Candidatus Accumulibacter sp BA-91,BA-91,81.76,3.15,4322820,1218,61.9,IIC,Skennerton et al. 2015 Env. Micro
+GCA_000987395.1,PRJNA245054,Candidatus Accumulibacter phosphatis HKU2,HKU2,92.29,2.86,4262673,370,61.1,IIC,Mao et al. 2017 Env. Sci. Tech.
+GCA_002425405.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA5574,UBA5574,93.65,0.24,4283242,326,62,IIC,Parks et al. 2017 Nat Micro.
+GCA_005889575.1,PRJNA534415,Candidatus Accumulibacter phosphatis Bin19,BIN19,98.51,1.94,4887416,247,61.2,IIC,Kotlyarov et al. 2020 Microbiology
+UW6,PRJNA668760,Candidatus Accumulibacter UW6,UW6,98.57,2.46,5179050,1,61.1,IIC,Current study
+GCA_000584995.1,PRJNA236435,Candidatus Accumulibacter sp SK-11,SK-11,76.78,0.06,4700180,1411,65.5,IIF,Skennerton et al. 2015 Env. Micro
+GCA_000585015.1,PRJNA236436,Candidatus Accumulibacter sp SK-12,SK-12,92.6,0.05,4412715,331,66.3,IIF,Skennerton et al. 2015 Env. Micro
+GCA_000585095.1,PRJNA236440,Candidatus Accumulibacter sp BA-94,BA-94,79.35,8.19,3097332,935,64.9,IIF,Skennerton et al. 2015 Env. Micro
+GCA_002345025.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA2327,UBA2327,92.43,0.29,4431027,325,65.8,IIF,Parks et al. 2017 Nat Micro.
+GCA_002345285.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA2315,UBA2315,94.59,0.86,4244559,301,66.2,IIF,Parks et al. 2017 Nat Micro.
+GCA_002433845.1,PRJNA348753,Candidatus Accumulibacter phosphatis UBA6585,UBA6585,96.51,0.15,4555925,442,66.3,IIF,Parks et al. 2017 Nat Micro.
+GCA_003487685.1,PRJNA348753,Candidatus Accumulibacter sp UBA8770,UBA8770,71.83,0.48,4010561,1184,65.7,IIF,Parks et al. 2017 Nat Micro.
+GCA_003535635.1,PRJNA348753,Candidatus Accumulibacter sp UBA11070,UBA11070,65.42,0.74,3516715,1073,65.2,IIF,Parks et al. 2017 Nat Micro.
+GCA_003542235.1,PRJNA348753,Candidatus Accumulibacter sp UBA9001,UBA9001,51.72,0,2581832,828,65.8,IIF,Parks et al. 2017 Nat Micro.
+GCA_005524045.1,PRJNA532338,Candidatus Accumulibacter sp SCELSE-1,SCELSE-1,95.24,0.6,4456818,253,66.1,IIF,Qiu et al. 2020 Env. Sci. Tech.
+UW7,PRJNA668760,Candidatus Accumulibacter UW7,UW7,98.97,3.04,4870756,102,66.3,IIF,Current study
+GCA_001897745.1,PRJNA279279,Candidatus Accumulibacter sp 66-26,66-26,99.76,0.03,4385439,51,66.1,unknown,Kantor et al. 2015 Env. Micro
+GCA_002304785.1,PRJNA348753,Candidatus Accumulibacter sp UBA704,UBA704,93.74,3.12,3840202,338,60.8,unknown,Parks et al. 2017 Nat Micro.
+GCA_003538495.1,PRJNA348753,Candidatus Accumulibacter sp UBA11064,UBA11064,82.45,6.16,4996113,1232,64.1,unknown,Parks et al. 2017 Nat Micro.
+GCA_900089955.1,PRJEB13978,Candidatus Accumulibacter aalborgensis,UN,99.52,0.06,4707069,181,62.3,unknown,Albertsen et al. 2016 Frontiers Micro.

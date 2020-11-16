@@ -1,3 +1,7 @@
+*.fasta
+*.ffn
+*.fna
+*.faa
 results/pangenomics/
 ref_MAGs/
 .ipynb_checkpoints/
