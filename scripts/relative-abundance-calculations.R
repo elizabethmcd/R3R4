@@ -37,6 +37,8 @@ acc_metadata[1,1] <- c("IIA-UW5")
 acc_metadata[2,1] <- c("IIC-UW6")
 acc_metadata[3,1] <- c("IIF-UW7")
 acc_metadata[4,1] <- c("IA-UW4")
+
+write.csv(acc_metadata, "metadata/R3R4-genomes-metadata.csv", quote=FALSE, row.names = FALSE)
 R1R2_genomes <- formattable(acc_metadata)
 
 export_formattable <- function(f, file, width = "60%", height = NULL,
